@@ -1,0 +1,1154 @@
+,Title,Location,City,State,Zip,Country,Qualifications,Skills,Responsibilities,Education,Requirement,FullDescriptions
+0,Senior Machine Learning Engineer,"Somerville, MA",Somerville,MA,None Found,None Found,None Found,None Found,"
+Work with software development team to manage data pipeline
+Develop and deploy new methods around survival modeling and anomaly detection
+Design and implement data warehouses, real-time ETL, and batch processing data to support modeling needs
+Build and maintain internal data processing and visualization tools
+",None Found,None Found,"In this position, you will help build out data infrastructure within Data Science. The tools you build impact model development, deployment, model performance reporting, and data monitoring. You will work closely with the founders and field engineering to deliver a cutting-edge solution to our industrial clients.
+
+As a senior data scientist on the team, you are expected to drive our machine learning strategy and overall development. We are actively researching and deploying novel machine learning methods. Part of the work includes publishing certain work in leading ML journals and presenting.
+
+Responsibilities:
+
+Work with software development team to manage data pipeline
+Develop and deploy new methods around survival modeling and anomaly detection
+Design and implement data warehouses, real-time ETL, and batch processing data to support modeling needs
+Build and maintain internal data processing and visualization tools
+
+Desired skills:
+
+5+ years of data science work experience
+Masters or preferably PhD in relevant technical field
+Deep experience with Python
+Experience shipping products and features early/often
+Experience working with very large datasets, especially using Dask and Kinesis
+
+Bonus Points:
+
+Background in time series analysis, hidden Markov models, Gaussian processes, and variational inference.
+Familiarity with node.js and both front-end/back-end JavaScript.
+
+Benefits
+Work with the founding team to solve some of the hardest problems in heavy industry (using lots of unique data!). We work with energy companies and utilities around the world to increase infrastructure reliability, reduce costs, and improve safety."
+1,Machine Learning Engineer for Autonomous Systems,"Cambridge, MA",Cambridge,MA,None Found,None Found,"
+MS in Computer Science or related field, or BS with significant experience
+Software development experience (Python/C++)
+Broad knowledge of machine learning, particularly deep learning
+Competency with a modern deep learning framework (e.g. PyTorch or TensorFlow)
+Good written and spoken communication skills
+Applicants selected for this position will be required to obtain and maintain a U.S. Security Clearance.","
+MS in Computer Science or related field, or BS with significant experience
+Software development experience (Python/C++)
+Broad knowledge of machine learning, particularly deep learning
+Competency with a modern deep learning framework (e.g. PyTorch or TensorFlow)
+Good written and spoken communication skills
+Applicants selected for this position will be required to obtain and maintain a U.S. Security Clearance.","
+MS in Computer Science or related field, or BS with significant experience
+Software development experience (Python/C++)
+Broad knowledge of machine learning, particularly deep learning
+Competency with a modern deep learning framework (e.g. PyTorch or TensorFlow)
+Good written and spoken communication skills
+Applicants selected for this position will be required to obtain and maintain a U.S. Security Clearance.",None Found,None Found,"Overview
+Draper is an independent, nonprofit research and development company headquartered in Cambridge, MA. The 1,800 employees of Draper tackle important national challenges with a promise of delivering successful and usable solutions. From military defense and space exploration to biomedical engineering, lives often depend on the solutions we provide. Our multidisciplinary teams of engineers and scientists work in a collaborative environment that inspires the cross-fertilization of ideas necessary for true innovation. For more information about Draper, visit www.draper.com.
+
+Our work is very important to us, but so is our life outside of work. Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities. If this specific job opportunity and the chance to work at a nationally renowned R&D innovation company appeals to you, apply now www.draper.com/careers.
+
+Equal Employment Opportunity
+Draper is committed to creating a diverse environment and is proud to be an affirmative action and equal opportunity employer. We understand the value of diversity and its impact on a high-performance culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information.
+
+Draper is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation, please contact hr@draper.com.
+Responsibilities
+Draper's Perception and Autonomy Group seeks a machine learning engineer to help research and create advanced autonomous systems, including vehicles and robots, able to operate in complex environments such as underwater, air, and space. The candidate should have expertise in deep learning for computer vision and be able to work effectively in a multi-disciplinary team. The candidate should be capable of reading and understanding research papers, implementing state-of-the-art algorithms, and dealing with unique technical challenges.
+Qualifications
+Required Skills and Qualifications:
+MS in Computer Science or related field, or BS with significant experience
+Software development experience (Python/C++)
+Broad knowledge of machine learning, particularly deep learning
+Competency with a modern deep learning framework (e.g. PyTorch or TensorFlow)
+Good written and spoken communication skills
+Applicants selected for this position will be required to obtain and maintain a U.S. Security Clearance.
+
+Desired Skills and Qualifications:
+Robotics experience (with tools such as ROS)
+Broad knowledge in computer vision
+Experience with Linux and embedded systems"
+2,Senior Machine Learning Engineer,"Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"As a Senior Machine Learning Engineer at Integral you will design and scale solutions to cutting edge analytical problems that arise from an extremely diverse set of biotech data - including computational chemistry, computational biology, medical records, quantitative finance, text/social, video/image analysis, mobile/digital patient engagement, and others. Successful candidates must be committed to working with a diverse set of scientists, entrepreneurs, and domain experts in ways that cut across traditional industry boundaries in a fast-paced startup environment.
+
+Successful candidates are expected to be well-versed in good software engineering methodologies and committed to working with a diverse set of scientists, entrepreneurs, and domain experts in ways that cut across traditional industry boundaries in a fast-paced startup environment.
+
+You'll do…
+
+
+Work with data scientists, researchers, product teams, and other domain experts to build highly scalable engineering solutions to complex data-oriented problems. 
+Design, develop, test, maintain, and improve an integrated codebase of advanced engineering products. 
+
+You Bring…
+
+
+BS or MS in Computer Science or related technical field 
+Extensive software engineering experience across multiple languages such as Python, Java, C/C++, R, Scala 
+Extensive experience with standard statistical analysis and machine learning techniques 
+Experience with popular analytical tools such as Pandas, Scikit-learn, Tensorflow, PyTorch, Jupyter, ggplot2, or SparkML 
+Strong analytical, problem-solving, and communication skills 
+
+You May Also Bring…
+
+
+Ph.D. in Computer Science or related technical field
+Deep knowledge of computer science concepts pertaining to algorithmic complexity and distributed/parallel computing
+Experience with scalable analysis tools and platforms such as Hadoop, Spark, AWS, or GCP 
+Experience with non-traditional database and knowledge representation architectures such as semantic graphs, NoSQL, etc.
+
+About Integral
+
+Integral Health, Inc. is a privately held, computational company with a proprietary clinical development and patient engagement platform. Integral Health was founded by Flagship Pioneering, an innovation enterprise that conceives, creates, resources, and grows first-in-category life sciences companies. Flagship Pioneering has created over 40 groundbreaking companies over the past fifteen years, all of which are pioneering novel and proprietary biological, industrial, and engineering approaches to solve major needs in human health and sustainability. These companies include Seres Therapeutics (NASDAQ: MCRB), Moderna (MRNA), Syros Pharmaceuticals (SYRS), Rubius Therapeutics (RUBY), Axcella Health, Evelo Biosciences (EVLO), and Indigo Agriculture."
+3,Machine Learning Engineer,"Somerville, MA",Somerville,MA,None Found,None Found,None Found,None Found,"
+Design and implement new distributed machine learning methods
+Implement data warehouses, real-time ETL, and batch processing data to support modeling needs
+Work with engineers to define and manage data sources
+Build and maintain internal data processing and visualization tools
+",None Found,None Found,"In this position, you will help build out data infrastructure and implement new machine learning methods to enhance Tagup's core competencies of anomaly detection and survival modelling. The tools you build will impact model development, deployment, model performance reporting, and data monitoring. You will work closely with the founders and field engineering to deliver a cutting-edge solution to our industrial clients.
+
+We welcome applicants just out of graduate programs; please feel free to include references to any academic articles and/or relevant open-source projects you have contributed to.
+
+Responsibilities:
+
+Design and implement new distributed machine learning methods
+Implement data warehouses, real-time ETL, and batch processing data to support modeling needs
+Work with engineers to define and manage data sources
+Build and maintain internal data processing and visualization tools
+
+Desired skills:
+
+3+ years of data science work and/or academic experience
+Deep experience with python
+Experience shipping products and features early/often
+Experience working with very large datasets, especially using Dask and Kinesis
+
+Bonus Points:
+
+Background in time series analysis, survival modelling, or anomaly detection.
+Experience working with hidden Markov models, Gaussian processes, and variational inference.
+Familiarity with node.js and both front-end/back-end JavaScript
+
+Benefits
+Work with the founding team to solve some of the hardest problems in heavy industry (using lots of unique data!). We work with energy companies and utilities around the world to increase infrastructure reliability, reduce costs, and improve safety."
+4,Machine Learning Engineer,"Cambridge, MA",Cambridge,MA,None Found,None Found,None Found,None Found,"
+Take the lead in projects involving AI and Machine Learning.
+Help design, implement, and analyze techniques in signal processing, computer vision, anomaly detection, early warning detection, human behavior prediction, and deep learning.
+Implement new state-of-the-art algorithms and ML models to support research and development goals.
+Work with real-world human data, such as behavioral, performance, physiological, and mental-state data.
+Collaborate with others in a dynamic and lean multidisciplinary team environment to accomplish research goals.
+Document your work. Represent your code graphically for strategy meetings.
+Perform other duties as assigned.
+",None Found,None Found,"Brain Power is actively seeking a highly skilled, dedicated, and self-motivated Machine Learning Engineer who is ready to contribute to our mission in meaningful ways and make a difference in the lives of people with brain-based challenges.
+
+As a member of our team, you will apply your technical skills to creating next-generation therapies for brain-related conditions such as autism, ADHD, traumatic brain injury, and/or anxiety. You will engage with signal processing, computer vision, and machine/deep learning; and implement new state-of-the-art algorithms and models to support research-and-development goals. You will have direct access to data collected from clinical study populations, schools, and end users.
+
+Responsibilities:
+
+Take the lead in projects involving AI and Machine Learning.
+Help design, implement, and analyze techniques in signal processing, computer vision, anomaly detection, early warning detection, human behavior prediction, and deep learning.
+Implement new state-of-the-art algorithms and ML models to support research and development goals.
+Work with real-world human data, such as behavioral, performance, physiological, and mental-state data.
+Collaborate with others in a dynamic and lean multidisciplinary team environment to accomplish research goals.
+Document your work. Represent your code graphically for strategy meetings.
+Perform other duties as assigned.
+Required Background:
+
+Passion!
+Master’s, PhD, or advanced undergrad in Engineering, Computer Science, Applied Mathematics, Biostatistics, or related field.
+Demonstrated state-of-the-art knowledge of one or more specialization topics such as:
+Signal processing/feature extraction — ideally with experience in clinical physiology (EEG, EMG, etc.), human kinematics, and/or interpretation of mobile accelerometry data.
+Image processing/computer vision — particularly applications related to analysis of facial features (detection, recognition, affect classification), body motion tracking and movement classification, and/or real-time image effect processing (dynamic morphing/blending texture maps, “face replacement”).
+Health informatics/biostatistics — particularly “big data” analysis of epidemiology or clinical/health records, or analysis of large scale non-clinical, public datasets to understand health-related trends.
+Experience using contemporary software and/or hardware tools for algorithm and/or system development for signal processing, image analysis, and/or machine learning.
+Demonstrated initiative and interpersonal skills and ability to work in a collaborative, multidisciplinary team environment.
+Startup mentality, and ability to thrive in a small team
+Preferred Background:
+
+3+ years experience in one or more of the following: Java, Android, Unity, C, C++, or C#.
+4+ years experience in one or more of the following: Matlab, R, Python, Tensor Flow.
+Experience applying algorithms to operate in real-time on a mobile/wearable device OS.
+Experience with cloud computing resources and data analysis techniques (e.g. Hadoop, MapReduce, Spark).
+Experience in the AR/VR/xR industry
+Experience in the assistive technology industry.
+Experience working with people with ASD.
+Brain Power is an equal opportunity employer."
+5,Managing Data Scientist / ML Engineer,"Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"We’re looking for a Data Science lead that relishes understanding the latest advanced analytics and machine learning then converting those technologies into effective solutions that help to measurably build a client’s business. We are looking for someone who’s eager to roll up their sleeves with clients then take ideas and run with them.
+
+The Data Science & AI group at PA Consulting is your dream community. As part of the fastest growing innovation practice within PA Consulting, you will work with the latest advanced analytics, machine learning, and big data technologies to generate actionable insights from data and develop innovative data products. We focus on Life Science, Healthcare, Energy & Utilities and CPG sectors and work with various data sets, from social media to public health data. Our domain focus is broad and covers everything from computer vision and NLP, recommender engines, classification and clustering algorithms, linear programming and optimization.
+
+Job Requirements7+ years professional work experience as a data scientist or machine learning engineerStrong interpersonal and team-building skillsExemplary communication skills, including written, verbal and presentationThe ability to successfully manage client expectations and relationshipsEntrepreneurial, with creative thinking skills
+Role & Responsibilities:
+Work in collaborative environment with global teams to drive client engagements in PA Consulting key industries: Life Science, Healthcare, E&U, CPGProvide data-driven recommendations to clients by clearly articulating complex technical concepts through generation and delivery of presentations.Analyze and model both structured and unstructured data from a number of distributed client and publicly available sources.Quickly understand client needs, develop solutions, and articulate findings to client executives.Perform exploratory data analysis and feature engineering to both inform the development of statistical models and generate improve model performance and flexibility.Design and build scalable machine learning models to meet the needs of given client engagement.
+Preferred:
+Experience working with database systems (e.g. SQL, NoSQL, MongoDB, Postgres, ect.)Experience working with big data distributed programming languages, and ecosystems (e.g. S3, EC2, Hadoop/MapReduce, Pig, Hive, Spark, etc)Experience building scalable data pipelines and with data engineering/ feature engineering.Webscraping leveraging Beautifulsoup, Selenium, Scrapy, etcExperience with front end (UI), HTML5, JavaScript, CSS, R Shiny, TableauExcellent team-oriented and interpersonal skills.
+
+About PA Consulting Group
+About PA
+
+Bringing Ingenuity to Life: We’re an innovation and transformation consultancy that believes in the power of ingenuity to build a positive-human future in a technology-driven world. Our diverse teams of experts combine innovative thinking with breakthrough-technologies to progress further, faster.
+
+With a global network of FTSE 100 and Fortune 500 clients, we’ll offer you unrivalled opportunities for growth and the freedom to excel. Combining strategies, technologies and innovation, we turn complexity to opportunity and deliver enduring results, enabling you to build a lasting career.
+
+Isn’t it time you joined us?
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. VEVRAA Federal Contractor
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. VEVRAA Federal Contractor"
+6,Machine Learning Engineer,"Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Boston, MA
+About our team and culture
+We are a small and highly-skilled team that’s passionate about AI and believes this domain will be the most transformative technology change in this generation. Our culture is transparent, honest, and direct—you’ll always know what’s going on and why it furthers our mission.
+Our CEO and cofounder, Dan Abdinoor, is a repeat founder and has built successful businesses throughout more than 10 years in Boston startups such as HubSpot, BabbaCo, Wyth, and TechStars. Jameson Toole, CTO and cofounder, brings years of AI and machine learning expertise with a PhD from MIT and several degrees from the University of Michigan.
+If you’re excited about making a big impact on the future of technology, we’d like to hear from you today.
+Fritz is creating a software platform to bring apps and devices powered by Artificial Intelligence to users around the world. Our customers teach their apps how to see, hear, sense, and think using our platform. Current apps range from curing crop diseases in Africa to creating augmented reality photos featuring your pet and everything in-between, all made possible by Fritz.
+Machine Learning Engineer Overview
+We are looking for a Machine Learning Engineer on a full-time basis. You will collect, train, and improve new models to deliver these experiences for our customers.
+Technologies
+Keras + TensorFlow (Python)
+Apple Core ML
+TensorFlow Mobile
+Jupyter Notebooks + Google Colab
+Google Cloud Platform
+About you
+Great attitude, enthusiastic learner, excited to grow.
+Collaborative and comfortable in a team-oriented environment.
+Excited about making big contributions, seeing measurable results, and being recognized and appreciated for your efforts."
+7,Machine Learning Engineer- SS&C Technologies,"Boston, MA 02108",Boston,MA,02108,None Found,None Found,None Found,None Found,None Found,None Found,"SS&C is a global provider of investment and financial services and software for the financial services and healthcare industries. Named to Fortune 1000 list as top U.S. company based on revenue, SS&C is headquartered in Windsor, Connecticut and has 20,000+ employees in over 90 offices in 35 countries. Some 18,000 financial services and healthcare organizations, from the world's largest institutions to local firms, manage and account for their investments using SS&C's products and services.
+
+This position will be based at 50 Milk Street, Boston, MA 02109.
+
+Job Description:
+Overview and Scope
+The Senior Software Engineering role will require strong experience in hands-on development and delivery of distributed, multi-tiered, enterprise-level systems. We are seeking a senior level Python resource with experience in architecture, design, performance and scalability in an enterprise environment.
+
+This position will work as part of a larger development team focused on driving innovation across the whole SS&C Institutional & Investment Management product. The Engineer will write top notch code in multi-tiered multi-thread and containerized environment, attend sprint meetings with team members to define and analyze development requirements and provide work breakdown and estimates of work.
+
+Main responsibilities of the job
+
+Code software changes based on design specifications. Proactively resolve issues in specification that will lead to quality, system performance, or architectural issues in product.
+Perform thorough unit testing on all relevant platforms as is appropriate for the particular task/project.
+Regularly inform manager on progress of project, identifying risks early in the process.
+Collaborate with Business Analysts and Product Designers to ensure understanding of business requirements.
+Demonstrate self-directed and proactive approach to tackling problems and leveraging resources.
+
+Required Qualifications
+
+3+ years of experience with Machine Learning and Artificial Intelligence technologies – TensorFlow, Elastic (ELK), DeepLearn, Accord.
+Strong understanding of Machine Learning design- Supervised and Unsupervised learning patterns, Neural Networks, Pattern Recognition, Prediction, Anomaly, Scoring.
+4+ years with SQL and NOSQL database technologies – SQL Server, MongoDB, PostgreSQL with ETL, SSIS
+Expert level experience with Python or related scripting language(s).
+Comprehensive knowledge and implementation of SaaS architecture with scalability and high-performance data processing.
+Excellent verbal and written communication skills, strong interpersonal and presentation skills.
+Experience with design and implementation best practices for data modeling.
+
+Educational Qualifications
+
+Four-year college degree in relevant field. Computer Science or Engineering degree a plus.
+
+#LI-RM1
+
+Unless explicitly requested or approached by SS&C Technologies, Inc. or any of its affiliated companies, the company will not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services.
+
+SS&C offers excellent benefits including health, dental, 401k plan, tuition and professional development reimbursement plan.
+
+SS&C Technologies is an Equal Employment Opportunity employer and does not discriminate against any applicant for employment or employee on the basis of race, color, religious creed, gender, age, marital status, sexual orientation, national origin, disability, veteran status or any other classification protected by applicable discrimination laws."
+8,Principal Machine Learning Engineer,"Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"As a Principle Machine Learning Engineer at Integral you will design and scale solutions to cutting edge analytical problems that arise from an extremely diverse set of biotech data - including computational chemistry, computational biology, medical records, quantitative finance, text/social, video/image analysis, mobile/digital patient engagement, and others. Successful candidates must be committed to working with a diverse set of scientists, entrepreneurs, and domain experts in ways that cut across traditional industry boundaries in a fast-paced startup environment.
+
+Successful candidates are expected to be well-versed in good software engineering methodologies and committed to working with a diverse set of scientists, entrepreneurs, and domain experts in ways that cut across traditional industry boundaries in a fast-paced startup environment.
+
+You'll do…
+
+
+Work with data scientists, researchers, product teams, and other domain experts to build highly scalable engineering solutions to complex data-oriented problems. 
+Design, develop, test, maintain, and improve an integrated codebase of advanced engineering products. 
+
+You Bring…
+
+
+BS or MS in Computer Science or related technical field 
+Extensive software engineering experience across multiple languages such as Python, Java, C/C++, R, Scala 
+Extensive experience with standard statistical analysis and machine learning techniques 
+Experience with popular analytical tools such as Pandas, Scikit-learn, Tensorflow, PyTorch, Jupyter, ggplot2, or SparkML 
+Strong analytical, problem-solving, and communication skills 
+
+You May Also Bring…
+
+
+Ph.D. in Computer Science or related technical field
+Deep knowledge of computer science concepts pertaining to algorithmic complexity and distributed/parallel computing
+Experience with scalable analysis tools and platforms such as Hadoop, Spark, AWS, or GCP 
+Experience with non-traditional database and knowledge representation architectures such as semantic graphs, NoSQL, etc.
+
+About Integral
+
+Integral Health, Inc. is a privately held, computational company with a proprietary clinical development and patient engagement platform. Integral Health was founded by Flagship Pioneering, an innovation enterprise that conceives, creates, resources, and grows first-in-category life sciences companies. Flagship Pioneering has created over 40 groundbreaking companies over the past fifteen years, all of which are pioneering novel and proprietary biological, industrial, and engineering approaches to solve major needs in human health and sustainability. These companies include Seres Therapeutics (NASDAQ: MCRB), Moderna (MRNA), Syros Pharmaceuticals (SYRS), Rubius Therapeutics (RUBY), Axcella Health, Evelo Biosciences (EVLO), and Indigo Agriculture."
+9,Machine Learning Engineer,"Cambridge, MA 02142",Cambridge,MA,02142,None Found,"Undergraduate degree in Computer Science, or technical field (Physics, Math, etc.)
+3-5 years designing and training models on large, complex and/or biased datasets.
+3-5 years experience across deep learning frameworks like Keras, TensorFlow or PyTorch and machine learning packages (sklearn, etc.)
+Fluent with data modeling, indexing, and ETL and cloud-based pipelines (substantial expertise with Redshift/BigQuery, Apache Beam, Spark or equivalent)
+Fluent in Python (preferred) or Java
+",None Found,None Found,None Found,None Found,"The life sciences are in the midst of a data revolution. Cheap and accurate genome sequencing is here, advanced imaging is routine, and clinical data is increasingly stored in electronic formats. These innovations — and the massive data sets they produce — have brought us to the threshold of a new era in medicine, one where the data sciences hold the potential to propel our understanding and treatment of human disease.
+As a result, The Broad Institute has created a machine learning initiative to drive innovation beginning with the world's leading killer, cardiovascular disease. We are building open-source software to derive insights from massive amounts of multimodal clinical and genomic (ECGs, MRIs, EHRs) data using deep learning architectures. Our aims include more than just predictive accuracy for the onset of disease - we will use our models to uncover new biology itself that can drive new therapeutics and treatment.
+The role:
+You will work on a small team of machine learning scientists, engineers and cardiovascular disease experts.
+You will identify the highest impact opportunities by whiteboarding solutions with the top genetic and clinical researchers in the world.
+You will conduct theoretical ML research with collaborators from MIT and Harvard and implement cutting edge methods for learning representations of cardiovascular health.
+You will collaborate regularly with MD/PhDs from across the life sciences to explore how to embed cardiac physiology into learning agents.
+You will hunt for new ways to accelerate therapeutic development with industry collaborators.
+You will deploy cloud-based software to a diverse audience of researchers across the world.
+You will work with real patient genomic and clinical data to train and validate impact.
+Qualifications
+Undergraduate degree in Computer Science, or technical field (Physics, Math, etc.)
+3-5 years designing and training models on large, complex and/or biased datasets.
+3-5 years experience across deep learning frameworks like Keras, TensorFlow or PyTorch and machine learning packages (sklearn, etc.)
+Fluent with data modeling, indexing, and ETL and cloud-based pipelines (substantial expertise with Redshift/BigQuery, Apache Beam, Spark or equivalent)
+Fluent in Python (preferred) or Java
+#LI-POST
+EOE / Minorities / Females / Protected Veterans / Disabilities
+EOE / Minorities / Females / Protected Veterans / Disabilities"
+10,Senior Machine Learning Engineer,"Chelmsford, MA 01824",Chelmsford,MA,01824,None Found,None Found,None Found,None Found,None Found,None Found,"Brooks Automation, Inc.
+At Brooks, new ideas, new technologies and new ways of thinking are driving our future. Our customer focused culture encourages employees to embrace innovation and challenge the status quo with novel thinking and collaborative work relationships.
+
+
+All we accomplish is grounded in our core values of Customer Focus, Achievement, Accountability, Teamwork, Employee Value and Integrity
+Job Title
+Senior Machine Learning Engineer
+Job Description
+Responsible for applying knowledge of Machine Learning into High Value Problems for Semiconductor Automation equipment. Supports identification and formulation of High Value Problems within the company across different disciplines. Interaction with Cross Functional Teams to identify existing data sinks in support of Data Mining and Analysis. Responsible for defining company’s common framework and tools to store and maintain raw and formatted data and databases for the purpose of Machine Learning applications. Expected to interact with Product Development Management to provide directions on embedding Machine Learning into the company’s products and roadmaps.
+Depending on level may function as a project leader with the resident responsibilities of proposals/project plan, schedules, work assignments, prime contact, technical presentations, cross functional issue resolution, etc. Expected to interact and make technical presentations to Senior Management and Cross Functional teams. Expected to keep up to date on technical advances in Artificial Intelligence/Machine Learning and related fields. Works toward predetermined long-range goals. Recognized as the internal authority in the discipline and related fields and is sought after as such. Applies advanced concepts and contributes to advancing company products and processes to achieve organizational objectives in a creative and effective manner. Is assigned to the highest level of unique and complex problems due to the extensive knowledge of advanced principles and techniques in the area of Artificial Intelligence/Machine Learning. Has significant latitude in the choice of methods, procedures and evaluation criteria to resolve technical and business issues along with implementation of recommendations. Erroneous decisions would normally result in a failure to reach goals crucial to organizational objectives.
+Required Skills:
+PhD degree preferred with 5+ year's industry experience in Artificial Intelligence/Machine Learning Data Mining, Data Base Frameworks and Tools (such as AWS, Azure), Training Algorithms and Machine Learning Development Tools (Tensor Flow, Amazon Sagemaker, Scikit-Learn).
+Expertise in utilization of Artificial Intelligence/Machine Learning in Industrial Automation for Adaptive Motion Control, Intelligent Fault Diagnostics and Predictive Maintenance.
+Proficient in Programming languages such as Python, C, C++ and C#.
+Ability to research patents and archival journals in multi-disciplinary fields and generate Intellectual Property aligned with company’s roadmaps. Proven record of archival journal publications, technical conferences and utility patents in areas associated with the job description and required skills.
+Ability to effectively plan, lead and collaborate with a cross functional team including Product Engineering, Quality, Manufacturing Engineering, Reliability Engineering, Marketing and Senior Management.
+Excellent communication and organization skills, team player, open minded, willing to mentor others.
+If any applicant is unable to complete an application or respond to a job opening because of a disability, please email at HR.Recruiting@brooks.com for assistance.
+Brooks Automation is an Equal Opportunity Employer. This company considers candidates regardless of race, color, age, religion, gender, sexual orientation, gender identity, national origin, disability or veteran status."
+11,"GAMMA - Associate Director, Machine Learning Engineering","Boston, MA 02109",Boston,MA,02109,None Found, Bachelor’s degree in computer science (or in a highly related area),None Found,None Found,None Found,None Found,"Location:
+Boston, Chicago, Los Angeles, New York, San Francisco, Seattle, Toronto, Washington, D.C.
+Geography:
+North America
+Capabilities:
+Big data & advanced analytics, Technology & digital
+Industries:
+Technology industries
+About Us
+Boston Consulting Group (BCG) is a global management consulting firm and the world’s leading advisor on business strategy. We partner with clients from the private, public, and not-for-profit sectors in all regions to identify their highest-value opportunities, address their most critical challenges, and transform their enterprises. Our customized approach combines deep insight into the dynamics of companies and markets with close collaboration at all levels of the client organization. This ensures that our clients achieve sustainable competitive advantage, build more capable organizations, and secure lasting results. Founded in 1963, BCG is a private company with more than 90 offices in 50 countries. For more information, please visit bcg.com
+Practice Area Profile
+BCG GAMMA combines innovative skills in computer science, artificial intelligence, statistics, and machine learning with deep industry expertise. The BCG GAMMA team is comprised of world-class data scientists and business consultants who specialize in the use of advanced analytics to get breakthrough business results. Our teams own the full analytics value-chain end to end: framing new business challenges, building fact-bases, designing innovative algorithms, creating scale through designing tools and apps, and training colleagues and clients in new solutions. Here at BCG GAMMA, you’ll have the chance to work with clients in every BCG region and every industry area. We are also a core member of a rapidly growing analytics enterprise at BCG - a constellation of teams focused on driving practical results for BCG clients by applying leading edge analytics approaches, data, and technology.
+Role Profile
+OVERVIEW OF GAMMA X:
+
+The Gamma Engineering team is building the next generation of analytics tools. With your help, Gamma Engineering will develop a platform that fuels BCG Gamma‘s global data and analytics offerings. Data scientists depend on easy to use interfaces to easily code, increase productivity, answer questions, and envision their results. Clients need to easily interact with our analytics applications to measure the success of their new analytics enabled organization or quickly make decisions based on what and how they see analytic output. Our clients will use our analytics solutions to derive insights around business trends. We “open the doors“ to data for our clients giving them fast and trusted options to search, frame, and share data. Gamma Engineering‘s goal is to help our clients understand what their data means and provide them the tools to share its narrative with various audiences.
+
+POSITION SUMMARY:
+
+BCG Gamma is seeking an Associate Director Machine Learning Engineer to join our engineering team. The ideal candidate will have industry experience working on a range of different machine learning disciplines, e.g. anomaly detection, payment fraud, fraud detection, search ranking, text/sentiment classification, spam detection and others. The position will involve taking these skills and applying them to some of the most exciting and massive data and analytics problems across multiple industries. We are looking for machine learning engineers to join the ML effort building ML-based systems, tools, and services that serve as infrastructure for our internal and external clients.
+As a strong software leader and an expert in building complex systems, you will be responsible for inventing how we use technology, machine learning, and data to enable the productivity of our clients. You will help envision, build, deploy and develop our next generation of data engines and tools which will help our clients fundamentally transform their business.
+You will be bridging the gap between business and engineering, and functioning with deep expertise in both worlds.
+
+
+BASIC JOB RESPONSIBILITIES:
+
+We are looking for an Associate Director Machine Learning Engineer who can bring bleeding edge machine learning models into production together with a highly multi-disciplinary team of scientist, engineers, partners, product managers and subject domain experts.
+Your Qualifications
+ Bachelor’s degree in computer science (or in a highly related area)
+ 9+ years of experience in algorithms, data structures, and object-oriented programming
+ Previous consulting experience and/or strong leadership positions
+ Good understanding of machine learning fundamentals and deep learning
+ Implementation experience in machine learning algorithms and applications
+ Management/team lead experience, experience working with global and remote teams
+ Experience guiding teams in addressing the technical and delivery challenges
+ Excellent communication skills
+
+TECHNOLOGIES: Strong programming skills in at least one object oriented programming language (Java, Scala, C++, Python, etc.)
+ Strong skills in parallel processing technologies and languages: Hadoop, Spark, Scala etc.
+ Experience with Python applied to machine learning (Pandas, Scikit-learn, Scipy, Numpy etc.)
+ Strong knowledge of machine learning techniques required (KNN, random forest, Bayesian statistics etc.)
+ Strong knowledge of machine learning techniques preferred (TensorFlow, Keras, PyTorch, Caffe, MxNet)
+ Cloud: AWS/GCP/Azure
+ DevOps: Kubernetes, Docker, CI/CD
+ Building REST API
+ Knowledge of relational database management: SQL, PostgreSQL, Microsoft SQL etc.
+ Knowledge of NoSQL databases (MongoDB, Neo4j, Redis etc.)
+ Unix-based command line & development tools
+
+
+WORK ENVIRONMENT: Fast-paced, intellectually intense, service-oriented environment Optimal locations are New York, Washington DC, Boston, Chicago, Seattle, Toronto, Montreal, San Francisco Expect time spent traveling
+
+Date Posted:
+21-Sep-2018
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E-Verify Employer."
+12,GAMMA - Senior Machine Learning Engineer,"Boston, MA 02109",Boston,MA,02109,None Found," 5 to 8 years of experience in algorithms, data structures, and object-oriented programming Good understanding of machine learning fundamentals and deep learning Implementation experience in machine learning algorithms and applications Strong programming skills in at least one object oriented programming language (Java, Scala, C++, Python, etc.) Fluency with at least one of the modern distributed ML frameworks such as TensorFlow, PyTorch,Caffe, MxNet Eager to learn new algorithms, new application areas and new tools. Excellent communication skills",None Found,None Found,None Found,None Found,"Location:
+Boston, Chicago, Los Angeles, Montreal, New York, San Francisco, Seattle, Toronto, Washington, D.C.
+Geography:
+North America
+Capabilities:
+Big data & advanced analytics, Technology & digital
+Industries:
+Technology industries
+About Us
+Boston Consulting Group (BCG) is a global management consulting firm and the world’s leading advisor on business strategy. We partner with clients from the private, public, and not-for-profit sectors in all regions to identify their highest-value opportunities, address their most critical challenges, and transform their enterprises. Our customized approach combines deep insight into the dynamics of companies and markets with close collaboration at all levels of the client organization. This ensures that our clients achieve sustainable competitive advantage, build more capable organizations, and secure lasting results. Founded in 1963, BCG is a private company with more than 90 offices in 50 countries. For more information, please visit bcg.com
+Practice Area Profile
+BCG GAMMA combines innovative skills in computer science, artificial intelligence, statistics, and machine learning with deep industry expertise. The BCG GAMMA team is comprised of world-class data scientists and business consultants who specialize in the use of advanced analytics to get breakthrough business results. Our teams own the full analytics value-chain end to end: framing new business challenges, building fact-bases, designing innovative algorithms, creating scale through designing tools and apps, and training colleagues and clients in new solutions. Here at BCG GAMMA, you’ll have the chance to work with clients in every BCG region and every industry area. We are also a core member of a rapidly growing analytics enterprise at BCG - a constellation of teams focused on driving practical results for BCG clients by applying leading edge analytics approaches, data, and technology.
+Role Profile
+OVERVIEW OF BCG GAMMA ENGINEERING:
+The BCG GAMMA Engineering team is building the next generation of analytics tools. With your help, BCG GAMMA will develop a platform that fuels BCG GAMMA‘s global data and analytics offerings. Data scientists depend on easy to use interfaces to easily code, increase productivity, answer questions, and envision their results. Clients need to easily interact with our analytics applications to measure the success of their new analytics enabled organization or quickly make decisions based on what and how they see analytic output. Our clients will use our analytics solutions to derive insights around business trends. We “open the doors“ to data for our clients giving them fast and trusted options to search, frame, and share data. BCG GAMMA X‘s goal is to help our clients understand what their data means and provide them the tools to share its narrative with various audiences.
+
+POSITION SUMMARY:
+BCG GAMMA is seeking a Senior Machine Learning Engineer to join our BCG GAMMA Engineering team. The ideal candidate will have industry experience working on a range of different Machine Learning disciplines, e.g. Anomaly Detection, payment fraud, fraud detection, search ranking, text/sentiment classification, spam detection and others. The position will involve taking these skills and applying them to some of the most exciting and massive data and analytics problems across multiple industries. We are looking for machine learning engineers to join the ML effort for our teams, building ML-based systems, tools, and services that serve as infrastructure for our internal and external clients.
+
+As a strong software leader and an expert in building complex systems, you will be responsible for inventing how we use technology, Machine Learning, and Data to enable the productivity of our clients. You will help envision, build, deploy and develop our next generation of data engines and tools which will help our clients fundamentally transform their business. You will be bridging the gap between business and engineering, and functioning with deep expertise in both worlds.
+
+BASIC JOB RESPONSIBILITIES:
+We are looking for a Machine Learning Engineer who can bring bleeding edge machine learning models into production together with a highly multi-disciplinary team of scientist, engineers, strategic partners, product managers and subject domain experts.
+
+Your Qualifications
+Degree in computer science (or in a highly related area) or equivalent experience 5 to 8 years of experience in algorithms, data structures, and object-oriented programming Good understanding of machine learning fundamentals and deep learning Implementation experience in machine learning algorithms and applications Strong programming skills in at least one object oriented programming language (Java, Scala, C++, Python, etc.) Fluency with at least one of the modern distributed ML frameworks such as TensorFlow, PyTorch,Caffe, MxNet Eager to learn new algorithms, new application areas and new tools. Excellent communication skills
+
+STRONGLY PREFERRED MSc or PHD in Computer Science (or in a highly related area) Knowledge of or experience in building production quality and large scale deployment of applications related to natural language processing and machine learning Familiarity with AWS/GCP/Azure technology stack Experience working with global and remote teams
+
+WORK ENVIRONMENT:Fast-paced, intellectually intense, service-oriented environmentOptimal locations are New York, Washington DC, Boston, Chicago, Seattle, Toronto, San FranciscoExpect up to 40% - 75% of time spent traveling
+
+Date Posted:
+19-Sep-2018
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E-Verify Employer."
+13,Senior Machine Learning Engineer - QuantumBlack,"Boston, MA",Boston,MA,None Found,None Found,"MSc or degree in Computer Science or a relevant subject
+Strong coding skills in Python, experience with pandas, scikit-learn, matplotlib a huge plus
+Practical experience with machine learning methods, such as Linear Regression, Decision Trees, Random Forest, Deep Learning, etc.
+Experience in object-orientated programming such as C, C++, Java OR Scala
+Deep understanding of good software engineering principles
+Knowledge of technologies, such as Spark, Hadoop/MapReduce is desirable but not essential
+Good knowledge of testing frameworks and libraries
+Experience with a range of database management languages e.g. SQL, PostgreSQL
+",None Found,"
+Work closely with Data Scientists and Data Engineers to productionise and deploy machine learning models
+Work with the guild leadership to set the standards for software engineering practices within the machine learning engineering team and support across other disciplines
+Play an active role in leading team meetings and workshops with clients
+Choose and use the right analytical libraries, programming languages, and frameworks for each task
+Produce high-quality code that allows us to put solutions into production
+Refactor code into reusable libraries, APIs, and tools
+Help us to shape the next generation of our products
+Rotate between client project work and internal product development in alignment with your personal development plan",None Found,None Found,"Qualifications
+MSc or degree in Computer Science or a relevant subject
+Strong coding skills in Python, experience with pandas, scikit-learn, matplotlib a huge plus
+Practical experience with machine learning methods, such as Linear Regression, Decision Trees, Random Forest, Deep Learning, etc.
+Experience in object-orientated programming such as C, C++, Java OR Scala
+Deep understanding of good software engineering principles
+Knowledge of technologies, such as Spark, Hadoop/MapReduce is desirable but not essential
+Good knowledge of testing frameworks and libraries
+Experience with a range of database management languages e.g. SQL, PostgreSQL
+Who You'll Work With
+You'll join us in Boston and will have the opportunity to work on complex problems with our clients across a number of domains. You will work part of a highly collaborative and cross-functional team of Data Scientists, Data Architects, Engineers and Designers.
+Who you are
+A core value at QuantumBlack is fusion and at the heart of our multi-disciplinary teams is the belief that the sum of individual parts will always be less than the impact of the entire team. You are a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritising impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward quickly. Trust between colleagues is paramount here – you are an individual who can always be trusted to work in the best interests of all colleagues and to achieve the best outcome for QuantumBlack and our clients. You are naturally enthusiastic and enjoy sharing your passion with others.
+What You'll Do
+As a Senior Machine Learning Engineer at QuantumBlack in Boston...
+You are a keen problem solver who uses technology to solve complex analytical problems. You have a deep interest in Big Data technologies, Analytics and Data Science. You know how to engineer beautiful code in Python and/or Scala (and Spark) but also can read R and take pride in what you produce.
+Responsibilities
+Work closely with Data Scientists and Data Engineers to productionise and deploy machine learning models
+Work with the guild leadership to set the standards for software engineering practices within the machine learning engineering team and support across other disciplines
+Play an active role in leading team meetings and workshops with clients
+Choose and use the right analytical libraries, programming languages, and frameworks for each task
+Produce high-quality code that allows us to put solutions into production
+Refactor code into reusable libraries, APIs, and tools
+Help us to shape the next generation of our products
+Rotate between client project work and internal product development in alignment with your personal development plan
+Who we are
+QuantumBlack teams work in multi-disciplinary environments harnessing data to provide real-world impact. We bring together the brightest data scientists, engineers and designers to take on the biggest problems facing the world’s most influential organisations. Our projects range from helping pharmaceutical companies bring lifesaving drugs to market quicker to optimising a Formula1 car’s performance. At QuantumBlack you have the best of both worlds; all the benefits of being part of one of the leading management consultancies globally and the autonomy to thrive in a fast growth tech culture.
+No project is ever the same - we work across multiple sectors, providing unique learning and development opportunities internationally.
+Fusing Tech & Leadership – We work with the latest technologies and methodologies and offer first class learning programmes at all levels
+Multidisciplinary Teamwork - Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
+Innovative Work Culture - Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
+Striving for Diversity – With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.
+What we do
+We guide global companies through data science solutions to transform their businesses and enhance performance across industries including healthcare, automotive, energy and elite sport.
+Healthcare Efficiency - We helped a healthcare provider improve their clinical trial practices by identifying congestion in diagnostic testing as a key indicator of admissions breaches.
+Environmental Impact – We designed and built the first data-driven application for a state of the art centre of excellence in urban innovation by collecting real-time data from environmental sensors across London and deploying proprietary analytics to find unexpected patterns in air pollution.
+Product Development - We worked with the CEO of an elite automotive organisation to reduce the 18-month car development timeframe by improving processes, designs and team structures.
+Visit our Careers site to watch our video and read about our interview processes and benefits."
+14,Machine Learning Engineer,"Somerville, MA",Somerville,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"We’re looking for a bright Machine Learning Engineer to join our team of machine learning experts. Our team is growing, and so is our appetite for cutting edge work. You will have many chances to bring work from theory to practice, enrich Tulip’s intellectual property, and share it before key people in the company and outside.
+
+We are looking at hard, data-rich problems, with immense scale and unique opportunity for impact on large organizations. Your first goal will be to research the data analysis needs of our clients, and implement those on our platform. Next you will deploy your work and monitor its performance with live installations worldwide.
+
+About us
+
+At Tulip [https://tulip.co/], we’re using technology to empower the people who build our world. We’re at the technological forefront of disrupting the manufacturing industry. We build tools to augment the people from the factory floor up to the highest ranks in the organization. We sense the people in the workstations, the processes, the work pieces, the machines, the tools and even the environment. All this creates incredible amounts of data, ripe for insight extraction. Join us if you want to help create the next industrial revolution.
+
+The job
+
+
+Develop data analysis pipelines from ingest to postprocessing
+Train machine learning models that solve hard, large-scale problems
+Continuously improve the model deployment pipeline
+Track and monitor the performance of your model outcomes
+Contribute to the IP of the company
+Collaborate in driving sales with your technological expertise
+Bring up new data-driven features from ideation to production
+
+You
+
+
+Curious about data-driven software and machine learning solutions
+Have experience in turning data into insights, and insights into actions
+Understand the latest work in deep learning, and want to stay in touch
+Demonstrate your own work in front of peers
+Are committed to stepping up and making your path as a data-driven innovator
+
+Key requirements
+
+
+A degree or several in computational sciences (CS, Math, Applied Physics, Engineering, Statistics, Computational Cognition, etc.) or equivalent industrial experience in an engineering role.
+Demonstrated capacity for realizing non-trivial machine learning projects, e.g. on GitHub, Kaggle
+Demonstrable mathematical reasoning about data and numerical problems in multiple aspects: linear algebra, calculus, probability, algorithmics and optimization.
+Advanced experience in relevant major languages: Python, C++
+Experience with deep & machine learning libraries: Tensorflow / Keras / PyTorch / MXNet / Gluon, Scikit-learn, Pandas.
+
+Bonus skills
+
+
+Experience with MR, data pipelines and ETL in the various clouds (AWS, GCP, Azure), e.g. DataProc, EMR, Spark, Hadoop.
+Experience with cloud-based deployment of ML models, e.g. SageMaker, GCP AI Platform, Azure ML service
+Experience with edge-based ML inference
+Experience with ML parallelism, MPI, e.g. Horovod, Tensorflow parallelized training
+Working in containerized environments, e.g. Docker, Kubernetes
+Experience with relevant visualization libraries, e.g. matplotlib, Seaborn, Bokeh, Plotly
+Experience in computer vision or language processing algorithm development.
+
+Working at Tulip
+
+We are building a strong, diverse team that values hard work, families, and personal wellbeing. Benefits of working with us include:
+
+
+Direct impact on product and culture
+Company equity
+Competitive benefits package including Health, Dental, Vision, HRA, Commuter, and 401k
+Flexible work schedule and unlimited vacation policy
+Fully stocked office kitchen with weekly meals and beer on tap
+Company outings and happy hours
+Fitness subsidies
+Dog-friendly office
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Even if you don't check every box, but see yourself contributing, please apply. Help us build an inclusive community that will transform manufacturing."
+15,Machine Learning Engineer,"Cambridge, MA 02138",Cambridge,MA,02138,None Found,None Found,None Found,None Found,None Found,None Found,"Meet CarGurus—the #1 visited online car shopping website in the US. At CarGurus, we're building the world's most trusted and transparent automotive marketplace where it's easy to find great deals from top-rated dealers.
+
+Founded in 2006 by Langley Steinert (co-founder of TripAdvisor), CarGurus is a technology company with a passion for data and its power to simplify every aspect of the car shopping experience. Using proprietary technology, search algorithms and innovative data analytics, we provide unbiased validation on pricing, dealer reputation and vehicle history.
+
+We're looking for a thoughtful, technical and deeply collaborative Machine Learning Engineer to work with our growing Analytics Engineering team! This position will provide foundational framework for the Data Science team. This includes building the infrastructure to allow the team to ""publish"" models into production, developing Python libraries to facilitate feature generation, and providing the data science team with product-based datasets to train their models.
+
+What you'll do:
+
+Collaborate with Data Scientists, Emerging Product Engineers, and Analysts
+Be the interface between the data warehouse and the data science team, using transformation frameworks to automate dataset generation
+Help Data Scientists optimize, monitor, and deploy their models
+Build, maintain, and upgrade a platform for running machine learning models
+Develop APIs to serve model predictions in real time and at scale
+Learn the business inside and out, interfacing with domain knowledge experts
+Participate in creating the team's roadmap, providing feedback on priority and business value.
+
+Who You Are:
+
+3+ years experience as a data engineer, machine learning engineer, or a software engineer with a passion for data.
+Team player who thrives in a collaborative environment.
+Self-starter, willing to jump in and learn something new to execute on a task.
+Experienced in SQL, with ability to optimize database and query performance.
+A natural detective, with a keen interest in solving business problems with data driven methods.
+Deeply focused on delivering value to stakeholders, with a data-as-a-product mindset.
+Passionate about creating production grade systems and data quality, supporting what you build.
+Familiarity with cloud computing and architectures.
+Exposure and experience with machine learning is a plus.
+
+Technologies we use:
+Airflow, AWS, Docker, Snowflake, Python, Spark, Kafka, Prometheus, Snowplow
+
+CarGurus Culture:
+At the core of our company culture is a spirit of innovation, curiosity and collaboration. True to our start-up roots, we're nimble, flexible and hardworking. We have a great respect for testing and learning and a healthy aversion to scheduling meetings to discuss meetings. Lunch is catered daily. Gym membership is free. Foosball and ping pong are played often. Now a publicly-traded company, we're as committed as ever to cultivating the culture that got us here.
+
+In addition to the US, CarGurus operates sites in Canada, the UK and Germany with other markets on the horizon. Our offices are located in Cambridge, MA, Detroit, MI and Dublin, Ireland. If you'd like to learn more, please visit our careers page ( https://careers.cargurus.com/ )."
+16,Machine Learning Engineer,"Newton, MA",Newton,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"About the Machine Learning Engineer position
+You are a strong software engineer with either past experience with machine learning and broader artificial intelligence techniques, or a deep desire to expand into Analytics and Data Science. You thoughtfully develop beautiful code and are looking to work with other exceptional engineers, data scientists, and a tech-focused management team in a fast-paced startup environment. You can't help shake the idea that artificial intelligence, machine learning, deep learning, and similar concepts are poised to change the world - and you want to be part of the action.
+Machine Learning Engineer Responsiblities
+Work closely with Data Engineers and Data Scientists to create analytical variables, metrics, and models
+Organize full lifecycle software development to solve difficult engineering and machine learning problems
+Write well designed, testable, efficient code
+Choose and use the right analytical libraries, programming languages, and frameworks for each task
+Organize documentation and maintenance of software functionality
+Integrate software components into a fully functional software system
+Machine Learning Engineer Requirements
+2+ years experience of working on a Computer Software Engineer or Software Developer position
+Proven knowledge of object-oriented programming
+Knowledge of at least one scripting language e.g. Python, Perl, R, etc
+Knowledge of statistics, machine learning, NLP and data analytics techniques
+Knowledge of Big Data solutions (e.g. Spark, Hadoop, MapReduce) is desirable, but not essential
+Commercial/Enterprise application of data science work is desirable, but not essential
+BS degree in Computer Science or Engineering"
+17,"Senior Machine Learning Engineer, Core Modeling","Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"-----------
+Job Summary
+-----------
+
+As a Machine Learning Engineer on our Core Modeling team, you will work on DataRobot's machine learning platform and actively contribute to the development of our state-of-the-art preprocessing and modeling capabilities.
+
+Core Modeling owns the entire data science backend for DataRobot, and is responsible for making sure our models and modeling automation are the best in the world.
+
+We are looking for talented people with excellent engineering skills and deep knowledge of machine learning who can analyze problems, design unprecedented solutions, and implement them for real-world use on top of our platform.
+
+DataRobot is based around delivering best-in-class AI solutions, and this position provides the opportunity to build the key machine learning components of our system.
+
+----------------
+Responsibilities
+----------------
+
+
+Automate machine learning processes
+Design and build machine learning models for accuracy and scalability
+Integrate machine learning algorithms with other applications and services
+
+-----------------
+Main Requirements
+-----------------
+
+
+Recommended background: 5+ years of combined Python engineering and machine learning experience
+Experience writing maintainable, testable, production-grade Python code
+Understanding of different machine learning algorithm families and their tradeoffs (linear, tree-based, kernel-based, neural networks, unsupervised algorithms, etc.)
+Good command of scientific Python toolkit (numpy, scipy, pandas, scikit-learn)
+Understanding of time, RAM, and I/O scalability aspects of data science applications (e.g. CPU and GPU acceleration, operations on sparse arrays, model serialization and caching)
+Software design and peer code review skills
+Experience with automated testing and test-driven development in Python
+Experience with Git + GitHub
+Comfortable with Linux-based operating systems
+
+--------------
+Desired Skills
+--------------
+
+
+Experience with large-scale machine learning (100GB+ datasets)
+Experience with deep learning libraries and frameworks (TensorFlow, Keras, PyTorch etc.)
+Competitive machine learning experience (e.g. Kaggle)
+Previous experience of deploying and maintaining machine learning models in production
+
+"
+18,Machine Learning Engineer,"Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Are you a software engineer interested in pursuing a career in machine learning? Do you enjoy collaborating with other bright, talented individuals to solve complex problems? If so, read on! At TrueMotion, we're passionate about making the world a safer place, by helping to eliminate distracted driving. We do this by using the smartphone as a sensor and machine learning to turn phone data into driving data. This is a unique opportunity to create a massive impact in our business and technology, while helping people become safer drivers. We're looking for a bright & talented software engineer with a keen interest in Machine Learning to join our Data Science team. As our first machine learning engineer, you'll be collaborating with senior members of our Data Science, Platform, and Mobile teams to solve complex, challenging problems using your intellect, skills and the latest and greatest technologies!
+
+You will:
+
+Advise the Data Science team on optimizing our use of Databricks, Spark, and AWS services for building machine learning models at scale
+Collaborate with our platform and mobile teams to deploy machine learning models on both iOS and Android devices
+Improve data ETL pipelines, design and manage databases that support research and development, support testing of machine learning models for product releases, and own the software frameworks we use to deploy our models in production
+Own the software frameworks we use to deploy production models, design and manage databases supporting research & development and support testing of learning models for production releases
+Improve data ETL pipelines by scaling, building and maintaining secure backend code using unit testing, automation and continuous delivery
+Design and create tooling to improve the efficiency of feature engineering, model training and validation
+Build scalable machine learning infrastructure that allows your Data Science teammates to deliver new models faster
+Build infrastructure to monitor the performance of machine learning models at scale, including models deployed on mobile devices
+Stay up to date on the latest Machine Learning and mobile application trends and provide recommendations on solutions addressing scaling, cost and performance challenges
+Help lay out the architecture for mobile, backend and research domains
+
+You have:
+
+2+ years in backend engineering and an interest in Machine Learning
+Knowledge of Big Data infrastructure and networking software, e.g. Databricks, Spark, S3
+Knowledge of software development process, and ability to code in scripting languages for data manipulation e.g. Python, Pandas, NumPy, scikit-learn and SQL
+Design and document systems, including writing and reviewing code, to automate away problems within your squad's domain
+Good coding skills in at least one programming language, and a desire to pick up more. We work primarily in Python, with smatterings of shell scripting
+Understanding of AWS services
+Experience with Linux
+Database (RDBMS & NoSql) schema design
+
+Pluses:
+
+Experience with Machine Learning
+Experience using EC2, Lambda, Dynamo, RDS (PostgreS), S3, Kinesis
+Experience with Docker, NGiИX, PostgreSQL, Consul and/or Cassandra.
+Experience building scalable data processing systems for production environment.
+Experience with deep learning frameworks e.g. TensorFlow, Keras, Torch, Caffe, for data networking, visualization and performance
+Ability to navigate code, request data from data sources and code for bug fixes.
+Actively seeks feedback and resolve discrepancies with senior team members.
+
+Compensation:
+
+Competitive salary based on experience
+Stock options
+Comprehensive benefits (Medical, Dental, Vision, 401k)
+Flexible Paid Time Off
+
+Additional Perks:
+
+Feel great working to solve a serious problem (distracted driving)
+Touch your toes thanks to our daily post stand-up meeting team stretch
+Burn some calories during our optional weekly fun-run around the Boston waterfront
+Get to really know your coworkers over a drink and snacks every Thursday afternoon
+Have fun at our frequent team outings, where we go to Red Sox games, volunteer to clean-up the Esplanade, etc.
+
+Why TrueMotion?
+
+At TrueMotion we build solutions that make driving safer, lower cost, and more fun. We use the smartphone as a sensor and machine learning to turn phone data into driving data. We believe distracted driving is a solvable problem and partner with insurance companies and other relevant organizations to drive change (pun intended). We are a band of entrepreneurs dedicated to our mission and having fun at our office on Fort Point Channel!
+
+TrueMotion is backed by General Catalyst, Bain Capital Ventures and Lakestar. We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Note: local candidates are highly preferred for this role."
+19,GAMMA - Lead Machine Learning Engineer,"Boston, MA 02109",Boston,MA,02109,None Found,"Degree in computer science (or in a highly related area) or equivalent experience8+ years of experience in algorithms, data structures, and object-oriented programmingGood understanding of machine learning fundamentals and deep learningImplementation experience in machine learning algorithms and applicationsStrong programming skills in at least one object oriented programming language (Java, Scala, C++, Python, etc.)Fluency with at least one of the modern distributed ML frameworks such as TensorFlow, PyTorch,Caffe, MxNetEager to learn new algorithms, new application areas and new tools.Managment/team lead experience, experience working with global and remote teamsExperience guiding teams in addressing the technical and delivery challengesExcellent communication skills",None Found,None Found,None Found,None Found,"Location:
+Boston, Chicago, Los Angeles, Montreal, New York, San Francisco, Seattle, Toronto, Washington, D.C.
+Geography:
+North America
+Capabilities:
+Big data & advanced analytics, Technology & digital
+Industries:
+Technology industries
+About Us
+Boston Consulting Group (BCG) is a global management consulting firm and the world’s leading advisor on business strategy. We partner with clients from the private, public, and not-for-profit sectors in all regions to identify their highest-value opportunities, address their most critical challenges, and transform their enterprises. Our customized approach combines deep insight into the dynamics of companies and markets with close collaboration at all levels of the client organization. This ensures that our clients achieve sustainable competitive advantage, build more capable organizations, and secure lasting results. Founded in 1963, BCG is a private company with more than 90 offices in 50 countries. For more information, please visit bcg.com
+Practice Area Profile
+BCG GAMMA combines innovative skills in computer science, artificial intelligence, statistics, and machine learning with deep industry expertise. The BCG GAMMA team is comprised of world-class data scientists and business consultants who specialize in the use of advanced analytics to get breakthrough business results. Our teams own the full analytics value-chain end to end: framing new business challenges, building fact-bases, designing innovative algorithms, creating scale through designing tools and apps, and training colleagues and clients in new solutions. Here at BCG GAMMA, you’ll have the chance to work with clients in every BCG region and every industry area. We are also a core member of a rapidly growing analytics enterprise at BCG - a constellation of teams focused on driving practical results for BCG clients by applying leading edge analytics approaches, data, and technology.
+Role Profile
+OVERVIEW OF BCG GAMMA ENGINEERING:
+The BCG GAMMA Engineering team is building the next generation of analytics tools. With your help, BCG GAMMA will develop a platform that fuels BCG GAMMA‘s global data and analytics offerings. Data scientists depend on easy to use interfaces to easily code, increase productivity, answer questions, and envision their results. Clients need to easily interact with our analytics applications to measure the success of their new analytics enabled organization or quickly make decisions based on what and how they see analytic output. Our clients will use our analytics solutions to derive insights around business trends. We “open the doors“ to data for our clients giving them fast and trusted options to search, frame, and share data. BCG GAMMA X‘s goal is to help our clients understand what their data means and provide them the tools to share its narrative with various audiences.
+
+POSITION SUMMARY:
+BCG GAMMA is seeking a Lead Machine Learning Engineer to join our BCG GAMMA Engineering team. The ideal candidate will have industry experience working on a range of different Machine Learning disciplines, e.g. Anomaly Detection, payment fraud, fraud detection, search ranking, text/sentiment classification, spam detection and others. The position will involve taking these skills and applying them to some of the most exciting and massive data and analytics problems across multiple industries. We are looking for machine learning engineers to join the ML effort for our teams in CA, NY, MA and Paris, building ML-based systems, tools, and services that serve as infrastructure for our internal and external clients.
+
+As a strong software leader and an expert in building complex systems, you will be responsible for inventing how we use technology, Machine Learning, and Data to enable the productivity of our clients. You will help envision, build, deploy and develop our next generation of data engines and tools which will help our clients fundamentally transform their business.
+You will be bridging the gap between business and engineering, and functioning with deep expertise in both worlds.
+
+BASIC JOB RESPONSIBILITIES:
+We are looking for a Machine Learning Engineer who can bring bleeding edge machine learning models into production together with a highly multi-disciplinary team of scientist, engineers, strategic partners, product managers and subject domain experts.
+
+Your Qualifications
+Degree in computer science (or in a highly related area) or equivalent experience8+ years of experience in algorithms, data structures, and object-oriented programmingGood understanding of machine learning fundamentals and deep learningImplementation experience in machine learning algorithms and applicationsStrong programming skills in at least one object oriented programming language (Java, Scala, C++, Python, etc.)Fluency with at least one of the modern distributed ML frameworks such as TensorFlow, PyTorch,Caffe, MxNetEager to learn new algorithms, new application areas and new tools.Managment/team lead experience, experience working with global and remote teamsExperience guiding teams in addressing the technical and delivery challengesExcellent communication skills
+STRONGLY PREFERRED MSc or PHD in Computer Science (or in a highly related area) Knowledge of or experience in building production quality and large scale deployment of applications related to natural language processing and machine learning Familiarity with AWS/GCP/Azure technology stack
+
+WORK ENVIRONMENT:Fast-paced, intellectually intense, service-oriented environmentOptimal locations are New York, Washington DC, Boston, Philadelphia, Chicago, Seattle, Toronto, San FranciscoExpect up to 40% - 75% of time spent traveling
+
+Date Posted:
+19-Sep-2018
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E-Verify Employer."
+20,Senior Machine Learning Engineer,"Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Overview
+Neurable Inc. is a world-leader in developing brain-computer interface technology for consumer and enterprise applications. We work across multiple platforms including augmented reality, virtual reality, PC and mobile to deliver unparalleled experiences to our customers. Our product is a brain-computer interface available today via our SDK and custom hardware for two primary applications:
+
+1. Hands-free mental control of virtual and augmented reality devices
+2. Cognitive analytics for behavioral insights and training
+
+Backed by top-tier venture capital firms in Boston and the Bay Area, Neurable’s mission is to make technology universally accessible, intuitive and empowering through advanced applications of neurotechnology.
+
+Opportunity
+Neurable is seeking a Senior Machine Learning Engineer to join our world-class team. This position will be responsible for driving improvements within our core machine learning platform. You will participate in cutting-edge research in AI/ML applications for neurotechnology. Your work will directly contribute to an evolutionary milestone in the field of human-computer interaction.
+
+The ideal candidate should be comfortable with creative problem solving in a startup environment. If you like tinkering, are curious by nature, consider yourself a technologist or someone who thinks several steps ahead then you will fit in well on our team.
+
+Character
+
+Interested in technology and curious about the future of human-computer interaction
+Enjoys working in small teams in a highly collaborative environment
+Able to teach others around you and learn from them
+Self-starter who can work in a highly dynamic startup environment
+Not afraid to experiment, fail and then learn from the results
+Desire to create a positive change in the world
+
+Duties
+
+Participate in cutting edge research in AI/ML applications for neurotechnology
+Develop highly scalable machine learning algorithms to model a rich array of biosignals
+Leverage rich data sets to reveal
+Suggest, collect and synthesize requirements and create effective feature roadmap
+Code deliverables in tandem with the engineering team
+
+Qualifications
+
+MS or Ph.D degree in computer science or related quantitative field
+5+ years of experience in one or more of the following areas: machine learning, pattern recognition, computer vision, data mining or artificial intelligence
+5+ years of experience developing and debugging in C/C++
+Experience with scripting languages such as Perl, Python, PHP, and shell scripts
+Bonus: previous experience in signals processing
+
+Compensation and Benefits
+
+Competitive Salary
+High quality health insurance
+401(k) with employer matching contributions
+Generous PTO
+Convenient location in Downtown Crossing - close to several MBTA stops
+Fun office, team events, pets welcome!
+
+Please note: Regrettably, we are not able to provide a visa or sponsorship for this position. All candidates must be authorized to work in the USA."
+21,Senior Data Scientist,"Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Flipside Crypto is seeking a Machine Learning Engineer to identify and explore patterns in massive amounts of blockchain and developer data and to contribute to our growing body of research on cryptocurrency.You:- Have a foundation in computer science and mathematics, and love reading up on the latest ML and AI developments
+Have earned at least a B.S. in computer science or a related field, and you have at least 5 years of work experienceUsually work in Python but you are not disdainful of R, and ideally you can work with code in both Python and RAre comfortable in the entire stack, and eager to learn about parts of the business you don't normally touch at a larger company (product, strategy, design, biz-dev, etc.)Can handle large datasets without a problem. Whether that means using GPUs or working with a Hadoop cluster, you can figure it outWork with tensor flow, perform network analysis, and use graph databases
+- Like doing research, but you love getting new models quickly and reliably into productionWhat You'll Do:- Apply the latest ML approaches and techniques to massive blockchain datasets with the goal of identifying patterns and contributing to our growing base of models that drive FCAS (our public rating system) and help demystify the blockchain for our customers
+Lead the development of best practices for model implementation and code productionalization for the data science teamWork with our data science team to bring prototypes and statistical models into the productWork with our data engineering team to ensure the integrity of the data pipelines required to both build and deploy ML and data science modelsAssist in the evaluation of the effectiveness of data science products that drive the user experienceCollaborate with the Head of Data Science, Data Engineering, the CTO, and the Head of Product to ensure we are building the right tools to solve the problems the business is tacklingUse your own expertise, knowledge, and experience to help steer the development of Flipside's Business Intelligence products in an innovative, intelligent, and useful direction for our customersAbout Flipside:Flipside Crypto provides unparalleled analytics and business intelligence to crypto organizations. Their suite of analytics tools provides insights into user behaviors, developer activities, and financial activities, as well as FCAS, a relative value for measuring the fundamental health of cryptocurrency projects.Flipside provides analytics to more than 50 cryptocurrency organizations and distributes FCAS via partners such as CoinMarketCap, Messari, MarketWatch and TheStreet. Flipside Crypto is backed by True Ventures, Founder Collective, CoinBase Ventures, Digital Currency Group, and other investors."
+22,Machine Learning Engineer,"Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"We love programming and the excitement that comes with building something people use. We are the kind of people that love talking to users and can find the balance between solving a problem quickly and thinking about how your code will work in the future. We love to move fast, keep learning and get stuff done.
+
+Our data science team is analyzing large data sets (we’re collecting billions of individual actions every month) and building products that enable our customers to grow faster and communicate more effectively with their customers. We’re looking for machine learning engineers to develop machine learning models and pipelines for research and production.
+
+Our data science team is still in its early days and you’ll have a big impact on our direction and how we operate. You’ll be central to researching, developing and shipping products that help our customers learn and grow from their data. For this role, we’re looking for people who have developed split brains-software engineers who have become great at writing machine learning code or data scientists who have become great software developers.
+You:
+Have experience implementing machine learning models, data pipelines and testing frameworks for research and production use.
+Have demonstrated a measurable impact based on the models you’ve created. It’s not always easy getting a model correct, we love talking about places we got stuck and work as a team to think through ideas that could unblock us.
+Have experience processing cloud-scale data using parallel, elastic, streaming and similar techniques.
+Enjoy tuning and validating machine learning models and take a rigorous approach.
+Understand how to profile code and optimize performance.
+Aspire to correctness (e.g. in your code, in drawing conclusions from data)
+Have a bachelor’s or advanced degree in computer science, applied math, statistics or other relevant quantitative discipline, or equivalent industry experience.
+Technologies we use (not comprehensive!):
+Python
+Numpy, Scipy, Pandas
+Aurora, Cassandra, Kafka
+HTML, JavaScript, React
+SageMaker
+
+About Us
+
+Klaviyo is a team of people who are crazy motivated by growth.
+
+It’s what we help our customers do: grow their businesses by making it possible and easy for them to use their data to power better marketing.
+
+It’s how we behave as individuals: we’re all deeply passionate about learning.
+
+It’s how we manage our business: we have thousands of paying customers, we’re profitable, and we’re growing insanely fast.
+
+And it’s what our culture is all about. Working at Klaviyo means you’ll work on things you never imagined you would; you’ll grow in ways you didn’t consider possible; and you’ll do the best work of your career with people who are just as motivated and talented as you are.
+
+If this sounds like your ideal place to work, drop us a note!"
+23,"Associate Cloud Developer, A2C","Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Bachelor’s Degree in a STEM related field such as computer science, computer engineering, or equivalent experienceFamiliarity with one of the following programming languages: Java, Python, Ruby, Node.js, C#, or C++Familiarity with Networking fundamentals, Security, Databases (Relational and/or NoSQL), Operating Systems (Unix, Linux, and/or Windows)
+
+Amazon Web Services (AWS) is looking for motivated technologists who possess a unique balance of technical depth, business knowledge, and strong interpersonal skills. You will partner with customers and several AWS teams to craft highly scalable, flexible and resilient cloud architectures that address customer business problems. As a trusted customer advocate, you will help organizations understand best practices around cloud-based solutions, and how to migrate existing workloads to the cloud. You will have the opportunity to help shape and execute a strategy to build min- share and broad use of AWS within organizations.
+
+Professional Services
+At AWS, we have a credo of “Work hard. Have fun. Make history”. In this role, you will love what you do and instinctively know how to make work fun. You will be dynamic, creative, and willing to take on any challenge and make a big impact.
+
+Here are some of the qualities we are searching for:
+Be great fun to work with. At AWS, we have a credo of “Work hard. Have fun. Make history”. In this role, you will love what you do, and instinctively know how to make work fun. You will be dynamic and creative, and willing to take on any challenge and make a big impact.
+An affinity for the new and unknown. We are always experimenting with innovative technologies including cloud computing, Machine Learning, and Internet of Things.
+Enjoy working with customers of all shapes and sizes. You will have a passion for educating, training, designing, and building solutions for a diverse and challenging set of customers ranging from small businesses to large enterprises.
+During your first year as an Associate Cloud Developer, you will receive instruction and on-the-job training on a range of AWS services and solutions. By the end of your first year, you will choose a specialty track suited to your strengths and preferences (subject to business availability). These tracks include:
+
+Application Developer – AppDev resources are specialists in designing applications that run natively in the cloud. They are experts in building programs that run on any number of platforms including virtualized instances, containers, or serverless architecture.
+Cloud Infrastructure Architect – An expert in cloud-based networking and system rollouts. CIAs specialize in network performance, infrastructure provisioning, and building Application Programming Interfaces (APIs).
+DevOps Specialist – A leader in building advanced computing systems that harness continuous integration/continuous deployment pipelines and utilize the strengths of cloud computing to build scalable and economical systems for customers.
+Data Lake & Analytics Specialist – This role will specifically focus on data processing capabilities and helping our customers and partners to remove the constraints that prevent our customers from leveraging their data to develop business insights. Engagements will include migration of existing applications and development of new applications using AWS cloud services.
+Data Warehouse & Massive Parallel Processing Specialist – This role will specifically focus on large scale data warehousing and database migration capabilities. Engagements will include Redshift implementations and helping customers to migrate from their existing on-premises data warehouses using other databases to Amazon Redshift.
+Data & Machine Learning Engineer – In this role, you will work with our partners and customers with a focus on our AWS Analytics and ML services offering such Amazon Kinesis, AWS Glue, Amazon Redshift, Amazon EMR, Athena, Amazon SageMaker, and more. You will help our customers and partners to remove the constraints that prevent them from leveraging their data to develop business insights.
+
+Ability to travel to provide Professional Services is required for this role.
+
+Troubleshooting: Experience with QA, testing, helpdesk, IT support, or any technician or quality assurance type workCloud Awareness: Experience implementing a cloud-based technology solution in a school project or while working for a companyExperience with systems administration (Linux/Windows) or network administration (DNS, IPsec, BGP, VPN, Load Balancing)Passion for experiencing new technologies, cultures, and locations in the US and around the world
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."
+24,Machine Learning Engineer,"Cambridge, MA",Cambridge,MA,None Found,None Found,"Advanced degree in Machine Learning, Computer Science, or relevant quantitative discipline
+Strong programming skills in python
+Experience with deep learning libraries (TensorFlow, PyTorch, etc.)
+Knowledge and experience in cloud infrastructure (e.g., Google Cloud, AWS, etc.)
+Experience in applying machine learning solutions for biomedical data",None Found,None Found,None Found,None Found,"DeepHealth is a digital health start-up company based in Cambridge, MA engaged in applying state-of-the-art deep learning techniques to improve medical imaging interpretation. We believe the most exciting problems in machine learning are in healthcare, where the development and translation of novel methods has the potential to save patient lives. As a Machine Learning Engineer, you will help develop and implement machine learning solutions in research and production.
+
+Preferred Qualifications
+Advanced degree in Machine Learning, Computer Science, or relevant quantitative discipline
+Strong programming skills in python
+Experience with deep learning libraries (TensorFlow, PyTorch, etc.)
+Knowledge and experience in cloud infrastructure (e.g., Google Cloud, AWS, etc.)
+Experience in applying machine learning solutions for biomedical data
+Contact Us for More Information
+We're always looking for talented, motivated individuals to join our team - get in touch!
+careers@deep.health
+Contact Us About This Position
+We're always looking for talented, motivated individuals to join our team - get in touch!
+careers@deep.health"
+25,Machine Learning Engineer,"Boston, MA 02210",Boston,MA,02210,None Found,"5+ years' experience working on data science projects
+Master's degree or higher, preferably, with a concentration in a computational field such as Computer Science, Mathematics, Statistics, Physics, Engineering
+Hands-on experience with mining of structured, semi-structured, and unstructured data
+Intuitive understanding of machine learning algorithms, supervised and unsupervised modeling techniques
+Experience with Apache Hadoop, Spark and related technologies
+Working knowledge of SQL, Hive, Pig, and other query languages
+Experience with machine learning tools and libraries such as Scikit-learn, R, Spark, TensorFlow
+Intuition about algorithm and system performance and throughput
+Experience ranking entities or attributes a plus
+Architecture and system/pipeline layout experience a plus
+Scala language experience a plus
+Attention to detail, data accuracy, and quality of output
+Strong interpersonal, written, and verbal communication skills
+Ability to effectively function in a fast-paced environment with shifting priorities and simultaneous projects
+","5+ years' experience working on data science projects
+Master's degree or higher, preferably, with a concentration in a computational field such as Computer Science, Mathematics, Statistics, Physics, Engineering
+Hands-on experience with mining of structured, semi-structured, and unstructured data
+Intuitive understanding of machine learning algorithms, supervised and unsupervised modeling techniques
+Experience with Apache Hadoop, Spark and related technologies
+Working knowledge of SQL, Hive, Pig, and other query languages
+Experience with machine learning tools and libraries such as Scikit-learn, R, Spark, TensorFlow
+Intuition about algorithm and system performance and throughput
+Experience ranking entities or attributes a plus
+Architecture and system/pipeline layout experience a plus
+Scala language experience a plus
+Attention to detail, data accuracy, and quality of output
+Strong interpersonal, written, and verbal communication skills
+Ability to effectively function in a fast-paced environment with shifting priorities and simultaneous projects
+","Build, deploy and automate large-scale machine learning algorithms (classification, regression, recommender systems) using Apache Spark and/or other big data technologies.
+Automate the production of necessary reports and analyses for customers.
+Develop programs and processes to access and transform large volumes of data from internal and external systems in a manner suitable for analysis.
+Research new data sources, analytical tools, and methodologies; contribute to new product development, operational delivery.
+Perform complex data analysis in support of ad-hoc and standing requests and demand for insights
+Provide documentation for solutions by developing well documented code, uml diagrams, and well structured code.
+Follow good object oriented design practices and SOLID design principles.
+Continual improvement of your skills in programming languages, designs patterns, and relevant tools through personal studies as well as efficient research during work hours.
+",None Found,None Found,"Company Overview
+Data Plus Math is a media measurement company that helps connect advertising exposures to real-world outcomes. Powered by millions of households of cross-screen viewing data, the company's TV and Video attribution platform is used by cable operators, national programming networks, agencies and marketers to measure which components of their advertising campaigns are driving results. We work with some of the largest media and entertainment companies, agencies and brands in the world to power the next generation of analytics and measurement for all of TV and Video.
+Job Summary
+We are looking for a savvy Machine Learning Engineer to join our world class team of Data Scientists and Big Data Engineers. Join the team charged with aggregating, processing, filtering and conflating data from many sources and multiple modalities and delivering a unified, rich, and timely TV and Video attribution data to Data+Math's platform. We're looking for an experienced scientist/engineer who is expected to take projects from initial data mining and research through all stages of prototyping, development and final integration and into the production data accessed by our customers.
+Responsibilities and Duties
+Build, deploy and automate large-scale machine learning algorithms (classification, regression, recommender systems) using Apache Spark and/or other big data technologies.
+Automate the production of necessary reports and analyses for customers.
+Develop programs and processes to access and transform large volumes of data from internal and external systems in a manner suitable for analysis.
+Research new data sources, analytical tools, and methodologies; contribute to new product development, operational delivery.
+Perform complex data analysis in support of ad-hoc and standing requests and demand for insights
+Provide documentation for solutions by developing well documented code, uml diagrams, and well structured code.
+Follow good object oriented design practices and SOLID design principles.
+Continual improvement of your skills in programming languages, designs patterns, and relevant tools through personal studies as well as efficient research during work hours.
+Qualifications and Skills
+5+ years' experience working on data science projects
+Master's degree or higher, preferably, with a concentration in a computational field such as Computer Science, Mathematics, Statistics, Physics, Engineering
+Hands-on experience with mining of structured, semi-structured, and unstructured data
+Intuitive understanding of machine learning algorithms, supervised and unsupervised modeling techniques
+Experience with Apache Hadoop, Spark and related technologies
+Working knowledge of SQL, Hive, Pig, and other query languages
+Experience with machine learning tools and libraries such as Scikit-learn, R, Spark, TensorFlow
+Intuition about algorithm and system performance and throughput
+Experience ranking entities or attributes a plus
+Architecture and system/pipeline layout experience a plus
+Scala language experience a plus
+Attention to detail, data accuracy, and quality of output
+Strong interpersonal, written, and verbal communication skills
+Ability to effectively function in a fast-paced environment with shifting priorities and simultaneous projects
+Traits
+A desire to solve business problems with technology.
+Great communication skills, and the ability to influence stakeholders.
+Strong interpersonal skills and exceptional character
+Interest, willingness and demonstrated ability to quickly pick up new technology quickly
+A self-starter who brings energy, passion, and creativity to work every day
+oMJR1TwHxx"
+26,Machine Learning Engineer,"Boston, MA 02114",Boston,MA,02114,None Found,"M.S. computer science, physics, engineering or related field",None Found,None Found,None Found,None Found,"About Us:
+
+As a not-for-profit organization, Partners HealthCare is committed to supporting patient care, research, teaching, and service to the community by leading innovation across our system. Founded by Brigham and Women’s Hospital and Massachusetts General Hospital, Partners HealthCare supports a complete continuum of care including community and specialty hospitals, a managed care organization, a physician network, community health centers, home care and other health-related entities. Several of our hospitals are teaching affiliates of Harvard Medical School, and our system is a national leader in biomedical research.
+
+We’re focused on a people-first culture for our system’s patients and our professional family. That’s why we provide our employees with more ways to achieve their potential. Partners HealthCare is committed to aligning our employees’ personal aspirations with projects that match their capabilities and creating a culture that empowers our managers to become trusted mentors. We support each member of our team to own their personal development—and we recognize success at every step.
+
+Our employees use the Partners HealthCare values to govern decisions, actions and behaviors. These values guide how we get our work done: Patients, Affordability, Accountability & Service Commitment, Decisiveness, Innovation & Thoughtful Risk; and how we treat each other: Diversity & Inclusion, Integrity & Respect, Learning, Continuous Improvement & Personal Growth, Teamwork & Collaboration.
+
+General Summary:
+The Center for Clinical Data Science (CCDS) aims to transform healthcare through cutting-edge data science, machine learning, and artificial intelligence. We combine a translational, product-focused, early-stage culture with the world-class researchers, physicians, and data/computing resources at Harvard-affiliated Massachusetts General and Brigham and Women’s Hospitals, as well as the broader Partners HealthCare System. The Center for Clinical Data Science provides the perfect environment to focus on using analytics to effect tangible advancements in medicine.
+
+We are seeking a top-notch Machine Learning Engineer who understands how to test models for commercial release. The Engineer will be comfortable testing and debugging model performance in a healthcare setting as well as overcoming the challenges that occur in the “last mile.”
+
+The ideal candidate will be a Machine Learning Engineer who is driven by building products that matter, with experience doing it successfully in the past, both independently as well as part of a competitive team. S/he will have demonstrated the ability to find solutions where others couldn’t, with the drive, energy and determination to pull the team forward and not quit until the impossible is possible. We’re looking for self-starters with a strong sense of urgency, comfortable working independently and sourcing input where required, and with a tolerance for operating in a fast-paced early stage environment with a high degree of ambiguity.
+
+PRINCIPAL DUTIES AND RESPONSIBILITIES
+Develop libraries to streamline the training of machine learning model developmentDesign tools and infrastructure to make model development reproducible and scalableArchitect pipelines for model testing, validation, and refinementPublish the results of their work at top-tier machine learning and clinical venuesWork with trainees (e.g. PhD students, residents, and fellows) to ensure technical quality and support of activities such as: setting up model test environments, creating ML tools, evaluating clinical utility of models, and benchmarking model performance.Use the Partners HealthCare values to govern decisions, actions and behaviors. These values guide how we get our work done: Patients, Affordability, Accountability & Service Commitment, Decisiveness, Innovation & Thoughtful Risk; and how we treat each other: Diversity & Inclusion, Integrity & Respect, Learning, Continuous Improvement & Personal Growth, Teamwork & Collaboration
+
+
+Qualifications
+M.S. computer science, physics, engineering or related field
+
+SKILLS/ABILITIES/COMPETENCIES
+Ability to align ML development practices with standard SW development processesStrong programming skills in PythonStrong knowledge of the DICOM standard including storage of segmented informationAbility to utilize C/C++ when performance requirements dictate it (or comfortable learning the one of the language if necessary)Ability to implement scalable, reproducible workflowsAbility to develop machine learning tools in a commercial settingStrong sense of urgency and proactivenessAbility to function effectively and independently in a fast-paced environment, organize and prioritize work independently, and meet tight deadlinesStrong analytical, planning, organization and time management skills with a high attention to detailExcellent and succinct written and oral communication skillsStrong decision making skills, with the ability to negotiate/balance decisions and priorities across functions; comfort making hard decisions with incomplete data and in a timely mannerDemonstrates strong evidence of algorithmic and structured thinking, and intuition for logic, pattern matching, what-if analysis, problem decomposition. and synthesisDemonstrates ability to organize and incorporate complex systems requirements into product features and prioritize features effectively
+EEO Statement
+
+Partners HealthCare is an Equal Opportunity Employer & by embracing diverse skills, perspectives and ideas, we choose to lead. All qualified applicants will receive consideration for employment without regard to race, color, religious creed, national origin, sex, age, gender identity, disability, sexual orientation, military service, genetic information, and/or other status protected under law.
+
+Primary Location: MA-Boston-100 Cambridge - PHS
+Work Locations: 100 Cambridge - PHS 100 Cambridge Street Boston 02114
+Job: Applications/Web Development
+Organization: Partners HealthCare(PHS)
+Schedule: Full-time
+Standard Hours: 40
+Shift: Day Job
+Employee Status: Regular
+Recruiting Department: PHS Center for Clinical Data Science
+Job Posting: Jun 18, 2019"
+27,"Siri - Machine Learning Engineer (Cambridge, MA)","Cambridge, MA",Cambridge,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Summary
+Posted: May 15, 2019
+Weekly Hours: 40
+Role Number: 200060730
+Want to join the team building an intelligent assistant that helps millions of people get things done? You will be part of a cross-functional team consisting of software engineers as well as machine learning scientists and will have a large impact on the Siri product. You should be creative, hard working, and ready to communicate and collaborate with multiple teams.
+Key Qualifications
+Experience in developing modules & libraries for workflow management systems related to Machine Learning, NLP, ASR
+Familiarity with with large-scale data processing and distributed systems
+Strong coding skills in Python, C/C++
+Experience with CI environment (such as Jenkins, TeamCity) and artifact management solutions
+Comfortable with frequent, incremental code testing and deployment
+Hard working and detail oriented individual who will have a profound impact in making Siri better every single day
+Description
+You will be a part of a team that's responsible for a wide variety of speech-related research and development activities, including acoustic modeling, language modeling and tools development. Our speech recognition research is typically data driven and we are particularly passionate about unsupervised techniques to leverage large quantities of data. You should be passionate about building phenomenal products. Because you'll be working closely with engineers from a number of other teams at Apple, you’re a standout colleague who thrives in a dynamic environment with rapidly changing priorities.
+Education & Experience
+BS, MS in Computer Science, Computer Engineering, or equivalent degree with 3+ years experience"
+28,GAMMA - Machine Learning Engineer,"Boston, MA 02109",Boston,MA,02109,None Found,"Engineering Degree or Computer Science Degree (Bachelors or Masters)
+3 to 5 years of experience in algorithms, data structures, and object-oriented programming
+Good understanding of machine learning fundamentals and deep learning
+Implementation experience in machine learning algorithms and applications
+Knowledge of or experience in building production quality and large scale deployment of applications related to natural language processing and machine learning
+Strong programming skills in at least one object oriented programming language (Java, Scala, C++, Python, etc.)
+Fluency with at least one of the modern distributed ML frameworks such as TensorFlow, PyTorch,Caffe, MxNet
+Familiarity with AWS/GCP/Azure technology stack
+Fluency in English required",None Found,None Found,None Found,None Found,"Location:
+Boston, Chicago, Los Angeles, Montreal, New York, San Francisco, Seattle, Toronto, Washington, D.C.
+Geography:
+North America
+Capabilities:
+Big data & advanced analytics, Technology & digital
+Industries:
+Technology industries
+About Us
+Boston Consulting Group (BCG) is a global management consulting firm and the world’s leading advisor on business strategy. We partner with clients from the private, public, and not-for-profit sectors in all regions to identify their highest-value opportunities, address their most critical challenges, and transform their enterprises. Our customized approach combines deep insight into the dynamics of companies and markets with close collaboration at all levels of the client organization. This ensures that our clients achieve sustainable competitive advantage, build more capable organizations, and secure lasting results. Founded in 1963, BCG is a private company with more than 90 offices in 50 countries. For more information, please visit bcg.com
+Practice Area Profile
+BCG GAMMA combines innovative skills in computer science, artificial intelligence, statistics, and machine learning with deep industry expertise. The BCG GAMMA team is comprised of world-class data scientists and business consultants who specialize in the use of advanced analytics to get breakthrough business results. Our teams own the full analytics value-chain end to end: framing new business challenges, building fact-bases, designing innovative algorithms, creating scale through designing tools and apps, and training colleagues and clients in new solutions. Here at BCG GAMMA, you’ll have the chance to work with clients in every BCG region and every industry area. We are also a core member of a rapidly growing analytics enterprise at BCG - a constellation of teams focused on driving practical results for BCG clients by applying leading edge analytics approaches, data, and technology.
+Role Profile
+OVERVIEW OF BCG GAMMA ENGINEERING:
+The BCG GAMMA Engineering team is building the next generation of analytics tools. With your help, BCG GAMMA will develop a platform that fuels BCG GAMMA‘s global data and analytics offerings. Data scientists depend on easy to use interfaces to easily code, increase productivity, answer questions, and envision their results. Clients need to easily interact with our analytics applications to measure the success of their new analytics enabled organization or quickly make decisions based on what and how they see analytic output. Our clients will use our analytics solutions to derive insights around business trends. We “open the doors“ to data for our clients giving them fast and trusted options to search, frame, and share data. BCG GAMMA X‘s goal is to help our clients understand what their data means and provide them the tools to share its narrative with various audiences.
+
+RESPONSIBILITIES:
+Build Machine Learning based systems, tools, and services that serve as infrastructure for our internal and external clients
+Responsible for inventing how we use technology, Machine Learning, and Data to enable the productivity of our clients
+Help envision, build, deploy and develop our next generation of data engines and tools which will help our clients fundamentally transform their business
+Bridge the gap between business and engineering, and functioning with deep expertise in both worlds.
+Your Qualifications
+Engineering Degree or Computer Science Degree (Bachelors or Masters)
+3 to 5 years of experience in algorithms, data structures, and object-oriented programming
+Good understanding of machine learning fundamentals and deep learning
+Implementation experience in machine learning algorithms and applications
+Knowledge of or experience in building production quality and large scale deployment of applications related to natural language processing and machine learning
+Strong programming skills in at least one object oriented programming language (Java, Scala, C++, Python, etc.)
+Fluency with at least one of the modern distributed ML frameworks such as TensorFlow, PyTorch,Caffe, MxNet
+Familiarity with AWS/GCP/Azure technology stack
+Fluency in English required
+Date Posted:
+19-Sep-2018
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+
+BCG is an E-Verify Employer."
+29,Machine Learning Engineer,"Boston, MA",Boston,MA,None Found,None Found,None Found,None Found,None Found,None Found,"A MS or PhD in Machine Learning, Computer Science, Electrical Engineering, or other related fields such as Bioengineering, Statistics, or Physics.
+2+ years of experience in designing, architecting, developing and shipping production-quality machine learning applications spanning multiple domains such as speech, audio, text or sensors.
+","Would you like to use your Machine Learning skills to solve real world problems and improve people’s lives? The Wellness Division at Bose produces innovative products and experiences that improve our customer’s hearing, sleep and wellbeing. We are looking for talented Senior Machine Learning Engineers to help us develop the algorithms, applications, and platforms that will deliver positive change to our customers. This is a unique opportunity to shape the experiences, technologies and products that millions of people will use to improve their quality of life.
+ Job Description
+You will join Bose's new and growing Wellness Data Science group based out of our new Boston Landing location. The mission of this group is to leverage world-class data science, machine learning, and cloud-connected technologies to envision and develop algorithms, and deploy them into compelling, engaging, and personalized user experiences within Wellness products.
+You will be responsible for optimizing and integrating machine learning algorithms into concept prototypes and hardening these prototypes into production-grade applications.
+Specific tasks may include developing software libraries, cloud web services and mobile applications that incorporate machine learning algorithms into prediction, recommendation, classification, and similar use cases.
+You will collaborate with data scientists in understanding the research behind algorithms, engage with software production teams to gather production requirements, and refine algorithms to fit our products functional and operational requirements.
+As part of the team, you will evangelize a data-driven culture throughout the Wellness division and enable products grounded in science and powered by AI which improve our customer’s wellbeing.
+Basic Requirements
+A MS or PhD in Machine Learning, Computer Science, Electrical Engineering, or other related fields such as Bioengineering, Statistics, or Physics.
+2+ years of experience in designing, architecting, developing and shipping production-quality machine learning applications spanning multiple domains such as speech, audio, text or sensors.
+3+ years of programming experience in at least two of the following: Python, C++, Java, or Scala.
+Comfort with object-oriented programming and standard software development practices such as agile development, git workflow and unit testing.
+Excellent communication and presentation skills, and ability to explain deep technical results to diverse groups of stakeholders.
+A life-long learner who is curious, has a passion for solving hard, ill-defined problems, has comfort taking initiative and who continuously seeks to improve their skills and understanding.
+Preferred Requirements (one or more of the following)
+Experience with deep learning architectures and frameworks such as TensorFlow, Keras or PyTorch.
+Experience using cloud computing platforms such as AWS or GCP and distributed ML frameworks such as SageMaker, ML Engine, Apache Spark, Neo4j, Elasticsearch or Mahout.
+Experience analyzing noisy time series such as biosensor data, EEG, IMU and/or other embedded sensor data using digital signal processing, autoregressive models and/or deep learning.
+Experience analyzing audio signals. Experience with deep learning approaches for audio data is a plus.
+Experience with edge computing, particularly embedding machine learning and deep learning algorithms into hardware systems.
+Experience in applying broader AI approaches, such as agent-based learning, active/reinforcement learning and probabilistic inference using knowledge graphs to user-in-a-loop use-cases.
+Experience setting up and/or managing SQL and NoSQL databases (graph, key-value, document.)
+What's in it for you:
+Be a part of and work with a top notch, multidisciplinary, transparent, and agile team.
+Collaborate with people like you who want to solve problems and have fun together.
+Work on developing innovative Wellness products that improve people's lives.
+Excellent work life balance and a continuous learning environment.
+Highly competitive package as well as a comprehensive benefits program.
+We strive to help our employees and customers reach their fullest potential.
+Why Bose?
+Bose has a strong culture that is passionate about making things better, in terms of the products we build but also the way we work together, focusing on respect, integrity and excellence. We all work hard to develop innovative technologies that provide customers with life changing experiences. Our goal is helping people reach their fullest human potential, so they can feel more, do more, and be more.
+In addition to this position, Bose is also hiring Machine Learning Engineers and Data Scientists to join its new and growing data science center of excellence group. The mission of this group is to develop, extend and use data science, machine learning (ML), artificial intelligence (AI), and related technologies to extract insights from data for driving business value. This group will provide world-class data science expertise, support and consulting to all business divisions (such as consumer electronics and wellness) across the company.
+Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665_PrescribedNondiscriminationPostingLanguage_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information."
+30,Machine Learning Engineer,"Somerville, MA",Somerville,MA,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Neural Magic is an early stage deep learning software company pioneering a new way for organizations to use deep neural networks without requiring specialized hardware accelerators.
+We are seeking a machine learning engineer excited to work with state-of-the-art models and cutting-edge research, as well as with parallel and concurrent algorithms. This person will work closely with our technical team, bringing deep learning product requirements to our engineers and putting machine learning research into practice within our software. If you are a machine learning engineer who wants to contribute to solving challenging technical problems at the forefront of machine learning, this is the role for you.
+Founded by an award-winning team of professors and students out of MIT, Neural Magic is a venture-backed company headquartered in Davis Square, Somerville, MA.
+What you’ll do
+Contribute to designing, building, evaluating, shipping, and refining Neural Magic’s machine learning product including libraries, demos, and notebooks
+Prototype and iterate on state of the art research against proprietary, in-house software
+Work closely with customers to understand specific needs, implementation details, and successful deployment using Neural Magic’s engine
+Collaborate with a cross functional team about market requirements, best practices and how machine learning is deployed in the wild
+Be a trusted advisor and partner, providing deep analysis of deep learning approaches, helping to define and conduct pilot tests
+What you’ll need:
+Master’s or PhD degree in computer science or math, or equivalent experience. Prefer a focus on machine learning.
+Solid knowledge of machine learning and deep learning fundamentals, in particular MLPs and CNNs
+Experience with taking deep learning models from conception to production: writing, training, testing, and deploying machine learning models
+Proficient with Python and one or more deep learning frameworks such as Pytorch, Tensorflow, Caffe, MXNet, Keras, etc
+Experience working with large data pipelines for analyzing and training
+Self-directed individual who learns quickly and is comfortable operating in a blank slate environment
+Excellent communication skills, ability to tailor technical information for different audiences
+Strong sense of project ownership and personal responsibility"
+31,Associate Machine Learning Engineer,"Cambridge, MA 02142",Cambridge,MA,02142,None Found,"Undergraduate degree in Computer Science or technical field (Physics, Math, etc.) with significant machine learning coursework from the computer science department.
+2+ years training models on large, complex and/or biased datasets.
+2+ years experience with deep learning frameworks like TensorFlow, PyTorch, Keras.
+Familiar with cloud-based data pipelines (experience with Redshift/BigQuery, Apache Beam, Spark)
+Fluent in Python
+",None Found,None Found,None Found,None Found,"The life sciences are in the midst of a data revolution. Cheap and accurate genome sequencing is here, advanced imaging is routine, and clinical data is increasingly stored in electronic formats. These innovations — and the massive data sets they produce — have brought us to the threshold of a new era in medicine, one where the data sciences hold the potential to propel our understanding and treatment of human disease.
+As a result, The Broad Institute has created a machine learning initiative to drive innovation beginning with the world's leading killer, cardiovascular disease. We are building open-source software to derive insights from massive amounts of multimodal clinical and genomic (ECGs, MRIs, EHRs) data using deep learning architectures. Our aims include more than just predictive accuracy for the onset of disease - we will use our models to uncover new biology itself that can drive new therapeutics and treatment.
+The role:
+You will work on a small team of machine learning scientists, engineers and cardiovascular disease experts.
+You will identify the highest impact opportunities by whiteboarding solutions with the top genetic and clinical researchers in the world.
+You will conduct theoretical ML research with collaborators from MIT and Harvard and implement cutting edge methods for learning representations of cardiovascular health.
+You will collaborate regularly with MD/PhDs from across the life sciences to explore how to embed cardiac physiology into learning agents.
+You will hunt for new ways to accelerate therapeutic development with industry collaborators.
+You will deploy cloud-based software to a diverse audience of researchers across the world.
+You will work with real patient genomic and clinical data to train and validate impact.
+Qualifications
+Undergraduate degree in Computer Science or technical field (Physics, Math, etc.) with significant machine learning coursework from the computer science department.
+2+ years training models on large, complex and/or biased datasets.
+2+ years experience with deep learning frameworks like TensorFlow, PyTorch, Keras.
+Familiar with cloud-based data pipelines (experience with Redshift/BigQuery, Apache Beam, Spark)
+Fluent in Python
+#LI-POST
+EOE / Minorities / Females / Protected Veterans / Disabilities
+EOE / Minorities / Females / Protected Veterans / Disabilities"
+32,Senior Machine Learning Engineer,"Cambridge, MA 02138",Cambridge,MA,02138,None Found,None Found,None Found,None Found,None Found,None Found,"Meet CarGurus—the #1 visited online car shopping website in the US. At CarGurus, we're building the world's most trusted and transparent automotive marketplace where it's easy to find great deals from top-rated dealers.
+
+Founded in 2006 by Langley Steinert (co-founder of TripAdvisor), CarGurus is a technology company with a passion for data and its power to simplify every aspect of the car shopping experience. Using proprietary technology, search algorithms and innovative data analytics, we provide unbiased validation on pricing, dealer reputation and vehicle history.
+
+We're looking for a thoughtful, technical and deeply collaborative Senior Machine Learning Engineer to work with our growing Analytics Engineering team! This position will provide foundational framework for the Data Science team. This includes building the infrastructure to allow the team to ""publish"" models into production, developing Python libraries to facilitate feature generation, and providing the data science team with product-based datasets to train their models.
+
+What you'll do:
+
+Collaborate with Data Scientists, Emerging Product Engineers, and Analysts
+Be the interface between the data warehouse and the data science team, using transformation frameworks to automate dataset generation
+Help Data Scientists optimize, monitor, and deploy their models
+Build, maintain, and upgrade a platform for running machine learning models
+Develop APIs to serve model predictions in real time and at scale
+Learn the business inside and out, interfacing with domain knowledge experts
+Participate in creating the team's roadmap, providing feedback on priority and business value.
+
+Who You Are:
+
+3+ years experience as a data engineer, machine learning engineer, or a software engineer with a passion for data.
+Team player who thrives in a collaborative environment.
+Self-starter, willing to jump in and learn something new to execute on a task.
+Experienced in SQL, with ability to optimize database and query performance.
+A natural detective, with a keen interest in solving business problems with data driven methods.
+Deeply focused on delivering value to stakeholders, with a data-as-a-product mindset.
+Passionate about creating production grade systems and data quality, supporting what you build.
+Familiarity with cloud computing and architectures.
+Exposure and experience with machine learning is a plus.
+
+Technologies we use:
+Airflow, AWS, Docker, Snowflake, Python, Spark, Kafka, Prometheus, Snowplow
+
+CarGurus Culture:
+At the core of our company culture is a spirit of innovation, curiosity and collaboration. True to our start-up roots, we're nimble, flexible and hardworking. We have a great respect for testing and learning and a healthy aversion to scheduling meetings to discuss meetings. Lunch is catered daily. Gym membership is free. Foosball and ping pong are played often. Now a publicly-traded company, we're as committed as ever to cultivating the culture that got us here.
+
+In addition to the US, CarGurus operates sites in Canada, the UK and Germany with other markets on the horizon. Our offices are located in Cambridge, MA, Detroit, MI and Dublin, Ireland. If you'd like to learn more, please visit our careers page ( https://careers.cargurus.com/ )."
+33,Senior Machine Learning Engineer,"Boston, MA 02110",Boston,MA,02110,None Found,None Found,"Knowledge of operating system concepts – Multi threading / concurrencyCassandra experienceDevelopment skills in Python, Java or c# or Objective CExperience in statistical programming in PythonKnowledge and expertise with machine learning techniquesProficient knowledge of Linux environmentExperience in designing scalable systemsDebugging & troubleshooting real-time applicationsExperience in source control like Git/TFS/SVN",None Found,None Found,None Found,"Job Description:
+Position Summary
+Senior machine learning engineer needed to build a scalable personalization platform and reusable machine learning APIs. Need a self-starter who is passionate about the machine learning space.
+Required Skills
+Solid understanding of design & analysis of algorithms and data structures
+Knowledge of operating system concepts – Multi threading / concurrencyCassandra experienceDevelopment skills in Python, Java or c# or Objective CExperience in statistical programming in PythonKnowledge and expertise with machine learning techniquesProficient knowledge of Linux environmentExperience in designing scalable systemsDebugging & troubleshooting real-time applicationsExperience in source control like Git/TFS/SVN
+Desired SkillsExperience with SparkML
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40"

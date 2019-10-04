@@ -1,0 +1,276 @@
+,Title,Location,City,State,Zip,Country,Qualifications,Skills,Responsibilities,Education,Requirement,FullDescriptions
+0,Principal Machine Learning Engineer,"Denver, CO 80202",Denver,CO,80202,None Found,None Found,None Found,None Found,None Found,None Found,"Ibotta is seeking a Principal Machine Learning Engineer to lead the development of Ibotta's next generation of Machine Learning platforms and systems. We're looking for a world-class machine learning engineer who has a passion for building scalable machine learning solutions using technologies such as Python, Spark, AWS, Airflow, Sagemaker, TensorFlow, Kafka, etc. Every member of our agile team has input into our roadmap and will have a real impact.
+
+Here is what you'll be doing:
+
+Research, design, and deploy the next generation of Ibotta's ML architectures, workflows, and standards that seamlessly integrate with key product features across the organization.
+Work with Ibotta architecture team to ensure integration of machine learning services and pipelines in larger technology infrastructure.
+Be the leading contributor, voice, and thought leader in a growing community of machine learning practitioners.
+Identify, research, prototype and evaluate cutting edge big data and machine learning technologies.
+Communicate complex machine learning solutions, concepts and the results of analyses in a clear and effective manner to business stakeholders and technology leaders to maximize the effectiveness of machine learning initiatives.
+Mentor a growing team of team members who are hungry to learn from experienced machine learning engineers.
+
+Here is what we're looking for:
+
+7+ years of professional industry experience as a Machine Learning Engineer or Software Engineer, focused on deploying machine learning systems at scale.
+Advanced knowledge of multiple ML frameworks like: Sklearn, TensorFlow, Sagemaker, Spark ML.
+Expertise working with distributed big-data tools and event-based architectures, ideally Spark and Kafka.
+Deep hands-on experience prototyping, building, releasing, and monitoring mission-critical machine learning models in high traffic applications.
+Extensive experience working within a cloud-based infrastructure, ideally AWS.
+
+About Us:
+Headquartered in Denver, CO, Ibotta (""I bought a..."") is a free app that's transforming the shopping experience by making every purchase rewarding. The company partners with leading brands and retailers to offer real cash back on groceries, travel, electronics, clothing, gifts, home and office supplies, dining out, and much more. Ibotta is the ultimate starting point for savings, and having paid out more than $500 million in cash rewards to its Savers, it's no surprise why Ibotta is one of the most downloaded shopping apps in the United States
+
+Learn more about Ibotta here: https://liferewarded.ibotta.com/press-and-media/ ( https://liferewarded.ibotta.com/press-and-media/ )
+
+To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com. ( https://medium.com/building-ibotta )
+
+Additional Details:
+
+This position is located in Denver, CO and includes competitive pay, benefits package (including medical, dental, vision), 401k, commuter stipend, and equity.
+Ibotta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, and genetics.
+Applicants must be currently authorized to work in the United States on a full-time basis.
+
+"
+1,Senior Machine Learning Engineer,"Boulder, CO 80301",Boulder,CO,80301,None Found,None Found,None Found,None Found,None Found,None Found,"Overview
+
+LogRhythm is the pioneer in Next Generation SIEM and Threat Lifecycle ManagementTM (TLM) technology, empowering organizations on six continents to rapidly detect, respond to and neutralize damaging cyberthreats. Our TLM platform unifies leading-edge data lake technology, artificial intelligence and security analytics to serve as the foundation for the AI-enabled security operations center. We are consistently recognized as a leader in the security intelligence domain and have been placed in Gartner's SIEM Magic Quadrant for 6 consecutive years.
+
+The LogRhythm Data Science team is seeking a qualified Senior Machine Learning Engineer with the requisite experience and passion for designing, implementing, and delivering data-driven analytics products to support our customers need for advanced cyber threat detection and mitigation. The qualified individual is an experienced data scientist and software engineer who has demonstrated expertise with modern, scalable and distributed machine learning analytics platforms in a highly collaborative engineering environment. The Senior Machine Learning Engineer is expected to be a key contributor on a growing Data Science team.
+
+Responsibilities
+
+
+Research and develop data features and models that can be deployed to modern distributed cloud processing infrastructure enabling security analytics use cases.
+Leverage state of the art technology stacks and cloud platforms to design, implement and maintain scalable infrastructure for ingesting, processing and persisting large volumes of batched and streaming data.
+Develop production quality software for interacting with cloud based distributed data pipelines, data stores and data models.
+Contribute to multiple production codebases in a continuous delivery (CI/CD) environment.
+Write, debug, maintain and constructively review code on highly collaborative software engineering and data science teams.
+Provide thought leadership and advocate for best practices in development and deployment of modern statistical and machine learning analytics.
+
+Requirements
+
+
+Very strong mathematical and statistical analysis skills. A master's degree in a relevant field (Applied Mathematics, Statistics, Computer Science) is highly desirable.
+3+ years using and applying modern statistical and machine learning approaches to solve analytics problems
+3+ years of experience with analytics languages and frameworks such as pyspark, pandas, numpy, scipy, jupyter notebooks, scikit-learn
+3+ years of experience with cloud platforms and technologies such as GCP/AWS and managed data processing frameworks such as Dataproc/EMR.
+Good understanding of common patterns for scalable interaction with SQL and no SQL databases such as postgresql and Elasticsearch
+3+ years experience with standard development tooling such as Git, Rally/Jira, Vagrant, etc.
+Good knowledge of one or more high-level programming languages such as Python, Golang, or Java and a strong grasp of software engineering principles such as OOP.
+Knowledge of distributed computing fundamentals and the ability to design for scalability on Linux platforms
+
+Highly Valued Skills/Qualifications
+
+
+Domain knowledge in the network and computer security space
+
+"
+2,Machine Learning Engineer - Language Modeling,"Boulder, CO",Boulder,CO,None Found,None Found,None Found,None Found,None Found,None Found,"
+Proficient in one of Java or C++ or Python
+Excellent algorithms skills and ability to write efficient code
+Good understanding of Machine Learning algorithms
+Strong problem solving and communication skills
+BS/MS in Computer Science or equivalent
+","About the Role:
+
+This is a fantastic opportunity to join the core group working on Speech Recognition at SoundHound
+Work on building large scale Statistical Language Models, a critical system in Speech Recognition
+Run experiments and tune parameters to improve Statistical Language Models
+Build prototypes to explore novel methods/algorithms to improve the Statistical Language Models
+Identify new techniques to explore, prototype them, and then implement winning ideas in production
+
+Requirements:
+
+Proficient in one of Java or C++ or Python
+Excellent algorithms skills and ability to write efficient code
+Good understanding of Machine Learning algorithms
+Strong problem solving and communication skills
+BS/MS in Computer Science or equivalent
+
+Nice-to-haves:
+
+Experience building production systems based on Machine Learning lifecycle
+Experience with application of Deep Neural Network methods to Natural Language Processing problems
+Familiarity with Statistical Language Modeling
+Familiarity with MapReduce/Spark and other relevant infrastructure
+Experience working with Speech Recognition technology
+
+"
+3,Machine Learning Engineer,"Boulder, CO 80301",Boulder,CO,80301,None Found,None Found,None Found,None Found,None Found,None Found,"Join our team and experience Workday!
+It's fun to work in a company where people truly believe in what they're doing. At Workday, we're committed to bringing passion and customer focus to the business of enterprise applications. We work hard, and we're serious about what we do. But we like to have a good time, too. In fact, we run our company with that principle in mind every day: One of our core values is fun.
+Job Description
+Machine Learning for Financials is responsible for the architecture and development of the machine learning technologies underpinning one of the Workday’s fastest-growing lines of business. Our work is a blend of large-scale data processing, battle-hardened machine learning methodology, and microservice design that places craftsmanship at the forefront of everything we do. We operate with a high degree of autonomy and strong sense of ownership.
+As a machine learning engineer on this team, you will help us tackle user pain points leveraging variety of Machine Learning techniques like Anomaly Detection, Natural Language Processing/Understanding, Deep Learning. You will utilize Workday’s vast computing resources on rich and extensive and exclusive datasets to deliver value to transform the way Finance departments work. You will conceive and build machine learning systems that shape the future of how finance works.
+This is a unique opportunity to be part of a growth team that is focused on building predictive capabilities across the Financials Product area to continue to push Workday up and to the right in the Gartner Leader Quadrant.
+As a principle, we invest heavily in our people - the team hosts a diverse mix of technical talks and networking events, encourages and supports travel for conferences and speaking opportunities, and cultivates career-defining work through a focus on health, and wellbeing of your family to provide a fun environment that lets you live your life fully. This is a place where you can thrive in a people-first culture that creates an environment focused on your success and ability to do your best and invest in lifelong development and growth.
+Join us as we change the way millions of people work. This is your chance to make an indelible impact on the global economy by helping all enterprises realize their potential through intelligent, predictive Finance Products.
+We would love to discuss your:
+3+ years experience using Python, Java in production environments (C, C++, Scala etc.)
+REST-based API design
+Interest in or experience with machine learning algorithms especially for supervised and unsupervised methods
+Passion for developer, machine learning engineer productivity and interest in or experience building tools for builders e.g. with AWS, Docker, Kubernetes, Jenkins, CircleCI, Salt, Vagrant etc.
+A strong sense of ownership and a persistent desire to grow and lead beyond the scope of current role
+An ability to balance a sense of urgency with shipping high quality and pragmatic solutions.
+Passion for building machine learning products that bring value to the end user
+Nice to Have:
+Educational background - Masters/PhD in a relevant field - (Computer Science, Applied Math, Statistics, DS, Computational Physics)"
+4,Artificial Intelligence/Machine Learning Engineer,"Denver, CO",Denver,CO,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Location: Denver, CO
+Duration: 1 year
+
+Job Description:
+Strong background in statistical concepts and calculations.Developing AI and ML models. Researching on new AI and ML techniquesUse machine learning, data mining, predictive modelling & statistical techniques to create new scalable models for business requirement.Strong Proficiency in statistical analysis tools ( R, Python and SAS)Research and implement data mining machine learning algorithms in supervised and unsupervised learning areas.Awareness or Experience with big data tools (Hadoop, HDFS & Spark, Map Reduce)"
+5,Sr Data Scientist / Machine Learning Engineer,"Denver, CO 80202",Denver,CO,80202,None Found,None Found,None Found,None Found,None Found,None Found,"Ibotta is seeking a Sr. Data Scientist / Machine Learning Engineer to build software that helps millions of our shoppers save time and money. We're looking for a world-class machine learning engineer who has a passion for building scalable machine solutions using technologies such as Python, Spark, AWS, Airflow, Sagemaker, TensorFlow, etc. Every member of the team has input into our roadmap and will have a real impact as part of a small, agile team.
+
+Here is what you'll be doing:
+
+Design, develop and deploy large scale, big data-driven machine learning models that are integrated with key product features. Some examples of potential projects include:
+Recommendation system that leverages robust, granular customer data sets and various modeling approaches to ensure the most relevant content is shown to each user
+Search relevancy engine that leverages machine learning, word embeddings, ranking algorithms, and millions of products to help surface the most relevant content for each search query.
+Real-time optimization frameworks to ensure that we are deploying marketing dollars and business levers in the most efficient manner possible.
+Look-alike modeling algorithms that determine a user's propensity to take an action in the future.
+Multivariate testing framework that empirically evaluates the efficacy of product enhancements as quickly as possible.
+Collaborate with Engineering, Product, and Analytics leads to establish analytic standards and platforms that scale and can be leveraged in various initiatives throughout the organization
+Ensure that testing and validation is a pervasive component of data science and machine learning solutions
+Deliver world class data-driven products in partnership with cross functional teams (Product Managers, Data Engineers, Software Engineers, etc.)
+Communicate complex machine learning solutions, concepts and the results of analyses in a clear and effective manner to business stakeholders and technology leaders to maximize the effectiveness of machine learning initiatives
+Mentor a growing team of junior team members who are hungry to learn from experienced machine learning engineers
+
+Here is what we're looking for:
+
+5+ years of professional experience as a Machine Learning Engineer, Data Scientist, or equivalent analytics role, focusing on machine learning and/or statistical modeling.
+Advanced knowledge of a data science toolkit like: Python (sklearn, scipy), Spark ML, TensorFlow
+Experience working with distributed big-data tools like: Spark, Hive or Presto.
+Comfort working with data both in structured and unstructured forms.
+Experience writing production-ready code and implementing machine learning solutions in production environments.
+The ability to think critically, leverage domain expertise and translate high-level business objectives into tangible machine learning solutions.
+
+Strongly Preferred:
+
+Experience with one or more of the following is a big plus: recommendation systems, search relevancy, real-time/streaming data pipelines, statistically-sound marketing attribution, and profiling/optimizing Spark applications..
+Deep hands-on experience prototyping, building, releasing, and monitoring mission-critical machine learning models in high traffic applications.
+Be a leading contributor, voice and thought leader in an growing community of machine learning practitioners.
+Hands-on experience with agile software development, system reliability, and offline/online experimentation.
+Experience with product release processes like automated testing and code reviews.
+Comfort working within a cloud-based infrastructure, ideally AWS.
+
+About Us:
+Headquartered in Denver, CO, Ibotta (""I bought a..."") is a free app that's transforming the shopping experience by making every purchase rewarding. The company partners with leading brands and retailers to offer real cash back on groceries, travel, electronics, clothing, gifts, home and office supplies, dining out, and much more. Ibotta is the ultimate starting point for savings, and having paid out more than $500 million in cash rewards to its Savers, it's no surprise why Ibotta is one of the most downloaded shopping apps in the United States
+
+Learn more about Ibotta here: https://liferewarded.ibotta.com/press-and-media/ ( https://liferewarded.ibotta.com/press-and-media/ )
+
+To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com. ( https://medium.com/building-ibotta )
+
+Additional Details:
+
+This position is located in Denver, CO and includes competitive pay, benefits package (including medical, dental, vision), 401k, commuter stipend, and equity.
+Ibotta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, and genetics.
+Applicants must be currently authorized to work in the United States on a full-time basis.
+
+"
+6,Machine Learning Engineer - Acoustic Modeling,"Boulder, CO",Boulder,CO,None Found,None Found,None Found,None Found,None Found,None Found,"
+Understanding of modern machine learning techniques
+Experience with Deep Learning / Neural Network frameworks such as Tensorflow, PyTorch, Caffe, Torch, MxNet, etc.
+Strong programming skills on Linux using C++ and/or Python
+Solid knowledge of algorithms and probability / statistics
+MS / PhD in Computer Science or Electrical Engineering or Statistics or equivalent
+","About the Role:
+
+Apply deep learning techniques and neural networks to improve acoustic models for ASR
+Innovate on state-of-the-art deep learning systems for speech recognition
+
+Requirements:
+
+Understanding of modern machine learning techniques
+Experience with Deep Learning / Neural Network frameworks such as Tensorflow, PyTorch, Caffe, Torch, MxNet, etc.
+Strong programming skills on Linux using C++ and/or Python
+Solid knowledge of algorithms and probability / statistics
+MS / PhD in Computer Science or Electrical Engineering or Statistics or equivalent
+
+Nice-to-Haves:
+
+Experience working with automatic speech recognition systems
+Experience working with speaker identification and keyword spotting
+Experience in computer vision and pattern recognition
+Knowledge of DSP principles, noise reduction, echo cancelation
+
+"
+7,Analytics and Business Insight Intern,"Lone Tree, CO 80124",Lone Tree,CO,80124,None Found,None Found,None Found,None Found,None Found,None Found,"Your Opportunity
+Analytics and Business Insight is a department of 130+ team members focused on firm-wide strategic decision support, client behavior diagnostics, advanced analytics, market research, client loyalty, management reporting, and client and prospect data management. Our mission is to help Schwab compete on analytics – in particular, to serve our clients and cultivate their loyalty by understanding their needs and goals better than anyone, and then to make data-driven, strategic decisions. Our services are in heavy demand due to our reputation for accuracy, strong business insight, outstanding productivity, and attention to detail.
+
+Are you interested in learning how to discover insights and influence others to turn them into action? As an intern with our group you will develop the skillset to deliver quantitative and qualitative insights to support data-driven decision making and measure the impact. We work collaboratively across the company to drive strategic thinking and deliver impactful analysis and reporting.
+What you’re good at
+Analytics Interns
+The Analytics function at Charles Schwab provides advanced quantitative analyses to deliver insights to help business partners and senior leadership better understand our prospects, clients, and products. These insights help guide Charles Schwab in the development of new product/service offerings, better target prospects and clients, increase acquisition of desired prospects, understand the ROI of advertising and marketing promotions, and identify strategies to grow client engagement, retention, and loyalty. Our analytical services are in heavy demand across the firm as our team is a critical component in Schwab’s commitment to being a leading data-driven organization.
+
+During the course of the summer you will learn how analytics supports a large organization including being able to successfully articulate the linkage between business decisions, business objectives, and analytical approaches & findings. You will work on a specific analytics problem under the guidance of an experienced analytics manager that will involve development of an analytical framework, identifying data needed to solve the problem, exploring and visualizing data, developing conclusions and building a final presentation deck. During the process, you will develop contextual skills with analytical tools such as Python, SAS, R, SQL, Excel, and Tableau.
+
+Business Intelligence Intern
+The Business Intelligence function is an internal consulting group that leverages data, analytics and research to build out measurement, reporting, and analytics solutions that help our business partners track progress and make strategic business decisions to grow the business. These solutions help Charles Schwab track new product/service offerings, better understand prospects and clients, increase acquisition of desired prospects, understand the ROI of advertising and marketing promotions, and identify strategies to grow client engagement, retention, and loyalty. Our measurement and reporting solutions are in heavy demand across the firm as our team is a critical component in Schwab’s commitment to being a leading data-driven organization.
+
+During the course of the summer you will learn how business intelligence solutions support a large organization including how to leverage an analytic mindset to develop reporting solutions to drive informed decision making across product and business lines. You will work on a specific business intelligence project under the guidance of an experienced business intelligence manager that will involve development of business intelligence assets involving complex data sets, identifying key trends and visualizing those findings into a final presentation. During the process you will develop contextual skills with analytical and reporting tools such as Tableau, SQL, Excel, SAS, and R.
+
+Data Science Intern
+The Data Science team at Charles Schwab provides advanced capabilities in Machine Learning, Data Mining and Statistical Analyses to deliver actionable insights to help business partners and senior leadership better understand our prospects, clients, and products. These insights help guide Charles Schwab in the development of new product/service offerings, better target prospects and clients, increase acquisition of desired prospects, understand the ROI of advertising and marketing promotions, and identify strategies to grow client engagement, retention, and loyalty. Our services are in heavy demand across the firm as our team is a critical component in Schwab’s commitment to being a leading data-driven organization.
+
+During the course of the summer you will learn how data science and machine learning supports a large organization including being able to successfully articulate the linkage between business decisions, business objectives, and analytical approaches & findings. You will work on a specific data science problem under the guidance of an experienced data scientist that will involve development of a methodology framework, identifying datasets needed to solve the problem, exploring and visualizing data, developing conclusions and creating a final presentation. During the process you will develop contextual skills with the latest data science tool stack within the R, Python and Spark ecosystems.
+What you have
+Undergraduate Positions:
+Planned graduation date between December 2020 and May/June 2021, earning a bachelor’s degree in Economics, Psychology, Hard Sciences, Applied Math, Computer Science, Information Systems, Information Technology, Engineering, Operational Research, Finance or a similar major.
+Coursework or interest in learning SQL, R, Python, SAS, Spark, Excel, or Tableau.
+Curiosity to learn how to work with and interpret large data sets and turn the findings into actionable insights.
+Excellent communication skills (written and verbal)
+Excellent organizational skills, enabling one to manage multiple priorities
+Ability to build strong relationships and work effectively with various levels of the organization throughout the Company
+ Graduate Positions:
+Planned graduation date between December 2020 and May/June 2021, earning a MS/PhD in Machine Learning, Computer Science, Economics, Applied Math, Engineering, Operational Research, or other quantitative disciplines highly preferred
+2+ years of industry experience as an analyst, data scientist, or machine learning engineer
+Strong understanding of how analytics supports a large organization including being able to successfully articulate the linkage between business objectives, analytical approaches & findings and business decisions
+Excellent analytical skills with demonstrated ability to solve problems
+Mastery of SQL and other programming/data processing experience (knowledge of Python, SAS and SAS macro programming would be a plus); knowledge or ability to learn Python, Scala, R as necessary
+Excellent communication skills (written and verbal)
+Excellent organizational skills, enabling one to manage multiple priorities
+Ability to build strong relationships and work effectively with various levels of the organization throughout the Company
+A results-driven individual with a passion for data/analytics who can work collaboratively with others to solve business problems that drive business growth"
+8,Data Scientist / Machine Learning Engineer,"Denver, CO 80202",Denver,CO,80202,None Found,None Found,None Found,None Found,None Found,None Found,"Ibotta is seeking a Data Scientist / Machine Learning Engineer to build software that helps millions of our shoppers save time and money. We're looking for a machine learning engineer who has a passion for building scalable machine solutions using technologies such as Python, Spark, AWS, Airflow, Sagemaker, TensorFlow, etc. Every member of the team has input into our roadmap and will have a real impact as part of a small, agile team.
+
+Here is what you'll be doing:
+
+Design, develop and deploy large scale, big data-driven machine learning models that are integrated with key product features. Some examples of potential projects include:
+Building/scaling ML related infrastructure to help streamline the development, evaluation, deployment, and re-usability of core ML features and services.
+Recommendation system that leverages robust, granular customer data sets and various modeling approaches to ensure the most relevant content is shown to each user.
+Search relevancy engine that leverages machine learning, word embeddings, ranking algorithms, and millions of products to help surface the most relevant content for each search query.
+Multivariate testing framework that empirically evaluates the efficacy of product enhancements as quickly as possible.
+Collaborate with Engineering and Advanced Analytics leads to establish analytic standards and platforms that scale and can be leveraged in various initiatives throughout the organization.
+Deliver world class data-driven products in partnership with cross functional teams (Product Managers, Data Engineers, Software Engineers, etc.).
+Communicate complex machine learning solutions, concepts and the results of analyses in a clear and effective manner to business stakeholders and technology leaders to maximize the effectiveness of machine learning initiatives.
+
+Here is what we're looking for:
+
+2+ years of professional experience as a Machine Learning Engineer, Data Scientist, or equivalent role, focusing on machine learning, statistical modeling, and/or ML infrastructure.
+Advanced knowledge of a data science toolkit like: Python (sklearn, scipy), Spark ML, or TensorFlow.
+Comfort extracting data from both structured and unstructured sources using tools like: SQL and Spark.
+The ability to think critically, leverage domain expertise and translate high-level business objectives into tangible data science solutions.
+
+Strongly Preferred:
+
+Experience with one or more of the following is a big plus: recommendation systems, search relevancy, real-time/streaming data pipelines, statistically-sound marketing attribution, and profiling/optimizing Spark applications..
+Experience working with distributed big-data tools like: Spark, Hive or Presto.
+Experience writing production-ready code and implementing data science solutions in production environments.
+Experience with online/offline model quality and evaluation in production environments.
+Comfort working within a cloud-based infrastructure, ideally AWS.
+
+About Us:
+Headquartered in Denver, CO, Ibotta (""I bought a..."") is a free app that's transforming the shopping experience by making every purchase rewarding. The company partners with leading brands and retailers to offer real cash back on groceries, travel, electronics, clothing, gifts, home and office supplies, dining out, and much more. Ibotta is the ultimate starting point for savings, and having paid out more than $500 million in cash rewards to its Savers, it's no surprise why Ibotta is one of the most downloaded shopping apps in the United States
+
+Learn more about Ibotta here: https://liferewarded.ibotta.com/press-and-media/ ( https://liferewarded.ibotta.com/press-and-media/ )
+
+To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com. ( https://medium.com/building-ibotta )
+
+Additional Details:
+
+This position is located in Denver, CO and includes competitive pay, benefits package (including medical, dental, vision), 401k, commuter stipend, and equity.
+Ibotta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, and genetics.
+Applicants must be currently authorized to work in the United States on a full-time basis.
+
+"

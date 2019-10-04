@@ -1,0 +1,750 @@
+,Title,Location,City,State,Zip,Country,Qualifications,Skills,Responsibilities,Education,Requirement,FullDescriptions
+0,Machine Learning Engineer,"Austin, TX",Austin,TX,None Found,None Found,None Found,None Found,None Found,"
+Bachelor’s degree in engineering, computer science or mathematics, or alternate degree showcasing machine learning skills
+Experience collaborating on software projects using version control such as Git, GitHub, Bitbucket, etc.
+","
+Bachelor’s degree in engineering, computer science or mathematics, or alternate degree showcasing machine learning skills
+Experience collaborating on software projects using version control such as Git, GitHub, Bitbucket, etc.
+","Come help us craft the future
+
+Senseye aims to revolutionize the way humans communicate with technology. We are developing a unique, sensory interface technology to create a direct link from a computer to a human’s mind via the complex dynamic properties of the human eye.
+
+We're looking for a machine learning engineer that loves solving meaningful problems to join our team in downtown Austin. We are a diverse group of people with a broad range of backgrounds, experience, and perspectives who have a lot of work to do and we're excited to have your help to achieve our visionary goals.
+About you
+
+You have knowledge and experience with a wide variety of machine learning and statistical models, applying these tools to computer vision and tabular problems. You are comfortable making additions to existing production code based on modeling needs and updates. You understand the unique challenges of modeling compared to software development and have balanced these needs in past projects. You have experience defining modeling problems, preparing data through analysis, wrangling, cleaning, training, and testing statistical and machine learning models. You understand the difference between a test score in model building and actual product performance and know how to design processes to quantify this. You use your knowledge of machine learning algorithms to computer vision products as well as making predictions on statistical datasets. You work comfortably with APIs and out-of-memory data. You are curious, dedicated to learning and improvement, and have no problem being honest about where a modeling project is at and what its limitations might be.
+
+
+The Role
+
+Use your python knowledge to write and maintain safe, clean, and testable code.
+Work with both engineers and researchers to create, train, test, and deploy algorithms from large neural nets to custom models in production products.
+Shepard modeling projects through their entirety, including high-level design, prototyping, training, testing, and deploying.
+Deeply study and understand both our structured and unstructured data
+Work with out-of-memory video and image data as well as tabular data through custom APIs to create compound, multiple model solutions satisfying product needs.
+Design installable software to clean, perform analysis, and train models.
+Communicate product-level needs and guidelines to other teams resulting from modeling choices
+Stay sharp by finding ways to grow your knowledge and help us to continually improve.
+Find ways to apply your adaptability and flexibility. We're a small group and need all the teamwork we can get to reach our goals.
+Requirements
+Education and Work Experience
+
+Bachelor’s degree in engineering, computer science or mathematics, or alternate degree showcasing machine learning skills
+Experience collaborating on software projects using version control such as Git, GitHub, Bitbucket, etc.
+Additional Requirements
+
+Must be able to pass an FBI background check
+Position requires access to Covered Defense Information for which the US Government requires US Citizenship
+Senseye participates in E-Verify to confirm the eligibility of employees to work in the United States
+Senseye maintains a drug free workplace and conducts pre-employment substance abuse testing. Senseye may also conduct substance abuse testing during employment, in accordance with its policies and customer requirements. Employment is subject to passing such tests.
+
+Our General Hiring Process
+Step 1: Non technical interview with our Director of People Ops
+Step 2: Technical phone interview - chat with one of our Engineering team members
+Step 3: Coding challenge - show us your problem solving skills
+Option of take-home or on-site coding challenge based on applicant’s schedule and needs
+Step 4: In person interviews with our Engineering members
+Step 5: Offer
+Benefits
+The freedom and trust to define your role as we design, build, and ship our products
+Competitive salary and stock option plan
+Flexible schedules
+Mothers' room
+Company health care plan (covers 100 percent of employee’s)
+Medical and dental insurance
+Short and long term disability insurance
+Life insurance policy
+Option to add vision insurance at a low cost
+Options to add insurance coverage for spouses, domestic partners, and children
+401k
+Flexible paid time off (vacation, sick leave, and public holidays)
+Commuter benefits for parking, public transit, carshares, etc.
+Fully stocked kitchen with snacks and drinks
+Catered lunches
+Opportunities for continuing education
+
+Senseye is dedicated to building a community of employees that are diverse, passionate, and engaged. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, parental or pregnancy status, national origin, sexual orientation, age, marital status, disability, or veteran status. When we're safe, healthy, and balanced we can accomplish phenomenal things together.
+
+-
+Did you know that women apply for open jobs only if they think they meet 100 percent of the criteria listed? Men will apply to that same posting if they feel they meet 60 percent of the requirements.
+We know that not everyone comes from the same background, has had the same experiences, or education, and we wouldn’t want it any other way. Don’t worry about checking every single box, instead we want you to bring your own unique outlook to the team, whatever that might be!"
+1,Senior Machine Learning Engineer,"Austin, TX",Austin,TX,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"About Talroo
+
+We are honored to be recognized as a multi-award winning organization. Talroo has been consistently recognized as a Top Workplace and a Best Place to Work in Austin. We've been ranked the last five years by Inc. 500/5000 as one of the fastest growing companies in the U.S. You'll also find us on the Austin Business Journal's Fast 50 growth awards list multiple times. We're growing the right way, and we need exceptional talent to help us build upon our successful story.
+
+Talroo is a talent attraction platform – our technology helps companies find the talent they need for their workforces. We power over 1 billion job searches every month, and Talroo's data-driven search-and-match functionality enables organizations to reach the best audiences to deliver hires. And while we focus on providing amazing results and service for our customers, within our exciting company you'll also find a high-performance environment of collaboration, encouragement, transparency, and fun.
+
+About the position:
+The Senior Machine Learning (ML) Engineer position is a high-impact role at Talroo. We are looking for an experienced Machine Learning Engineering practitioner to help scale and expand high value business initiatives utilizing machine learning. You will be joining a team that understands the real-world business opportunity that machine learning enables and how it can transform businesses. At Talroo, we embrace fast, iterate A/B testing to fail fast and learn quickly. The result is real, measurable revenue and profit impact.
+
+The ideal candidate will have a proactive attitude with a strong background in computer science. If you have a proven ability to learn, explore, and quickly turn the latest technologies into value, then you are the perfect candidate.
+
+You will be joining a team of our most experienced engineers and a founding engineer of the company with strong industry experience in search/information retrieval. As a high impact teammate, you will help with everything from data ETLs to model serving to test reporting. This unique opportunity will expose you to deep insights into the business and entrepreneurship.
+
+What we are looking for in a highly qualified candidate:
+
+Machine Learning
+Stays up to date on the state of the art in the data science community through consuming the latest technical papers.
+Quickly tests latest ideas by prototyping them against real data.
+Track record of iteratively improving models through offline metrics and online A/B tests.
+Develops high quality online serving/inference systems.
+Experience with gradient boosted trees (XGBoost, MML Spark), deep learning (Tensorflow, Keras, Big DL) and associated artifacts (models, NLP, embeddings).
+Big Data
+ETL and featurization using scalable systems like Apache Spark.
+Comfortable with simple and complex data wrangling through high level languages like SQL.
+Extensive experience in Java, Scala or Python programming languages.
+Engineer
+Demonstrated ability to quickly learn and modify existing code bases.
+History of turning high level ideas into high quality products.
+Ensures quality by monitoring data quality, deployments, and runtimes.
+Excellent computer science fundamentals (time and space analysis, optimizations, etc.)
+Excellent interpersonal and collaboration skills.
+Takes calculated risks and learns quickly from their failures.
+Experience with search technologies (Solr, Lucene, etc.) and Ad Tech (DMP, DSP, RTB) is a plus.
+5 years of professional industry software development experience required.
+2 years of professional machine learning experience
+Must be permanently eligible to work in the U.S. without employer sponsorship.
+
+Currently, the team is working to improve many facets of the job recommendation process. This involves gathering data from billions of monthly job queries to create, test, and iterate on machine learning models. When successful, we help job seekers find their perfect job faster and employers receive a higher quality of candidate.
+
+Benefits:
+
+Very competitive compensation package
+Company-paid gym membership
+Comprehensive, company-paid health, vision, and dental insurance premiums for you and your dependents
+401(k) retirement plan with 3% employer contribution
+Paid company holidays, vacation and sick time
+Fully-stocked kitchen
+Awesome company events
+
+Talroo is proud to be an Equal Opportunity Employer. Candidates will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status, and will not be discriminated against on the basis of disability."
+2,Machine Learning Research Engineer,"Austin, TX",Austin,TX,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
+Job Description
+About the role
+We are looking for a machine learning engineer to join Arm’s data and artificial intelligence (AI) research team. This is a unique opportunity to enter a small start-up-like team and help drive and build next-generation AI solutions and data-intensive software systems at Arm. You will work closely with Arm’s cloud data services organization, partners, and academia to identify promising nascent ideas and develop them into tomorrow’s key software systems, services, and solutions.
+What will I be accountable for?
+
+Arm Research plays a central role in identifying gaps in state-of-the-art (SOTA) technologies and in conducting world-leading research to fill those gaps. You will join a research team innovating in the area of cloud-based data and machine learning (ML) platforms and services for deriving business intelligence from massive time series data. An ideal candidate will bring evidence of excellence in applied ML algorithms research who has superb knowledge of and demonstrated experience with a deep learning framework such as TensorFlow, PyTorch, Caffe2, or MXNet.
+You will be expected to identify the benefits and limitations of various algorithmic options, to generate high quality implementations of deep learning algorithms directly from pseudocode, to optimize the implementations for efficient data ingestion and distributed training on clusters of hardware-accelerated compute nodes, to rigorously validate the trained models against overfitting, and to deploy the models in containerized applications.
+Your role will encompass advancing SOTA in time-series ML through contributions to open source software and development of novel algorithmic strategies, analytics systems, and ML platform components. You will be encouraged to participate in the wider community through collaborations with academia, contributions to open source software, and publications and presentations in leading ML- conferences and forums.
+An ideal candidate will have following traits:
+
+You are a hands-on ML researcher professionally invested in advancing the deep learning SOTA as evidenced in, for example, your research publications, open source software products, and the overall academic and/or professional portfolio.
+You possess keen interest in ML algorithms, deep learning ecosystems, and large-scale software system design, and you closely follow the most recent trends in these areas.
+You have demonstrated experience with developing and training ML models in one or more of the popular deep learning frameworks.
+You have a solid understanding of the framework internals, including the linear algebra, neural network computational logic, stochastic optimization, and hardware acceleration.
+You have deep experience in probabilistic reasoning and computational problem solving and a healthy dose of obsession about accuracy, reliability, robustness, and scalability. You are very comfortable diving deep into topics such as Bayesian ML, autoencoders, generative models, adversarial training, etc.
+You possess the ability to see the big picture, question the norm, and articulate the problem.
+You can translate relatively abstract ideas into concrete workable solutions.
+You enjoy experimenting with cutting-edge technologies that may be relatively immature at the time of their use.
+You are good in identifying the technology trade-offs and can synthesize pragmatic solutions to the problems at hand by judiciously leveraging published and open-source technologies.
+You are a strong programmer and are not afraid to dive in large code bases. You take pride in your code and enjoy contributing to open source projects.
+Job Requirements
+What skills, experience, and qualifications do I need?
+
+Advanced degree (MS or PhD) in computer science or related disciplines such as electrical and computer engineering, operations research, etc.
+Prior experience in ML algorithm innovation and developing and publishing and/or deploying deep learning solutions
+Expert-level knowledge of one or more of deep learning frameworks such as TensorFlow, PyTorch, Caffe2, MXNet
+Expert-level proficiency in Python and the numerical computing and data science libraries
+Prior experience working with data pipelines and managing large volumes of data in a production environment is a big plus
+Hands-on experience with managed cloud computing is a big plus
+Track record of contributing to open source software and participating in open source communities is highly desired
+Track record of published research work in leading conferences and forums is highly desired
+Excellent networking and communication skills
+What are the desired behaviors for this role?
+At Arm, we are guided by our core beliefs that reflect our unique culture and guide our decisions, defining how we work together to defy ordinary and shape extraordinary:
+We not I
+Take daily responsibility to make the Global Arm community thrive
+No individual owns the right answer. Brilliance is collective
+Information is important, share it
+Realize that we win when we collaborate — and that everyone misses out when we don’t
+Passion for Progress
+
+Our differences are our strength. Widen and mix up the pool of people you connect with
+Difficult things can take unexpected directions. Stick with it
+Make feedback positive and expansive, not negative and narrow
+The essence of progress is that it can’t stop. Grow with it and own your own progress
+Be your Brilliant Self
+Be quirky not egocentric
+Recognize the power in saying ‘I don’t know’
+Make trust our default position
+Hold strong opinions lightly
+#LI-JS1
+Benefits
+Your particular benefits package will depend on position and type of employment and may be subject to change. Your package will be confirmed on offer of employment. Arm’s benefits program provides permanent employees with the opportunity to stay innovative and healthy, ensure the wellness of their families, and create a positive working environment.
+
+Annual Bonus Plan
+Discretionary Cash Awards
+401(k), 100% matching on first 6% eligible earnings
+Medical, Dental & Vision, 100% coverage for employee only, shared cost for dependents
+Basic Life and Accidental Death and Dismemberment Insurance (AD&D)
+Short Term (STD) and Long Term (LTD) Disability Insurance
+Vacation, 20 days per year with option to buy 5 more.
+Holidays, 13 days per year
+Sabbatical, 20 paid days every four-years of service
+Sick Leave, 7 days per year
+Volunteering, four hours per month (TeamARM)
+Office location dependent: café on site, fitness facilities, team and social events
+Additional benefits include: Flexible Spending Accounts for health and dependent care, EAP, Health Advocate, Business Travel Accident Program & Commuter programs.
+ARM, Inc. (USA) participates in E-Verify. For more information, please refer to www.dhs.gov/E-Verify
+About Arm
+Arm® technology is at the heart of a computing and connectivity revolution that is transforming the way people live and businesses operate. From the unmissable to the invisible; our advanced, energy-efficient processor designs are enabling the intelligence in 86 billion silicon chips and securely powering products from the sensor to the smartphone to the supercomputer. With more than 1,000 technology partners including the world’s most famous business and consumer brands, we are driving Arm innovation into all areas compute is happening inside the chip, the network and the cloud.
+
+With offices around the world, Arm is a diverse community of dedicated, innovative and highly talented professionals. By enabling an inclusive, meritocratic and open workplace where all our people can grow and succeed, we encourage our people to share their unique contributions to Arm's success in the global marketplace.
+
+About the office
+The Arm Austin office employs staff from across all divisions of ARM and is considered the engineering hub for North America. Austin has the nickname of “Silicon Hills” thanks to the high number of tech companies in the area, and is also known as the “Live Music Capital of the World"". Events such as South by Southwest, Austin City Limits Music Festival and the F1 Grand Prix are but a few of the many activities that make Austin a top destination for both residents and travelers.
+Austin, TX USA
+
+Arm Inc.
+
+Encino Trace
+
+5707 Southwest Pkwy
+
+Bldg 1 Suite 100
+
+Austin, TX. 78735"
+3,Machine Learning Engineer,"Austin, TX",Austin,TX,None Found,None Found,"
+A degree in Computer Science, Engineering, AI, Machine Learning, BI, MIS, or an equivalent technology field
+3+ years of production programming experience in Scala (emphasis in functional programming), Spark and Python
+Proven experience in Spark (strong knowledge optimizing code for Spark jobs)
+Able to program and understand data science and data engineering ideas in Python and translate into modular, functional components in Scala
+Familiar with automated machine learning (AutoML) concepts would be an asset
+Experience with Breeze would be an asset
+Experience deploying containerized Docker/Kubernetes applications
+Streaming and micro-batch application development experience would be an asset, including Kafka, Storm, NiFi, Spark Streaming, Confluent or equivalent
+Production systems integration experience
+Proficiency with Linux/Unix operating systems, utilities and tools
+Big Data application architecture experience and in-depth understanding of the Big Data ecosystem, applications, services, and design patterns",None Found,"
+Architect, build, test, deploy distributed, scalable, and resilient Spark/Scala/Kafka Data processing, and Machine Learning model pipelines for batch, micro-batch, and streaming workloads. Experience in Scala development is required for this role.
+Collaborate with data engineers to develop automated orchestration of data pipelines to find signals in client data
+Collaborate with data scientists to develop automated orchestration of model pipelines to solve Cerebri AI business use case objectives
+Proven experience in test automation for data and model pipelines
+Deploy fully containerized Docker/Kubernetes Data processing, and Machine Learning model pipelines into Azure, AWS, GCP cloud environments and on-premise systems as necessary
+Document Detailed Designs (including source to target mappings) and Code for Data Quality frameworks that can measure and maintain Data Completeness, Data Integrity and Data Validity between interfacing systems
+Ensure all solutions comply with the highest levels of security, privacy, and data governance requirements as outlined by Cerebri and Client legal and information security guidelines, law enforcement, and privacy legislation, including data anonymization, encryption, and security in transit and at rest, etc.
+Train and mentor junior team members
+Acts as a Subject Matter Expert and a Thought Leader, continuously following industry trends, the latest competitive developments, and delivering papers and presentations at major industry conferences and events.",None Found,None Found,"As a Machine Learning Engineer, you will play an integral role in the development of our flagship AI product offerings for enterprise. You will be part of a small, focused team working in fast paced environment.
+
+Responsibilities
+Architect, build, test, deploy distributed, scalable, and resilient Spark/Scala/Kafka Data processing, and Machine Learning model pipelines for batch, micro-batch, and streaming workloads. Experience in Scala development is required for this role.
+Collaborate with data engineers to develop automated orchestration of data pipelines to find signals in client data
+Collaborate with data scientists to develop automated orchestration of model pipelines to solve Cerebri AI business use case objectives
+Proven experience in test automation for data and model pipelines
+Deploy fully containerized Docker/Kubernetes Data processing, and Machine Learning model pipelines into Azure, AWS, GCP cloud environments and on-premise systems as necessary
+Document Detailed Designs (including source to target mappings) and Code for Data Quality frameworks that can measure and maintain Data Completeness, Data Integrity and Data Validity between interfacing systems
+Ensure all solutions comply with the highest levels of security, privacy, and data governance requirements as outlined by Cerebri and Client legal and information security guidelines, law enforcement, and privacy legislation, including data anonymization, encryption, and security in transit and at rest, etc.
+Train and mentor junior team members
+Acts as a Subject Matter Expert and a Thought Leader, continuously following industry trends, the latest competitive developments, and delivering papers and presentations at major industry conferences and events.
+Qualifications
+A degree in Computer Science, Engineering, AI, Machine Learning, BI, MIS, or an equivalent technology field
+3+ years of production programming experience in Scala (emphasis in functional programming), Spark and Python
+Proven experience in Spark (strong knowledge optimizing code for Spark jobs)
+Able to program and understand data science and data engineering ideas in Python and translate into modular, functional components in Scala
+Familiar with automated machine learning (AutoML) concepts would be an asset
+Experience with Breeze would be an asset
+Experience deploying containerized Docker/Kubernetes applications
+Streaming and micro-batch application development experience would be an asset, including Kafka, Storm, NiFi, Spark Streaming, Confluent or equivalent
+Production systems integration experience
+Proficiency with Linux/Unix operating systems, utilities and tools
+Big Data application architecture experience and in-depth understanding of the Big Data ecosystem, applications, services, and design patterns
+Nice To Haves
+Experience with the Atlassian suite (JIRA, Confluence, BitBucket).
+Any other related experience with Big Data, artificial intelligence, natural language processing, machine learning and/or deep learning, predictive analytics
+
+Problem Solver – You are proficient at using a combination of intuition and logic to come up with solutions
+Detail Oriented – You are an expert at identifying nuances and aligning small details with larger objectives
+Independent Worker – Your experience and capabilities allow you to require little instruction and guidance
+Excellent team player – You are humble, ambitious and driven to make a difference"
+4,Machine Learning Engineer,"Austin, TX",Austin,TX,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"You're looking for a role where you can drive decisions, be challenged and build a powerful and novel product. You want to collaborate with smart, creative, and energetic people. You're comfortable with being uncomfortable. You look for projects where you can learn new technologies and techniques. You thrive in an environment based on autonomy and trust. You're creative. If this sounds like you, you sound like someone we want on our team.
+
+New Knowledge is a fast-growing information integrity company on a mission to bring authenticity to the Internet. We use artificial intelligence and machine learning to help brands identify the groups that drive online conversations. Our technology unlocks the hidden map of the Internet.
+
+We're looking for a Machine Learning Engineer with 1 or more years of experience. This role will be based out of our Austin office and will report to the Head of Data Science.
+
+What you'll do:
+
+Work with data scientists to deploy and build machine learning models
+Interface with research teams to help build APIs to make our models accessible
+Understand how machine learning models work, and how they could possibly apply
+Build test frameworks to ensure reliable prediction outputs
+Interface with DevOps to build deployment tools to automate ML model deployments
+
+What you have:
+
+1+ years experience with Python ML stack developing and deploying machine learning model pipelines
+Understanding of the steps to testing and hyperparameter tuning models
+Skills to communicate challenging technical problems to a non-technical audience
+Experience containerizing and deploying code into production systems
+Skills and personality to operate effectively in a fast-paced, complex business
+Comfortable with an Agile development process
+You understand the value of collaboration and enjoy working collaboratively
+
+Preferred:
+
+2+ experience with software development or engineering OR a research background
+Experience with deep learning frameworks (Tensorflow, Pytorch, Keras ect)
+Maintained production pipelines with tools like Kubeflow, Kubernetes, and Docker
+Enjoy working with academics
+Familiarity with state of the art ML research
+
+What you'll get:
+
+Purpose-driven work
+Market-leading salary and equity compensation
+Coverage under best in class, flexible medical, vision and dental plans
+401(k) with 100% company match up to 4% of salary and immediate vesting
+Unlimited vacation that you're encouraged to take, including paid parental leave
+Stocked kitchen full of healthy snacks and drinks
+Weekly catered lunch
+Free parking near our downtown office
+Free membership to onsite gym
+Annual budget to purchase books and educational subscriptions
+Monthly social events
+Many more benefits … apply to find out!
+
+"
+5,Data Scientist,"Austin, TX",Austin,TX,None Found,None Found,"
+Proven experience of 8+ years as a Machine Learning Engineer or similar role
+Understanding of data structures,data modeling and software architecture
+Deep knowledge of math, probability, statistics and algorithms
+Ability to write robust code in Java or python
+Familiarity with machine learning frameworks (like TensorFlow or PyTorch) and libraries (like scikit-learn)
+Strong knowledge on big data technologies like Spark, HBase, Kinesis, Redshift, Snowflake, etc.
+Excellent communication skills
+Ability to work in a team
+Outstanding analytical and problem-solving skills
+Experience in e-learning would be a plus",None Found,None Found,None Found,None Found,"Data Scientist - (0044137)
+Description
+
+Zensar is a leading digital solutions and technology
+
+services company that specializes in partnering with global organizations
+across industries on their Digital Transformation journey.
+Zensar’s comprehensive range of digital and technology services and solutions
+enables its customers to achieve new thresholds of business performance. Zensar
+helps clients deliberate not only on executing Digital initiatives but on
+realizing the Return on Digital®.
+For enterprises to be resilient and successful in the long run, they will need
+to focus on three aspects - Digital Agility, Cross-over IT and fundamentally
+the Stability of Core Enterprise Systems.
+We practice Digital internally as we promote externally – Zensar runs on
+Digital. Through Engaging, Operating, Partnering, and Managing Digital, we
+believe in Living Digital.
+
+Qualifications:
+
+Proven experience of 8+ years as a Machine Learning Engineer or similar role
+Understanding of data structures,data modeling and software architecture
+Deep knowledge of math, probability, statistics and algorithms
+Ability to write robust code in Java or python
+Familiarity with machine learning frameworks (like TensorFlow or PyTorch) and libraries (like scikit-learn)
+Strong knowledge on big data technologies like Spark, HBase, Kinesis, Redshift, Snowflake, etc.
+Excellent communication skills
+Ability to work in a team
+Outstanding analytical and problem-solving skills
+Experience in e-learning would be a plus
+
+Primary Location: United States of America-Texas-Austin
+Job Posting: Sep 11, 2019, 4:00:00 AM
+ 8 To 10"
+6,Machine Learning Engineer,"Austin, TX 78701",Austin,TX,78701,None Found,None Found,None Found,None Found,None Found,None Found,"Position Overview: Today, Praetorian is making significant investments in terms of financial and engineering resources to develop a radically new customer experience we call “Security-as-a-Service” to provide customers with a unified, efficient, and data-driven security platform. We are looking to add the right individual to our growing team supporting the next wave of cybersecurity products and solutions. As part of that investment, Praetorian is seeking a seasoned Machine Learning Engineer with a successful track record in machine learning in a hyper growth company setting. Reporting to the Director of Machine Learning, your job is to design and develop machine learning techniques to find security vulnerabilities.
+
+From software hacking to hardware hacking, we help secure everything from cryptocurrency exchanges and space telescopes to autonomous vehicles and the electric grid. You will have the opportunity to work with some of the best security engineers in the world who hail from organizations such as Amazon, CIA, Facebook, Google, Microsoft, NSA, Redhat, Sun Microsystems, and US Air Force. As an Inc. Best Places to Work, Inc. 500 | 5000, CyberSecurity 500, and Austin Fast 50 Award recipient, we are seeking an individual that understands the professional and personal growth attached to this opportunity and who has the corresponding internal drive to maximize it.
+
+Career opportunity:
+
+Join an industry with massive socio, economic, and political importance in the 21st century
+Work alongside some of the best and the brightest minds in the security industry
+Leave an indelible mark on a company where individual input has real impact
+Be recognized, internally and publicly, for your contributions in a high profile position
+Align your career trajectory with a hyper growth company that is on the move
+
+Core responsibilities:
+
+Create machine learning algorithms to find security vulnerabilities within customer code bases
+Create the roadmap of how to continually evolve the machine learning infrastructure and techniques to improve Praetorian's ability to find security vulnerabilities for our customers in real time
+Jointly design the overall system needed to solve our machine learning challenges with Senior engineering talent
+Mentor junior data scientists and teach them how to use machine learning techniques to solve real world problems
+
+Accountable for:
+
+Creation of machine learning models to find security vulnerabilities
+Accuracy of machine learning models in finding security vulnerabilities
+Creation of necessary infrastructure, along with engineering proper, to develop machine learning models
+Creation of necessary infrastructure, along with engineering proper, to develop machine learning pipelines
+
+Required qualifications:
+
+10+ years of machine learning experience
+10+ years development experience
+Background in automata theory and complex information processing
+Prior track record in a hyper-growth, high-tech company
+Bachelor's degree or equivalent practical experience
+
+Desired qualifications:
+
+Prior track record of developing ML techniques in interesting fields
+5+ years experience in a Agile development environment
+Experience with Google Cloud Machine Learning / Tensorflow
+Masters or doctorate from a tier one institution
+
+Desired behaviors:
+
+Innovative thinking that harnesses the promise of machine learning to solve the cyber security problem in new and novel ways
+Relentless restlessness to turn theory into practice and develop production worthy code that solves real-world customer problems
+Ability to scientifically state the performance of the models in a way that both data scientists and regular people can understand
+Determination to always learn and get better and never rest on ones laurels
+Personable individual who enjoys working in a team-oriented environment
+Comfort dealing with ambiguity in an environment where we build the plane as we fly it
+Ability to work within constraints and to challenge the status quo
+Ability to self-direct work and truly own the position in a hyper-growth environment
+
+Compensation package:
+
+Competitive compensation
+Ownership opportunity through employee stock option plan
+Health, dental, and vision insurance
+4% company 401K matching vested immediately
+
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+We are committed to an inclusive and diverse Praetorian. We are an equal opportunity employer. We do not discriminate based on race, ethnicity, color, ancestry, national origin, religion, sex, sexual orientation, gender identity, disability, veteran status, genetic information, marital status, or any other legally protected status.
+
+We ask that you please include a few paragraphs about yourself and what you are passionate about in your application."
+7,Sr. Machine Learning Engineer – Infrastructure,"Austin, TX",Austin,TX,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Duo Security, now a part of Cisco, is the leading provider of Trusted Access security and multi-factor authentication delivered through the cloud. Our mission is to make security simple for everyone. We were born from a hacker ethos and a desire to make the Internet a secure place. We believe in empowering people to follow their passions inside and outside of the office and enable every employee to bring their whole self to work.
+
+Our team is our secret weapon. We run the spectrum from artists to analysts, low-key to high energy, and bring together a diversity of skill sets, experiences, and perspectives to solve what we consider to be the world's most pressing geopolitical challenge — transforming the security industry as we know it. Together we build solutions that are easy, effective, trustworthy, and enduring. And that’s why we are the most loved and trusted company in security.
+
+On Duo's data science team, we use machine learning and statistics to bring new product capabilities and analytical insights to our customers. Are you passionate about machine learning and solving hard security problems to help organizations of all sizes? Do you want to work closely with a pragmatic and diverse group of data scientist, engineers, and security researchers in Duo's industry-leading R&D team? Do you have great ideas about what an ideal modern machine learning infrastructure should look like? If yes, then you might be a good fit for this role!
+What you'll do...
+Assume ownership of current and future machine learning infrastructure. You’ll be the first engineer in this role at Duo and will have an opportunity to make a large impact.
+Partner with data engineers and data scientists to build paved paths for machine learning, and deliver machine learning product features to the hands of millions of users at thousands of Duo customers.
+Evaluate, recommend, build, or drive adoption of tools and processes for a wide range of research and production use cases. Areas of work could include, for example, systems for research data access, for experiment tracking, or for scheduling and monitoring model training jobs in production.
+Develop tools and processes to enable reliable and performant access to data for research and product development, while ensuring security and privacy properties.
+Make improvements to our production machine learning pipeline.
+Enhance our experiment tracking tool and research infrastructure in general.
+Elicit and prioritize the infrastructure needs of the data science team.
+You should have...
+Significant experience engineering software systems.
+Developed server-side web applications, REST APIs, and/or micro-services
+A solid understanding of machine learning, in order to better understand and anticipate the team’s needs.
+Programming skills in Python, or in languages like Go or Ruby.
+A penchant for working collaboratively within and across teams.
+The ability to clearly communicate your ideas.
+A commitment to quality and an eye for details.
+The agility to work in the rapid, unpredictable environment of a high-growth tech organization.
+Even better if you have...
+Scala and Apache Spark experience.
+Worked with data pipelines or distributed message queues.
+Familiarity with Python 3 and Twisted.
+Experience running deployments at-scale in AWS or similar IaaS services.
+A passion for security and privacy.
+Partnered with data science teams in an engineering capacity in the past.
+3 Reasons why you should apply…
+You love to solve complex problems revolving around data.
+A company culture of kindness, transparency, and learning. Employees love Duo.
+Ability to positively impact millions of users. Customers love Duo.
+This job may not be for you if…
+You stress under ambiguity and lack of precedent. We’re building something new and that often means clearing our own path.
+You’re more interested in developing ML models than the infrastructure that makes them possible. If so, keep an eye out for data science roles on our team.
+Scalable data infrastructure is your thing, but machine learning not so much. You might be a great fit for our data engineering team.
+
+Duo is committed to cultivating and preserving a culture of inclusion and connectedness. We are able to grow and learn better together with a diverse team of employees. The collective sum of the individual differences, life experiences, knowledge, innovation, self-expression, and talent that our employees invest in their work represents not only part of our culture, but our reputation and Duo’s achievement as well. In recruiting for our team, we welcome the unique contributions that all potential candidates can bring in terms of their education, opinions, culture, ethnicity, race, gender identity and expression, nationality, age, languages spoken, veteran’s status, religion, disability, sexual orientation and beliefs.
+
+And if this role is exciting you, we encourage you to apply even if you don’t meet all 100% of the description or qualifications. Finally and most importantly, we are a proud Equal Opportunity Employer"
+8,Machine Learning Engineer,"Austin, TX",Austin,TX,None Found,None Found,None Found,None Found,"Transform Data Science prototypes to production-grade solutions at scale
+You will be expected to lead from the front in following best practices in development and CI/CD methods.
+You will also be expected to be a strong independent contributor that is not afraid to implement/deploy the solutions (even if that means making mistakes). At Cerity, we believe that the only way to really learn something is to stumble a few times.
+Design, code and deploy machine learning systems capable of processing large volumes of data
+Research and implement appropriate ML algorithms and tools
+Develop machine learning applications according to requirements
+Establish reusable data processing pipelines to enable rapid re-training and iteration through different ML methodologies
+Select appropriate datasets and data representation methods
+Design experiments and analysis methodologies that are statistically rigorous
+Run machine learning tests and experiments
+Perform statistical analysis and fine-tuning using test results
+Train and retrain systems when necessary
+Extend existing and Cerity Proprietary ML libraries and frameworks
+Keep abreast of developments in the field
+",None Found,"
+Proven experience as a Machine Learning Engineer. Must have held a Machine Learning Engineer Title in a previous role.
+Understanding of data structures, data modeling and software architecture
+Experience deploying ML and DL algorithms for regression and classification use-cases
+Deep knowledge of math, probability, statistics and algorithms
+Ability to write robust code in Python, Java and R
+Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)
+Experience setting up systems/frameworks (e.g., Docker and Kubernetes) within AWS
+Excellent communication skills
+Ability to work in a team
+Outstanding analytical and problem-solving skills
+BSc in Computer Science, Mathematics or similar quantitative field; Master’s degree is a plus
+Experience with Falcon is a bonus!","Job Summary:
+Cerity is a spinoff that is building a new technology innovation center in Austin. The innovation team is a group of thought leaders who are designing, building and implementing new and creative SaaS solutions.
+As a Machine Learning Engineer, you will be responsible for developing solutions and deploying production code to address the current business needs. You will also be tasked with research and development activities that are forward thinking and somewhat unconventional.
+Your responsibilities will range from building the systems/platforms needed to host the Machine Learning/Deep Learning/Reinforcement Learning algorithms to production hardening the algorithms created by our Data Scientists.
+To do this job successfully, you will have needed prior work experience deploying ML/DL/RL algorithms into a production environment.
+Responsibilities
+Transform Data Science prototypes to production-grade solutions at scale
+You will be expected to lead from the front in following best practices in development and CI/CD methods.
+You will also be expected to be a strong independent contributor that is not afraid to implement/deploy the solutions (even if that means making mistakes). At Cerity, we believe that the only way to really learn something is to stumble a few times.
+Design, code and deploy machine learning systems capable of processing large volumes of data
+Research and implement appropriate ML algorithms and tools
+Develop machine learning applications according to requirements
+Establish reusable data processing pipelines to enable rapid re-training and iteration through different ML methodologies
+Select appropriate datasets and data representation methods
+Design experiments and analysis methodologies that are statistically rigorous
+Run machine learning tests and experiments
+Perform statistical analysis and fine-tuning using test results
+Train and retrain systems when necessary
+Extend existing and Cerity Proprietary ML libraries and frameworks
+Keep abreast of developments in the field
+
+Requirements
+Proven experience as a Machine Learning Engineer. Must have held a Machine Learning Engineer Title in a previous role.
+Understanding of data structures, data modeling and software architecture
+Experience deploying ML and DL algorithms for regression and classification use-cases
+Deep knowledge of math, probability, statistics and algorithms
+Ability to write robust code in Python, Java and R
+Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)
+Experience setting up systems/frameworks (e.g., Docker and Kubernetes) within AWS
+Excellent communication skills
+Ability to work in a team
+Outstanding analytical and problem-solving skills
+BSc in Computer Science, Mathematics or similar quantitative field; Master’s degree is a plus
+Experience with Falcon is a bonus!"
+9,"Associate Cloud Developer, A2C","Austin, TX",Austin,TX,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"Bachelor’s Degree in a STEM related field such as computer science, computer engineering, or equivalent experienceFamiliarity with one of the following programming languages: Java, Python, Ruby, Node.js, C#, or C++Familiarity with Networking fundamentals, Security, Databases (Relational and/or NoSQL), Operating Systems (Unix, Linux, and/or Windows)
+
+Amazon Web Services (AWS) is looking for motivated technologists who possess a unique balance of technical depth, business knowledge, and strong interpersonal skills. You will partner with customers and several AWS teams to craft highly scalable, flexible and resilient cloud architectures that address customer business problems. As a trusted customer advocate, you will help organizations understand best practices around cloud-based solutions, and how to migrate existing workloads to the cloud. You will have the opportunity to help shape and execute a strategy to build min- share and broad use of AWS within organizations.
+
+Professional Services
+At AWS, we have a credo of “Work hard. Have fun. Make history”. In this role, you will love what you do and instinctively know how to make work fun. You will be dynamic, creative, and willing to take on any challenge and make a big impact.
+
+Here are some of the qualities we are searching for:
+Be great fun to work with. At AWS, we have a credo of “Work hard. Have fun. Make history”. In this role, you will love what you do, and instinctively know how to make work fun. You will be dynamic and creative, and willing to take on any challenge and make a big impact.
+An affinity for the new and unknown. We are always experimenting with innovative technologies including cloud computing, Machine Learning, and Internet of Things.
+Enjoy working with customers of all shapes and sizes. You will have a passion for educating, training, designing, and building solutions for a diverse and challenging set of customers ranging from small businesses to large enterprises.
+During your first year as an Associate Cloud Developer, you will receive instruction and on-the-job training on a range of AWS services and solutions. By the end of your first year, you will choose a specialty track suited to your strengths and preferences (subject to business availability). These tracks include:
+
+Application Developer – AppDev resources are specialists in designing applications that run natively in the cloud. They are experts in building programs that run on any number of platforms including virtualized instances, containers, or serverless architecture.
+Cloud Infrastructure Architect – An expert in cloud-based networking and system rollouts. CIAs specialize in network performance, infrastructure provisioning, and building Application Programming Interfaces (APIs).
+DevOps Specialist – A leader in building advanced computing systems that harness continuous integration/continuous deployment pipelines and utilize the strengths of cloud computing to build scalable and economical systems for customers.
+Data Lake & Analytics Specialist – This role will specifically focus on data processing capabilities and helping our customers and partners to remove the constraints that prevent our customers from leveraging their data to develop business insights. Engagements will include migration of existing applications and development of new applications using AWS cloud services.
+Data Warehouse & Massive Parallel Processing Specialist – This role will specifically focus on large scale data warehousing and database migration capabilities. Engagements will include Redshift implementations and helping customers to migrate from their existing on-premises data warehouses using other databases to Amazon Redshift.
+Data & Machine Learning Engineer – In this role, you will work with our partners and customers with a focus on our AWS Analytics and ML services offering such Amazon Kinesis, AWS Glue, Amazon Redshift, Amazon EMR, Athena, Amazon SageMaker, and more. You will help our customers and partners to remove the constraints that prevent them from leveraging their data to develop business insights.
+
+Ability to travel to provide Professional Services is required for this role.
+
+Troubleshooting: Experience with QA, testing, helpdesk, IT support, or any technician or quality assurance type workCloud Awareness: Experience implementing a cloud-based technology solution in a school project or while working for a companyExperience with systems administration (Linux/Windows) or network administration (DNS, IPsec, BGP, VPN, Load Balancing)Passion for experiencing new technologies, cultures, and locations in the US and around the world
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."
+10,"Machine Learning Engineer - Austin, TX","Austin, TX",Austin,TX,None Found,None Found,None Found,None Found,None Found,None Found,None Found,"At PathAI, we're applying machine learning techniques in amazing ways. We develop solutions in pathology that are modernizing healthcare, including detecting cancer and other diseases. We're applying our work to drug development, the clinical space, and as a global health initiative. Our team has some unique and important machine learning challenges to solve, with a focus on advancing medicine and improving patient care.
+
+This position will be located in our Austin Texas office.
+
+We're looking for experienced machine learning engineers to join our team and help solve some of these challenges. If you're the right candidate, your day-to-day will involve:
+
+
+Understanding PathAI's products and services and introducing technology innovations with respect to functionality, performance, reliability, and scalability.
+Designing, developing and maintaining the machine learning infrastructure that powers PathAI
+Performing research and development of machine learning algorithms to expand product capabilities
+Participating in building new experiences, improve existing products, ensure quality assurance test designs and contributing to test systems architecture discussions
+
+You will have the opportunity to work in a company culture that puts employees first, is relaxed but focused and hard-working. Every PathAI employee is a contributor to our mission to pioneer better patient care by providing the best, most innovative deep learning tools to biotech, pathologists, clinicians and healthcare organizations. You will work alongside leading innovators in the field of deep learning and medicine, and play a critical role in algorithm development.
+
+Requirements
+
+To be successful in this role with us, you'll at least need:
+
+A Master's degree in Computer Science or related field, preferably with a focus on artificial intelligence; PhD preferred
+At least two to four years of relevant work experience
+Artificial intelligence software development experience using Python
+Ability to design and develop robust, scalable cloud-based solutions
+Experience shipping products strongly preferred
+Intellectual curiosity and the ability to learn quickly in a complex space
+
+Most importantly, you'll be doing important work with a team of people you'll genuinely enjoy spending the day with.
+
+PathAI is an equal opportunity employer, dedicated to creating a workplace that is free of harassment and discrimination. We base our employment decisions on business needs, job requirements, and qualifications — that's all. We do not discriminate based on race, gender, religion, health, personal beliefs, age, family or parental status, or any other status. We don't tolerate any kind of discrimination or bias, and we are looking for teammates who feel the same way.
+
+PathAI does not accept unsolicited submissions from third-parties."
+11,Machine Learning Engineer,"Austin, TX 78759",Austin,TX,78759,None Found,"
+Five plus years of experience in software engineering, including experience with the full software development lifecycle, production code-bases, and/or full-stack development is required
+Clear understanding of the end-to-end data science process and its common concerns and requirements, including data cleaning and exploration, feature analysis, feature selection, feature generation, and model creation, evaluation, and optimization
+Familiarity with standard machine learning techniques, including: linear models, neural networks, decision trees, bayesian techniques, clustering, anomaly detection, etc.
+Experience with OOP and ability to apply its best practices to highly technical code bases
+Experience working with common data science languages, libraries, and tools such as Python, scikit-learn, Pandas, R, Jupyter, etc.
+Experience with deep learning frameworks such as PyTorch, TensorFlow, Keras, etc.
+Experience with container-based orchestration systems such as Docker and Kubernetes
+Natural scripting and prototyping mentality
+Fantastic technical communication skills
+Self-directed with a desire to collaborate with others as both a teacher and learner
+Experience with relational databases (SQL, Postgres, etc.)
+Familiarity with Apache Spark
+Familiarity with GCP/AWS/Azure
+Broad familiarity with programming languages and software technologies
+Passion for (machine) learning",None Found,"
+Working closely with data scientists to understand core challenges
+Building automated tools to improve machine learning workflows
+Developing data visualization and wrangling tools to drive insights from big data
+Transforming machine learning research and prototypes into deployable solutions
+Designing and implementing robust and abstract interfaces to unify disparate and rapidly evolving machine learning pipelines
+Working with a highly technical team to solve novel challenges in machine learning",None Found,None Found,"SparkCognition is an AI leader that offers business-critical solutions for customers in energy, oil and gas, manufacturing, finance, aerospace, defense, and security. A highly awarded company recognized for cutting-edge technology, SparkCognition develops AI-powered, cyber-physical software for the safety, security, reliability, and optimization of IT, OT, and the Industrial IoT.
+SparkCognition is seeking an innovative Machine Learning Engineer (MLE) to join our team and help create the next generation of machine learning solutions. The developer will work as part of a cross-functional team consisting of data scientists and engineers to tackle challenging machine learning problems and transform research into robust, deployment-ready solutions.
+Responsibilities
+Working closely with data scientists to understand core challenges
+Building automated tools to improve machine learning workflows
+Developing data visualization and wrangling tools to drive insights from big data
+Transforming machine learning research and prototypes into deployable solutions
+Designing and implementing robust and abstract interfaces to unify disparate and rapidly evolving machine learning pipelines
+Working with a highly technical team to solve novel challenges in machine learning
+Qualifications
+Five plus years of experience in software engineering, including experience with the full software development lifecycle, production code-bases, and/or full-stack development is required
+Clear understanding of the end-to-end data science process and its common concerns and requirements, including data cleaning and exploration, feature analysis, feature selection, feature generation, and model creation, evaluation, and optimization
+Familiarity with standard machine learning techniques, including: linear models, neural networks, decision trees, bayesian techniques, clustering, anomaly detection, etc.
+Experience with OOP and ability to apply its best practices to highly technical code bases
+Experience working with common data science languages, libraries, and tools such as Python, scikit-learn, Pandas, R, Jupyter, etc.
+Experience with deep learning frameworks such as PyTorch, TensorFlow, Keras, etc.
+Experience with container-based orchestration systems such as Docker and Kubernetes
+Natural scripting and prototyping mentality
+Fantastic technical communication skills
+Self-directed with a desire to collaborate with others as both a teacher and learner
+Experience with relational databases (SQL, Postgres, etc.)
+Familiarity with Apache Spark
+Familiarity with GCP/AWS/Azure
+Broad familiarity with programming languages and software technologies
+Passion for (machine) learning
+SparkCognition is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and/or expression, national origin, protected veteran status, disability or genetics and will not be discriminated against on the basis of such characteristics or any other status protected by the laws or regulations in the locations where we operate. If you need assistance or an accommodation due to a disability, you may contact us at accommodations@sparkcognition.com
+KESnwmiYKM"
+12,Machine Learning Engineer,"Austin, TX 78746",Austin,TX,78746,None Found,None Found,None Found,None Found,None Found,None Found,"Job Description
+
+Revionics has an immediate opening in our Core Data Science Team for a Machine Learning Engineer who will lead development efforts to bring new machine learning algorithms to our production systems. This cross-disciplinary position will work closely with our Data Science team during the development of new models and will help bring those models to production by working with our Software Engineering and Architecture teams to build a scalable and reliable machine learning system. The successful candidate must be creative and willing to develop a thorough understanding of the science and business rationale behind Revionics’ products, services, and methodologies.
+
+About us:
+Revionics delivers the industry’s most powerful End-to-End Merchandise Optimization solution, enabling retailers of all sizes to execute a fact-based Omni-channel merchandising strategy utilizing the most comprehensive set of shopper demand signals to enhance financial performance with improved customer satisfaction. Revionics’ solutions leverage advanced predictive analytics and demand-based science to ensure retailers have the right product, price, promotion, placement and space allocation for optimal results across all touch points in the Omni-channel shopping episode – online, in-store, social and mobile. Offered on a scalable, high-performance Cloud-based SaaS platform, these solutions future-proof retailers from Big Data/Fast Data challenges, while providing speed-to-ROI. Over 33,000 retail locations and $140+B in annual revenue across grocery, drug, building materials, convenience, general merchandise, discount, sporting goods stores, and eCommerce sites optimize with Revionics’ solutions. Revionics has been recognized as a 2012 Deloitte Technology Fast 500™, Red Herring Top 100 Global, Red Herring Top 100 Americas, and JMP Securities’ Hot 100 Software Company. For more information, please visit www.revionics.com.
+
+Who you are:
+The Machine Learning Engineer is responsible for designing and supporting machine learning systems within the Revionics’ analytical pricing software. You will be responsible for developing an expert-level understanding of the core scientific capabilities of Revionics’ solutions and building production grade machine learning systems to augment these solutions. The Machine Learning Engineer must also be able to explain advanced machine learning concepts to multiple teams across the business.
+
+
+Apply knowledge of machine learning, programming, and data modeling to build productions systems that will train, test, and predict
+Use a flexible, analytical approach to design, develop and evaluate predictive models and advanced algorithms that lead to optimal value extraction
+Generate and test hypotheses and analyze and interpret the results of product environment
+Create and implement mathematical models and scientific algorithms including the development of robust, rapid, and efficient numerical algorithms
+Work with machine learning scientists to translate prototypes into new products, services and features
+Provide guidelines for large-scale implementation
+Knowledge transfer throughout the organization, internal presentations, and white papers establishing thought leadership and capability excellence in the Revionics platform
+Coordinate and conduct testing and analysis of solutions across customer data sets
+
+What You Have/Can Do as a Minimum:
+
+Advanced degree (Masters or Ph.D.) in Computer Science, Engineering, Mathematics, or equivalent experience
+Experience building machine learning systems in a production environment
+Scientific Python development skills and familiarity with tools such as scikit-learn, pandas, etc.
+Experience with OOP and SOLID principles
+SQL and relational database skills (MS SQL Server, Oracle, etc.)
+Proficiency with Cloud providers like AWS, GCP, Azure, etc.
+Software testing and release cycle experience
+Understanding of query tuning and code optimization concepts
+Knowledgeable of a broad range of mathematical techniques, tools, and modeling frameworks and able to assess their relative merits and applicability to specific problems
+Ability to express real-world processes in the languages of mathematics and probability
+Enthusiastic and knowledgeable participant in the scientific software community
+Excellent communications skills and a team player
+
+What You Can Do to Stand Out:
+
+Proficiency with non-relational scalable data stores (Spark, Hadoop, MongoDB, etc.)
+Proficiency in an object-oriented language such as C++, Java, or C#
+Domain expertise in price optimization, demand forecasting, or inventory optimization
+Proficiency with data visualization libraries (Bokeh, Matplotlib, d3.js)
+Monte Carlo methods or other simulation techniques (Stan, PyMC, BUGS)
+Deep learning and autodifferentiation libraries (Tensorflow, Torch, Theano)
+Other optimization and machine learning techniques (linear/nonlinear programming, genetic algorithms, support vector machines, ensembling, etc.)
+Hands-on data analysis experience and the ability to produce data visualizations to present complex data graphically (distributions, scatter plots, sensitivity analyses)
+Background in statistical regression and modeling techniques (least squares, maximum likelihood, Bayesian estimation)
+
+Who We Are:
+Predictive. Prescriptive. Profitable Retailing.
+
+We provide SaaS-based pricing, promotion, markdown and space solutions. Retailers in all segments across the world adopt our self-funding model to improve top-line sales, demand, and margin. Our customers gain that competitive edge and improve their value proposition while outmaneuvering competitor price aggressiveness.
+
+During the days of first-generation price optimization solutions, at a time where science in retail was viewed as voodoo, our founder Jeff Smith nurtured the concept that there could be a better way. He went on to form Revionics around that new-generation vision, and to this day we remain committed to his goal: To help retail businesses and everyday users solve complex pricing challenges leveraging the latest machine learning science with a completely transparent process, usable in an intuitive way that fits into retailers’ normal business flows.
+
+Our company success is based on our 4 foundational pillars:
+
+A SaaS-based architecture for fast ROI
+Productized, transparent science
+Machine Learning algorithms that continue to evolve with changing market conditions and shopper behaviors for built-in future proofing
+A supportive culture focusing on both our people and customers’ well-being.
+
+Our Core Values:
+
+Integrity: Be honest, dependable and complete
+Transparency: Anticipate questions and give clear, usable answers.
+Continuous Improvement: Be relentless about improvement – for ourselves and our customers
+Curiosity: Shine lights in dark corners; seek to ensure we know what we don’t know
+Accountability: Own the problem and the solution
+Dedication: Don’t stop until the numbers are right and systems are up
+Humility: Put the spotlight on our customers, not ourselves
+
+"
+13,Machine Learning Engineer Intern,"Austin, TX 78701",Austin,TX,78701,None Found,None Found,"
+Degree in computer science, software engineering, statistics, machine learning, bioinformatics, operations research or a related technical field.
+Project experience building and validating predictive models on structured or unstructured data
+Proficient in Python, and SQL.
+Experience with the following: Pandas, NumPy, SciPy, Scikit-learn, Jupyter Notebooks.
+Knowledge of ML frameworks such as scikit-learn, keras, tensorflow/theano/PyTourch.
+Experience with supervised machine learning algorithms, and ensemble methods, such as: Gradient Boosting, Random Forest, Neural Networks, CNNs, RNNs, Auto-encoders, and GANs
+",None Found,None Found,None Found,"GroupBy is looking for a Machine Learning Engineer Intern who is passionate about data organization, and who wants to work for a company where data driven solutions are the core of the business. This student will work in a growth oriented company where individual contributions really make a difference and are rewarded. And you'll be working with extremely talented people as colleagues, who challenge you to be your best everyday.
+
+What you’ll be doing
+You will be part of our Spring 2020 Intern program and work with a very fast-paced team.You will develop models on big dataset from prototyping to deploying. You will participate in projects related to jobs product, and be the owner of modeling to support the business.
+
+This is a temporary internship which may last from the date of hire until the end of the 2020 Spring semester. Depending on performance, there will be an option to extend the internship through Spring or potentially be re-hired for the Summer.
+
+Required Skills:
+
+Degree in computer science, software engineering, statistics, machine learning, bioinformatics, operations research or a related technical field.
+Project experience building and validating predictive models on structured or unstructured data
+Proficient in Python, and SQL.
+Experience with the following: Pandas, NumPy, SciPy, Scikit-learn, Jupyter Notebooks.
+Knowledge of ML frameworks such as scikit-learn, keras, tensorflow/theano/PyTourch.
+Experience with supervised machine learning algorithms, and ensemble methods, such as: Gradient Boosting, Random Forest, Neural Networks, CNNs, RNNs, Auto-encoders, and GANs
+
+Preferred Skills:
+
+Experience with any Cloud platforms (AWS,/GCP/ Azure).
+Familiarity with Multi-Modal and Multi-task learning.
+Online Data Science competition or contribution to open source software.
+
+Who we are
+e-Commerce has come a long way. It feels easy now. Within hours you can set up an online shop and make your first sale. Despite all the advances though, at a certain scale e-Commerce becomes really hard . What if you want to search 10 million products globally, from hundreds of vendors, in 20 languages, being updated 1000s of times per second? That's where GroupBy comes in.
+
+GroupBy exists to solve the tough problems in e-Commerce: we work with the biggest players in the industry and take on their most complex challenges. We've built a cloud-based, data-driven e-Commerce platform for product data enrichment, intelligent search, personalization, analytics, and other building blocks of a great online shopping experience.
+
+We solve these problems by surrounding ourselves with people who love what they do and are given the freedom to excel at it. Our team is comprised of passionate, innovative thinkers who work together to create groundbreaking products. We like working with awesome people and we like helping these people become even better.
+
+We are very proud of the culture and diversity at GroupBy and encourage anyone from any background to apply. You will be part of a company with open office spaces, free weekly lunches, monthly social events, a closet full of snacks and beverages, flexible hours, and a games room. We invest in your growth as a professional with open workshops and company funded training for events and attending conferences - after all, you're here to solve tough problems!"
+14,"Machine Learning Engineer - Fraud Engineering, Algorithms, and Risk","Austin, TX 78758",Austin,TX,78758,None Found,None Found,None Found,None Found,None Found,None Found,"Summary
+Posted: Mar 18, 2019
+Role Number: 200045663
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+Internet Software and Services is responsible for delivering state of the art Internet applications like the App Store, iTunes, Apple Music and iCloud that are used by hundreds of millions of users every single day across the globe. Our team protects Apple services and customers from fraud and abuse through a combination of threat modeling, data analysis, and machine learning.
+We are seeking a machine learning engineer with a dedication to turn the huge amounts of data generated by these applications into feature improvements that improve customer experience. You will have a bent for applied research with expertise in anomaly detection, predictive modeling, classification and optimization. You will take pride in designing, developing, and deploying algorithms that have direct impact on services that Apple provides to customers. The role requires broad knowledge of machine learning and the software engineering expertise to develop and deploy highly scalable algorithms.
+We urge engineers to stay abreast of machine learning research by attending conferences and working with academic faculty and students. We cultivate a collaborative work environment, but allow solution autonomy on projects.
+Key Qualifications
+Strong working knowledge of machine learning algorithms including classifiers, clustering algorithms, and anomaly detection
+Strong programming skills in Scala, Java, Python, or similar language
+Experience working with SQL, Spark, or Hive preferred
+Excellent social, written, and verbal communication skills
+Confidence working independently and making key decisions on projects
+Industry experience preferred but exceptional fresh graduates may also apply
+Description
+Our team is responsible for tackling fraud, abuse & account security problems across Apple’s Internet Software and Services. You will work hand-in-hand with other engineers, program managers and business partners to identify problems, define solutions, execute plans, measure and communicate results on a regular basis.
+Education & Experience
+Ph.D. or Masters in a quantitative field, such as Computer Science, Applied Mathematics, or Statistics, or equivalent professional experience.
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants."
