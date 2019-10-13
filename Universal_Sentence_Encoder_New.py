@@ -109,7 +109,7 @@ with tf.Graph().as_default():
  
   with tf.Session() as session:
     session.run([tf.global_variables_initializer(), tf.tables_initializer()])
-    dataEngineer_embeddings = session.run(output)
+    statistician_embeddings = session.run(output)
     
 ## Database Admin Embeddings
 df = pd.read_csv('Database_Corpus.csv')
@@ -128,8 +128,24 @@ with tf.Graph().as_default():
     session.run([tf.global_variables_initializer(), tf.tables_initializer()])
     databaseAdmin_embeddings = session.run(output)
 
+np.savetxt("dataAnalyst_FV.csv", dataAnalyst_embeddings, delimiter=",")
+np.savetxt("dataScientist_FV.csv", dataScientist_embeddings, delimiter=",")
+np.savetxt("dataEngineer_FV.csv", dataEngineer_embeddings, delimiter=",")
+np.savetxt("statistician_FV.csv", statistician_embeddings, delimiter=",")
+np.savetxt("softwareEngineer_FV.csv", softwareEngineer_embeddings, delimiter=",")
+np.savetxt("database_FV.csv", databaseAdmin_embeddings, delimiter=",")
+
+
 
 '''
+tdf = pd.DataFrame(databaseAdmin_embeddings)
+tdf.to_csv(index=False, header=False)
+
+df['Feature_Vector'] = pd.Series(databaseAdmin_embeddings)
+
+df.append(pd.DataFrame(databaseAdmin_embeddings, columns=df.columns))
+
+
 # Add Feature Vectors to dataframe
 df['Feature_Vector'] = message_embeddings
 print(dummy)
