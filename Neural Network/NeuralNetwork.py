@@ -6,7 +6,6 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
-from sklearn.metrics import silhouette_score
 
 plt.style.use('ggplot')
 
@@ -35,20 +34,15 @@ def plot_history(history):
     plt.title('Training and validation loss')
     plt.legend()
     
-def clustering(data, cluster_number, visualize=False):
+def clustering(data, title, cluster_number, visualize=False, labels=None):
     if isinstance(data, pd.DataFrame):
-        data = np.array(df_DA)
+        data = np.array(data)
     #elif not isinstance(data, np.array):
      #   print("Data must be in an numpy array or pandas data frame")
     try:    
         kmeans = KMeans(n_clusters=cluster_number).fit(data)
     except Exception:
         print("Data must be in an numpy array or pandas data frame")
-        
-    try:
-        score = (silhouette_score(data, labels=kmeans.predict(data)))
-    except Exception as error:
-        print(error)
     
     if (visualize == True):
         # reduce word vector to 2D
@@ -58,26 +52,40 @@ def clustering(data, cluster_number, visualize=False):
         # reduce the centroids to 2D
         centroid = pca.transform(kmeans.cluster_centers_)
         
-        txt = "Plot of Component 1 and Component 2 reduced from a 512 features word vector using PCA"
+        fileName = "C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\{}_PCA_{}_Clusters.png".format(title, cluster_number)
         
         fig = plt.figure()
-        plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=kmeans.predict(data))
+        s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=kmeans.predict(data))
+        if labels is not None:
+            labels['C_label'] = kmeans.labels_
+            labels['Counter'] = 1
+            group_data = labels.groupby(['C_label','Label'])['Counter'].sum()
+            legend_label = []
+            for index,new_df in group_data.groupby(level=0):
+                legend_label.append(new_df.idxmax()[1])
+            plt.legend(*s.legend_elements())
+            plt.xlim(right=max(reduced_vector[:,0])+.3)
+            for i, v in enumerate(legend_label):
+                print("%i is %s" %(i,v))
         plt.scatter(centroid[:, 0], centroid[:,1], s=150, c='r')
-        plt.title('Score of number of clusters')
+        plt.title('PCA reduced vectors')
         plt.xlabel('Component 1')
         plt.ylabel('component 2')
-        fig.text(0,-.05,txt)
+        fig.savefig(fileName)
+        
+    #Sum of squared distances of samples to their closest cluster center.
+    score = kmeans.inertia_ 
     
     return score
-     
-def plot_score(score):
+
+
+def plot_score(score, title):
     #plot score for number of clusters
     
-    index = score.index(max(score))+2
-    minimum = max(score)
-    txt = "{} clusters has the minimum silhoutte score of {}".format(index, minimum)
+    caption = "Sum of squared distances of samples to their closest cluster center."
+    fileName = "C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\{}_Inertia_Score.png".format(title)
     
-    x = range(2, len(score) + 2)
+    x = range(1, len(score) + 1)
 
     
     fig = plt.figure()
@@ -85,15 +93,17 @@ def plot_score(score):
     plt.title('Score of number of clusters')
     plt.xlabel('Number of Clusters')
     plt.ylabel('Silhoutte Score')
-    fig.text(0,-.05,txt)
+    fig.text(0,-.05,caption)
+    fig.savefig(fileName)
     
-def find_number_of_clusters(data, last, first=2):
+def find_number_of_clusters(data, title, last, first=1):
     score = []
 
     for i in range(first,last):
-        score.append(clustering(data,i))
+        score.append(clustering(data, title, i))
     
-    plot_score(score)
+    plot_score(score, title)
+    
 
 
 #load Feature csv files
@@ -105,22 +115,41 @@ df_SE = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\
 df_ST = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\statistician_FV.csv', header=None)
 
 ########## KNN ClUSTERING ##########
-find_number_of_clusters(df_DA, 20)
-find_number_of_clusters(df_DB, 20)
-find_number_of_clusters(df_DE, 20)
-find_number_of_clusters(df_DS, 20)
-find_number_of_clusters(df_SE, 20)
-find_number_of_clusters(df_ST, 20)
+find_number_of_clusters(data=df_DA, title="DA", last=20)
+find_number_of_clusters(data=df_DB, title="DB", last=20)
+find_number_of_clusters(data=df_DE, title="DE", last=20)
+find_number_of_clusters(data=df_DS, title="DS", last=20)
+find_number_of_clusters(data=df_SE, title="SE", last=20)
+find_number_of_clusters(data=df_ST, title="ST", last=20)
 
-clustering(df_DS,2,True)
+clustering(data=df_DA, title="DA", cluster_number=3,visualize=True)
+clustering(data=df_DB, title="DB", cluster_number=3,visualize=True)
+clustering(data=df_DE, title="DE", cluster_number=3,visualize=True)
+clustering(data=df_DS, title="DS", cluster_number=3,visualize=True)
+clustering(data=df_SE, title="SE", cluster_number=3,visualize=True)
+clustering(data=df_ST, title="ST", cluster_number=3,visualize=True)
 
 #convert dataframe into matrix array and concantonate into one
-array = np.concatenate((np.array(df_DA), np.array(df_DB), np.array(df_DE), 
-                        np.array(df_DS), np.array(df_SE), np.array(df_ST)), axis=0)
+df_Combined = pd.concat([df_DA, df_DB, 
+                      df_DE, df_DS, 
+                      df_SE, df_ST])
 
-find_number_of_clusters(array, 20)
+find_number_of_clusters(df_Combined, "Combined", 20)
 
-clustering(array,2,True)
+#clustering with labels
+df_DA['Label'] = "DA"
+df_DB['Label'] = "DB"
+df_DE['Label'] = "DE"
+df_DS['Label'] = "DS"
+df_SE['Label'] = "SE"
+df_ST['Label'] = "ST"
+
+df_label = pd.DataFrame(pd.concat([df_DA['Label'], df_DB['Label'], 
+                      df_DE['Label'], df_DS['Label'], 
+                      df_SE['Label'], df_ST['Label']]))
+
+clustering(data=df_Combined, title="Combined", cluster_number=4,visualize=True)
+clustering(data=df_Combined, title="Combined", cluster_number=6,visualize=True, labels=df_label)
 
 
 ########## NEURAL NETWORK ##########
