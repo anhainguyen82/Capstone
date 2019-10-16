@@ -40,7 +40,7 @@ def clustering(data, title, cluster_number, visualize=False, labels=None):
     #elif not isinstance(data, np.array):
      #   print("Data must be in an numpy array or pandas data frame")
     try:    
-        kmeans = KMeans(n_clusters=cluster_number).fit(data)
+        kmeans = KMeans(n_clusters=cluster_number, random_state=2019).fit(data)
     except Exception:
         print("Data must be in an numpy array or pandas data frame")
     
@@ -60,13 +60,14 @@ def clustering(data, title, cluster_number, visualize=False, labels=None):
             labels['C_label'] = kmeans.labels_
             labels['Counter'] = 1
             group_data = labels.groupby(['C_label','Label'])['Counter'].sum()
+            group_data = group_data/group_data.groupby(level=1).sum()
             legend_label = []
             for index,new_df in group_data.groupby(level=0):
                 legend_label.append(new_df.idxmax()[1])
+            legend_label = pd.DataFrame(legend_label)
             plt.legend(*s.legend_elements())
             plt.xlim(right=max(reduced_vector[:,0])+.3)
-            for i, v in enumerate(legend_label):
-                print("%i is %s" %(i,v))
+            legend_label.to_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\legend.csv')
         plt.scatter(centroid[:, 0], centroid[:,1], s=150, c='r')
         plt.title('PCA reduced vectors')
         plt.xlabel('Component 1')
@@ -92,7 +93,7 @@ def plot_score(score, title):
     plt.plot(x, score)
     plt.title('Score of number of clusters')
     plt.xlabel('Number of Clusters')
-    plt.ylabel('Silhoutte Score')
+    plt.ylabel('Sum of Squared Distance')
     fig.text(0,-.05,caption)
     fig.savefig(fileName)
     
@@ -122,12 +123,12 @@ find_number_of_clusters(data=df_DS, title="DS", last=20)
 find_number_of_clusters(data=df_SE, title="SE", last=20)
 find_number_of_clusters(data=df_ST, title="ST", last=20)
 
-clustering(data=df_DA, title="DA", cluster_number=3,visualize=True)
-clustering(data=df_DB, title="DB", cluster_number=3,visualize=True)
-clustering(data=df_DE, title="DE", cluster_number=3,visualize=True)
-clustering(data=df_DS, title="DS", cluster_number=3,visualize=True)
-clustering(data=df_SE, title="SE", cluster_number=3,visualize=True)
-clustering(data=df_ST, title="ST", cluster_number=3,visualize=True)
+clustering(data=df_DA, title="DA", cluster_number=1,visualize=True)
+clustering(data=df_DB, title="DB", cluster_number=1,visualize=True)
+clustering(data=df_DE, title="DE", cluster_number=1,visualize=True)
+clustering(data=df_DS, title="DS", cluster_number=1,visualize=True)
+clustering(data=df_SE, title="SE", cluster_number=1,visualize=True)
+clustering(data=df_ST, title="ST", cluster_number=1,visualize=True)
 
 #convert dataframe into matrix array and concantonate into one
 df_Combined = pd.concat([df_DA, df_DB, 
