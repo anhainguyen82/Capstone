@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
+from sklearn.metrics import accuracy_score
 
 plt.style.use('ggplot')
 
@@ -34,7 +35,7 @@ def plot_history(history):
     plt.title('Training and validation loss')
     plt.legend()
     
-def clustering(data, title, cluster_number, visualize=False, labels=None):
+def clustering(data, cluster_number, title = None, visualize=False, labels=None):
     if isinstance(data, pd.DataFrame):
         data = np.array(data)
     #elif not isinstance(data, np.array):
@@ -43,6 +44,18 @@ def clustering(data, title, cluster_number, visualize=False, labels=None):
         kmeans = KMeans(n_clusters=cluster_number, random_state=2019).fit(data)
     except Exception:
         print("Data must be in an numpy array or pandas data frame")
+        
+    legend_label = []
+    if labels is not None:
+        labels = labels.copy()
+        labels['C_label'] = kmeans.labels_
+        labels['Counter'] = 1
+        group_data = labels.groupby(['C_label','Label'])['Counter'].sum()
+        group_data = group_data/group_data.groupby(level=1).sum()
+        for index,new_df in group_data.groupby(level=0):
+            legend_label.append(new_df.idxmax()[1])
+        legend_label = pd.DataFrame(legend_label)
+        legend_label.to_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\legend.csv')
     
     if (visualize == True):
         # reduce word vector to 2D
@@ -52,22 +65,16 @@ def clustering(data, title, cluster_number, visualize=False, labels=None):
         # reduce the centroids to 2D
         centroid = pca.transform(kmeans.cluster_centers_)
         
-        fileName = "C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\{}_PCA_{}_Clusters.png".format(title, cluster_number)
+        if title is not None:    
+            fileName = "C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\{}_PCA_{}_Clusters.png".format(title, cluster_number)
+        else:
+            print("Must enter a title for plot to be saved.")
         
         fig = plt.figure()
         s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=kmeans.predict(data))
         if labels is not None:
-            labels['C_label'] = kmeans.labels_
-            labels['Counter'] = 1
-            group_data = labels.groupby(['C_label','Label'])['Counter'].sum()
-            group_data = group_data/group_data.groupby(level=1).sum()
-            legend_label = []
-            for index,new_df in group_data.groupby(level=0):
-                legend_label.append(new_df.idxmax()[1])
-            legend_label = pd.DataFrame(legend_label)
             plt.legend(*s.legend_elements())
             plt.xlim(right=max(reduced_vector[:,0])+.3)
-            legend_label.to_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\legend.csv')
         plt.scatter(centroid[:, 0], centroid[:,1], s=150, c='r')
         plt.title('PCA reduced vectors')
         plt.xlabel('Component 1')
@@ -77,7 +84,7 @@ def clustering(data, title, cluster_number, visualize=False, labels=None):
     #Sum of squared distances of samples to their closest cluster center.
     score = kmeans.inertia_ 
     
-    return score
+    return {'score': score, 'model':kmeans, 'legend':np.array(legend_label), 'labels':kmeans.labels_}
 
 
 def plot_score(score, title):
@@ -115,6 +122,14 @@ df_DS = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\
 df_SE = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\softwareEngineer_FV.csv', header=None)
 df_ST = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\statistician_FV.csv', header=None)
 
+#sanity check
+df_DA.shape
+df_DB.shape
+df_DE.shape
+df_DS.shape
+df_SE.shape
+df_ST.shape
+
 ########## KNN ClUSTERING ##########
 find_number_of_clusters(data=df_DA, title="DA", last=20)
 find_number_of_clusters(data=df_DB, title="DB", last=20)
@@ -134,6 +149,9 @@ clustering(data=df_ST, title="ST", cluster_number=1,visualize=True)
 df_Combined = pd.concat([df_DA, df_DB, 
                       df_DE, df_DS, 
                       df_SE, df_ST])
+    
+#sanity check
+df_Combined.shape
 
 find_number_of_clusters(df_Combined, "Combined", 20)
 
@@ -145,18 +163,59 @@ df_DS['Label'] = "DS"
 df_SE['Label'] = "SE"
 df_ST['Label'] = "ST"
 
+#sanity check
+df_DA.shape
+df_DB.shape
+df_DE.shape
+df_DS.shape
+df_SE.shape
+df_ST.shape
+
 df_label = pd.DataFrame(pd.concat([df_DA['Label'], df_DB['Label'], 
                       df_DE['Label'], df_DS['Label'], 
                       df_SE['Label'], df_ST['Label']]))
+#sanity check
+df_label.shape
 
 clustering(data=df_Combined, title="Combined", cluster_number=4,visualize=True)
-clustering(data=df_Combined, title="Combined", cluster_number=6,visualize=True, labels=df_label)
+full_dataset = clustering(data=df_Combined, title="Combined", cluster_number=6,visualize=True, labels=df_label)
 
+#train/test split
+x_train, x_test, y_train, y_test = train_test_split(df_Combined, df_label, test_size=0.25, random_state=2019)
 
+predicted_labels=[]
+for index, label in enumerate(full_dataset['labels']):
+    predicted_labels.append(np.take(full_dataset['legend'], label))
+    
+#get train accuracy score of KNN prediction  
+print("Accuracy:  {:.2f}%".format(accuracy_score(df_label, predicted_labels)*100))
+
+#create KNN model object with training data
+trained_KNN = clustering(data=x_train, labels=y_train, cluster_number=6)
+#predict labels with x_test
+test=trained_KNN['model'].predict(x_test)
+
+#assign labels using legend provided by object
+train_predicted_labels=[]
+for index, label in enumerate(trained_KNN['labels']):
+    train_predicted_labels.append(np.take(trained_KNN['legend'], label))
+    
+test_predicted_labels=[]
+for index, label in enumerate(test):
+    test_predicted_labels.append(np.take(trained_KNN['legend'], label))
+
+#get train accuracy score of KNN prediction  
+print("Testing Accuracy:  {:.2f}%".format(accuracy_score(y_train, train_predicted_labels)*100))
+#get test accuracy score of KNN prediction    
+print("Testing Accuracy:  {:.2f}%".format(accuracy_score(y_test, test_predicted_labels)*100))
+
+    
 ########## NEURAL NETWORK ##########
 #convert dataframe into matrix array and concantonate into one
 array = np.concatenate((np.array(df_DA), np.array(df_DB), np.array(df_DE), 
                         np.array(df_DS), np.array(df_SE), np.array(df_ST)), axis=0)
+
+
 
 array.shape #sanity check
 
@@ -174,8 +233,6 @@ label = np.concatenate((np.array(df_DA['Label']), np.array(df_DB['Label']), np.a
 
 label.shape #sanity check
 
-#train/test split
-x_train, x_test, y_train, y_test = train_test_split(array, label, test_size=0.25, random_state=1000)
 
 #neural network
 model = Sequential()
