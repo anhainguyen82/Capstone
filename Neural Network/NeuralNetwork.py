@@ -71,7 +71,8 @@ def clustering(data, cluster_number, title = None, visualize=False, labels=None)
             print("Must enter a title for plot to be saved.")
         
         fig = plt.figure()
-        s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=kmeans.predict(data))
+        prediction = kmeans.predict(data)
+        s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=prediction)
         if labels is not None:
             plt.legend(*s.legend_elements())
             plt.xlim(right=max(reduced_vector[:,0])+.3)
@@ -84,7 +85,8 @@ def clustering(data, cluster_number, title = None, visualize=False, labels=None)
     #Sum of squared distances of samples to their closest cluster center.
     score = kmeans.inertia_ 
     
-    return {'score': score, 'model':kmeans, 'legend':np.array(legend_label), 'labels':kmeans.labels_}
+    return {'score': score, 'model':kmeans, 'legend':np.array(legend_label), 'labels':kmeans.labels_,
+            'x': reduced_vector[:,0], 'y':reduced_vector[:,1], 'c':prediction}
 
 
 def plot_score(score, title):
@@ -155,7 +157,40 @@ df_Combined.shape
 
 find_number_of_clusters(df_Combined, "Combined", 20)
 
-#clustering with labels
+#label datasets with 1 for DS and 0 for non-DS
+df_DA['Label'] = 0
+df_DB['Label'] = 0
+df_DE['Label'] = 0
+df_DS['Label'] = 1
+df_SE['Label'] = 0
+df_ST['Label'] = 0
+
+#sanity check
+df_DA.shape
+df_DB.shape
+df_DE.shape
+df_DS.shape
+df_SE.shape
+df_ST.shape
+
+df_label_2 = pd.DataFrame(pd.concat([df_DA['Label'], df_DB['Label'], 
+                      df_DE['Label'], df_DS['Label'], 
+                      df_SE['Label'], df_ST['Label']]))
+#sanity check
+df_label_2.shape
+
+#cluster
+full_dataset_2 = clustering(data=df_Combined, title="Combined_2Clusters", cluster_number=2,visualize=True, labels=df_label_2)
+
+#find accuracy score
+predicted_labels=[]
+for index, label in enumerate(full_dataset_2['labels']):
+    predicted_labels.append(np.take(full_dataset_2['legend'], label))
+    
+#get train accuracy score of KNN prediction  
+print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_2, predicted_labels)*100))
+
+#label dataset with job titles
 df_DA['Label'] = "DA"
 df_DB['Label'] = "DB"
 df_DE['Label'] = "DE"
@@ -171,24 +206,28 @@ df_DS.shape
 df_SE.shape
 df_ST.shape
 
-df_label = pd.DataFrame(pd.concat([df_DA['Label'], df_DB['Label'], 
+df_label_6 = pd.DataFrame(pd.concat([df_DA['Label'], df_DB['Label'], 
                       df_DE['Label'], df_DS['Label'], 
                       df_SE['Label'], df_ST['Label']]))
 #sanity check
-df_label.shape
+df_label_6.shape
 
+#cluster
 clustering(data=df_Combined, title="Combined", cluster_number=4,visualize=True)
-full_dataset = clustering(data=df_Combined, title="Combined", cluster_number=6,visualize=True, labels=df_label)
+full_dataset = clustering(data=df_Combined, title="Combined", cluster_number=6,visualize=True, labels=df_label_6)
 
-#train/test split
-x_train, x_test, y_train, y_test = train_test_split(df_Combined, df_label, test_size=0.25, random_state=2019)
-
+#find accuracy score
 predicted_labels=[]
 for index, label in enumerate(full_dataset['labels']):
     predicted_labels.append(np.take(full_dataset['legend'], label))
     
 #get train accuracy score of KNN prediction  
-print("Accuracy:  {:.2f}%".format(accuracy_score(df_label, predicted_labels)*100))
+print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_6, predicted_labels)*100))
+
+#train/test split
+x_train, x_test, y_train, y_test = train_test_split(df_Combined, df_label_6, test_size=0.25, random_state=2019)
+
+
 
 #create KNN model object with training data
 trained_KNN = clustering(data=x_train, labels=y_train, cluster_number=6)
