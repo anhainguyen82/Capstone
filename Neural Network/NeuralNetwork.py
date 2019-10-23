@@ -57,10 +57,12 @@ def clustering(data, cluster_number, title = None, visualize=False, labels=None)
         legend_label = pd.DataFrame(legend_label)
         legend_label.to_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\legend.csv')
     
+    # reduce word vector to 2D
+    pca = PCA(n_components=2)
+    reduced_vector = pca.fit_transform(data)
+    prediction = kmeans.predict(data)
+        
     if (visualize == True):
-        # reduce word vector to 2D
-        pca = PCA(n_components=2)
-        reduced_vector = pca.fit_transform(data)
             
         # reduce the centroids to 2D
         centroid = pca.transform(kmeans.cluster_centers_)
@@ -71,7 +73,6 @@ def clustering(data, cluster_number, title = None, visualize=False, labels=None)
             print("Must enter a title for plot to be saved.")
         
         fig = plt.figure()
-        prediction = kmeans.predict(data)
         s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=prediction)
         if labels is not None:
             plt.legend(*s.legend_elements())
@@ -227,8 +228,6 @@ print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_6, predicted_labels)*1
 #train/test split
 x_train, x_test, y_train, y_test = train_test_split(df_Combined, df_label_6, test_size=0.25, random_state=2019)
 
-
-
 #create KNN model object with training data
 trained_KNN = clustering(data=x_train, labels=y_train, cluster_number=6)
 #predict labels with x_test
@@ -250,46 +249,56 @@ print("Testing Accuracy:  {:.2f}%".format(accuracy_score(y_test, test_predicted_
 
     
 ########## NEURAL NETWORK ##########
-#convert dataframe into matrix array and concantonate into one
-array = np.concatenate((np.array(df_DA), np.array(df_DB), np.array(df_DE), 
-                        np.array(df_DS), np.array(df_SE), np.array(df_ST)), axis=0)
+#sanity check
+df_Combined.shape
+df_label_2.shape
 
+#PCA transformation of df_Combined
+pca = PCA(n_components=2)
+reduced_vector = pca.fit_transform(df_Combined)
 
-
-array.shape #sanity check
-
-#add labels, Data Scientist jobs are 1 all others 0
-df_DA['Label'] = 0
-df_DB['Label'] = 0
-df_DE['Label'] = 0
-df_DS['Label'] = 1
-df_SE['Label'] = 0
-df_ST['Label'] = 0
-
-#convert dataframe into matrix array and concantonate into one
-label = np.concatenate((np.array(df_DA['Label']), np.array(df_DB['Label']), np.array(df_DE['Label']), 
-                        np.array(df_DS['Label']), np.array(df_SE['Label']), np.array(df_ST['Label'])), axis=0)
-
-label.shape #sanity check
-
+#train/test split
+x_train, x_test, y_train, y_test = train_test_split(df_Combined, 
+                                                    df_label_2, 
+                                                    test_size=0.25, 
+                                                    random_state=2019)
 
 #neural network
 model = Sequential()
-model.add(layers.Dense(10, activation='relu'))
-model.add(layers.Dense(1, activation='sigmoid'))
+model.add(layers.Dense(1000, input_dim = 512, activation='relu'))
+#model.add(layers.Dense(1000, activation='relu'))
+#model.add(layers.Dense(1000, activation='relu'))
+model.add(layers.Dense(1, activation='sigmoid')) #sigmoid for binary class
 model.compile(optimizer='adam',
-              loss='binary_crossentropy',
+              loss='binary_crossentropy', #cross entropy for binary class
               metrics=['accuracy'])
 
-
-history = model.fit(x_train, y_train,
+history = model.fit(np.array(x_train), np.array(y_train),
                     epochs=30,
                     verbose=False,
-                    validation_data=(x_test, y_test),
+                    validation_data=(np.array(x_test), np.array(y_test)),
                     batch_size=50)
 
 plot_history(history)
+
+results = model.predict_classes(np.array(df_Combined))
 model.summary()
+
+
+
+
+
+results = model.predict_classes(np.array(df_Combined))
+
+
+model = Sequential()
+model.add(layers.Dense(512, activation='relu'))
+model.add(layers.Dense(6, activation='softmax')) #softmax for multiple classes
+model.compile(optimizer='adam',
+              loss='categorical_crossentropy', #categorical_crossentropy for multiple classes
+              metrics=['accuracy'])
+
+results = model.predict_classes(np.array(df_Combined))
 
 
 
