@@ -301,10 +301,14 @@ model.summary()
 print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_2, results_2)*100))
 
 #visualize results
+colors = []
+for value in results_2:
+    if value == 0:
+        colors.append("#fde725")
+    else:
+        colors.append("#440154")
 fig = plt.figure()
-s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=results_2[:,0])
-plt.legend(*s.legend_elements())
-plt.xlim(right=max(reduced_vector[:,0])+.3)
+s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=colors)
 plt.title('PCA reduced vectors')
 plt.xlabel('Component 1')
 plt.ylabel('component 2')
@@ -355,10 +359,22 @@ model.summary()
 print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_6.codes, results_6)*100))
 
 #visualize results
+colors = []
+for value in results_6:
+    if value == 0:
+        colors.append("#2a788e")
+    elif value == 1:
+        colors.append("#fde725")
+    elif value == 2:
+        colors.append("#22a884")
+    elif value == 3:
+        colors.append("#414487")
+    elif value == 4:
+        colors.append("#440154")
+    else:
+        colors.append("#7ad151")
 fig = plt.figure()
-s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=results_6)
-plt.legend(*s.legend_elements())
-plt.xlim(right=max(reduced_vector[:,0])+.3)
+s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=colors)
 plt.title('PCA reduced vectors')
 plt.xlabel('Component 1')
 plt.ylabel('component 2')
