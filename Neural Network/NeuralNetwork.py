@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn.metrics import accuracy_score
+from keras import optimizers
 
 plt.style.use('ggplot')
 
@@ -264,12 +265,12 @@ x_train, x_test, y_train, y_test = train_test_split(df_Combined,
                                                     random_state=2019)
 
 #neural network
+#tunable: unit in first layer, additional layers, dropout rates inbetween layers
+#optimizer learning rate, batch size 
 model = Sequential()
-model.add(layers.Dense(1000, input_dim = 512, activation='relu'))
-#model.add(layers.Dense(1000, activation='relu'))
-#model.add(layers.Dense(1000, activation='relu'))
+model.add(layers.Dense(256, input_dim = 512, activation='relu'))
 model.add(layers.Dense(1, activation='sigmoid')) #sigmoid for binary class
-model.compile(optimizer='adam',
+model.compile(optimizer=optimizers.Adam(learning_rate=0.001),
               loss='binary_crossentropy', #cross entropy for binary class
               metrics=['accuracy'])
 
@@ -277,29 +278,91 @@ history = model.fit(np.array(x_train), np.array(y_train),
                     epochs=30,
                     verbose=False,
                     validation_data=(np.array(x_test), np.array(y_test)),
-                    batch_size=50)
+                    batch_size=75)
 
 plot_history(history)
 
-results = model.predict_classes(np.array(df_Combined))
+#model remains at 90% accuracy (levels off at ~15 epochs), not able to find parameters to increase
+model = Sequential()
+model.add(layers.Dense(256, input_dim = 512, activation='relu'))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(optimizer=optimizers.Adam(learning_rate=0.001),
+              loss='binary_crossentropy',
+              metrics=['accuracy'])
+model.fit(np.array(df_Combined), np.array(df_label_2),
+                    epochs=15,
+                    verbose=False,
+                    batch_size=75)
+
+results_2 = model.predict_classes(np.array(df_Combined))
 model.summary()
 
+#get train accuracy score of NN prediction  
+print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_2, results_2)*100))
 
+#visualize results
+fig = plt.figure()
+s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=results_2[:,0])
+plt.legend(*s.legend_elements())
+plt.xlim(right=max(reduced_vector[:,0])+.3)
+plt.title('PCA reduced vectors')
+plt.xlabel('Component 1')
+plt.ylabel('component 2')
+fig.savefig("C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\NN_2_clusters.png")
 
+#categorize labels
+df_label_6 = pd.Categorical(df_label_6['Label'])
 
-
-results = model.predict_classes(np.array(df_Combined))
-
-
+#train/test split
+x_train, x_test, y_train, y_test = train_test_split(df_Combined, 
+                                                    df_label_6.codes, 
+                                                    test_size=0.25, 
+                                                    random_state=2019)
+#neural network
+#tunable: unit in first layer, additional layers, dropout rates inbetween layers
+#optimizer learning rate, batch size 
 model = Sequential()
-model.add(layers.Dense(512, activation='relu'))
+model.add(layers.Dense(512, input_dim = 512, activation='relu'))
 model.add(layers.Dense(6, activation='softmax')) #softmax for multiple classes
-model.compile(optimizer='adam',
-              loss='categorical_crossentropy', #categorical_crossentropy for multiple classes
+model.compile(optimizer=optimizers.Adam(learning_rate=0.001),
+              loss='sparse_categorical_crossentropy', #sparse_categorical_crossentropy for multiple classes, intergers as labels
               metrics=['accuracy'])
 
-results = model.predict_classes(np.array(df_Combined))
+history = model.fit(np.array(x_train), np.array(y_train),
+                    epochs=30,
+                    verbose=False,
+                    validation_data=(np.array(x_test), np.array(y_test)),
+                    batch_size=75)
 
+plot_history(history)
+
+model = Sequential()
+model.add(layers.Dense(512, input_dim = 512, activation='relu'))
+model.add(layers.Dense(6, activation='softmax')) #softmax for multiple classes
+model.compile(optimizer=optimizers.Adam(learning_rate=0.001),
+              loss='sparse_categorical_crossentropy', #sparse_categorical_crossentropy for multiple classes, intergers as labels
+              metrics=['accuracy'])
+
+model.fit(np.array(df_Combined), np.array(df_label_6.codes),
+                    epochs=15,
+                    verbose=False,
+                    batch_size=75)
+
+results_6 = model.predict_classes(np.array(df_Combined))
+model.summary()
+
+#get train accuracy score of NN prediction  
+print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_6.codes, results_6)*100))
+
+#visualize results
+fig = plt.figure()
+s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=results_6)
+plt.legend(*s.legend_elements())
+plt.xlim(right=max(reduced_vector[:,0])+.3)
+plt.title('PCA reduced vectors')
+plt.xlabel('Component 1')
+plt.ylabel('component 2')
+fig.savefig("C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\NN_6_clusters.png")
 
 
 
