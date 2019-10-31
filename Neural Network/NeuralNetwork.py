@@ -257,6 +257,8 @@ df_label_2.shape
 #PCA transformation of df_Combined
 pca = PCA(n_components=2)
 reduced_vector = pca.fit_transform(df_Combined)
+reduced_vector = pca.fit_transform(df_DS)
+
 
 #train/test split
 x_train, x_test, y_train, y_test = train_test_split(df_Combined, 
@@ -300,9 +302,21 @@ model.summary()
 #get train accuracy score of NN prediction  
 print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_2, results_2)*100))
 
+ds_label = pd.Categorical(df_DS['Label'])
+
+model.fit(np.array(df_DS), np.array(ds_label.codes),
+                    epochs=15,
+                    verbose=False,
+                    batch_size=75)
+
+results_ds = model.predict_classes(np.array(df_DS))
+
+#get train accuracy score of NN prediction  
+print("Accuracy:  {:.2f}%".format(accuracy_score(ds_label.codes, results_ds)*100))
+
 #visualize results
 colors = []
-for value in results_2:
+for value in results_ds:
     if value == 0:
         colors.append("#fde725")
     else:
@@ -312,7 +326,7 @@ s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=colors)
 plt.title('PCA reduced vectors')
 plt.xlabel('Component 1')
 plt.ylabel('component 2')
-fig.savefig("C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\NN_2_clusters.png")
+fig.savefig("C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\NN_ds_binary_clusters.png")
 
 #categorize labels
 df_label_6 = pd.Categorical(df_label_6['Label'])
@@ -347,13 +361,14 @@ model.compile(optimizer=optimizers.Adam(learning_rate=0.001),
               loss='sparse_categorical_crossentropy', #sparse_categorical_crossentropy for multiple classes, intergers as labels
               metrics=['accuracy'])
 
-model.fit(np.array(df_Combined), np.array(df_label_6.codes),
+model.fit(np.array(df_DS), np.array(ds_label.codes),
                     epochs=15,
                     verbose=False,
                     batch_size=75)
 
 results_6 = model.predict_classes(np.array(df_Combined))
 model.summary()
+
 
 #get train accuracy score of NN prediction  
 print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_6.codes, results_6)*100))
@@ -378,7 +393,7 @@ s = plt.scatter(reduced_vector[:,0], reduced_vector[:,1], c=colors)
 plt.title('PCA reduced vectors')
 plt.xlabel('Component 1')
 plt.ylabel('component 2')
-fig.savefig("C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\NN_6_clusters.png")
+fig.savefig("C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\NN_ds_6_clusters.png")
 
 
 
