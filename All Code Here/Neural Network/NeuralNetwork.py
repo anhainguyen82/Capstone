@@ -56,7 +56,7 @@ def clustering(data, cluster_number, title = None, visualize=False, labels=None)
         for index,new_df in group_data.groupby(level=0):
             legend_label.append(new_df.idxmax()[1])
         legend_label = pd.DataFrame(legend_label)
-        legend_label.to_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\legend.csv')
+        legend_label.to_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\All Code Here\\Neural Network\\legend.csv')
     
     # reduce word vector to 2D
     pca = PCA(n_components=2)
@@ -69,7 +69,7 @@ def clustering(data, cluster_number, title = None, visualize=False, labels=None)
         centroid = pca.transform(kmeans.cluster_centers_)
         
         if title is not None:    
-            fileName = "C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\{}_PCA_{}_Clusters.png".format(title, cluster_number)
+            fileName = "C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\All Code Here\\Neural Network\\{}_PCA_{}_Clusters.png".format(title, cluster_number)
         else:
             print("Must enter a title for plot to be saved.")
         
@@ -95,7 +95,7 @@ def plot_score(score, title):
     #plot score for number of clusters
     
     caption = "Sum of squared distances of samples to their closest cluster center."
-    fileName = "C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Neural Network\\{}_Inertia_Score.png".format(title)
+    fileName = "C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\All Code Here\\Neural Network\\{}_Inertia_Score.png".format(title)
     
     x = range(1, len(score) + 1)
 
@@ -119,12 +119,12 @@ def find_number_of_clusters(data, title, last, first=1):
 
 
 #load Feature csv files
-df_DA = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\dataAnalyst_FV.csv', header=None)
-df_DB = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\database_FV.csv', header=None)
-df_DE = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\dataEngineer_FV.csv', header=None)
-df_DS = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\dataScientist_FV.csv', header=None)
-df_SE = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\softwareEngineer_FV.csv', header=None)
-df_ST = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\Feature Vectors\\statistician_FV.csv', header=None)
+df_DA = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\All Code Here\\Feature Vectors\\dataAnalyst_FV.csv', header=None)
+df_DB = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\All Code Here\\Feature Vectors\\database_FV.csv', header=None)
+df_DE = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\All Code Here\\Feature Vectors\\dataEngineer_FV.csv', header=None)
+df_DS = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\All Code Here\\Feature Vectors\\dataScientist_FV.csv', header=None)
+df_SE = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\All Code Here\\Feature Vectors\\softwareEngineer_FV.csv', header=None)
+df_ST = pd.read_csv('C:\\Users\\anhai\\Desktop\\SMU\\Capstone\\All Code Here\\Feature Vectors\\statistician_FV.csv', header=None)
 
 #sanity check
 df_DA.shape
@@ -302,7 +302,7 @@ model.summary()
 #get train accuracy score of NN prediction  
 print("Accuracy:  {:.2f}%".format(accuracy_score(df_label_2, results_2)*100))
 
-ds_label = pd.Categorical(df_DS['Label'])
+ds_label = pd.Categorical(df_label_6['Label'])
 
 model.fit(np.array(df_DS), np.array(ds_label.codes),
                     epochs=15,
@@ -361,7 +361,7 @@ model.compile(optimizer=optimizers.Adam(learning_rate=0.001),
               loss='sparse_categorical_crossentropy', #sparse_categorical_crossentropy for multiple classes, intergers as labels
               metrics=['accuracy'])
 
-model.fit(np.array(df_DS), np.array(ds_label.codes),
+model.fit(np.array(df_Combined), np.array(df_label_6.codes),
                     epochs=15,
                     verbose=False,
                     batch_size=75)
