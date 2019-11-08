@@ -340,7 +340,7 @@ x_train, x_test, y_train, y_test = train_test_split(df_Combined,
 #tunable: unit in first layer, additional layers, dropout rates inbetween layers
 #optimizer learning rate, batch size 
 model = Sequential()
-model.add(layers.Dense(512, input_dim = 512, activation='relu'))
+model.add(layers.Dense(256, input_dim = 512, activation='relu'))
 model.add(layers.Dense(6, activation='softmax')) #softmax for multiple classes
 model.compile(optimizer=optimizers.Adam(learning_rate=0.001),
               loss='sparse_categorical_crossentropy', #sparse_categorical_crossentropy for multiple classes, intergers as labels
